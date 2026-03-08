@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>YT Digest — Finance</title>
+    <link>https://peter-hollis-orkastrate.github.io/podcast-feed</link>
+    <description>Condensed YouTube summaries — Finance</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Mar 2026 17:54:38 +0000</lastBuildDate>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>IFS - Replacing UK Fiscal Rules</title>
+      <description>The UK's fiscal rules aren't working. The Office for Budget Responsibility published a report last year saying the public finances are vulnerable, that the scale of risks is daunting. They forecast debt rising to over 270% of national income in our lifetimes under current plans. So what's going wrong?
+
+The UK currently has two main fiscal rules — one saying day-to-day borrowing should stop so we only borrow to invest, and one saying a measure of debt should be falling by the end of parliament. T...</description>
+      <guid isPermaLink="false">XmeGpSaQ9YA</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-02-19 - replacing-uk-fiscal-rules.mp3" length="2666160" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Fiscal Forecast Downside Risks</title>
+      <description>So we had a spring forecast, and it was mercifully just a forecast and not a fiscal event. Rachel Reeves deserves credit for resisting the temptation to announce new policy, especially with May elections looming. The big picture hasn't changed much since November. There's been a modest improvement in the borrowing outlook — stronger tax receipts and lower debt interest spending, offset by a weakening labor market and higher spending on things like special educational needs. Borrowing remains hig...</description>
+      <guid isPermaLink="false">RtAEI-sVgmM</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-03-04 - uk-fiscal-forecast-downside-risks.mp3" length="3000096" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>YT Digest — Quantum</title>
+    <link>https://peter-hollis-orkastrate.github.io/podcast-feed</link>
+    <description>Condensed YouTube summaries — Quantum</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Mar 2026 17:54:38 +0000</lastBuildDate>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
+      <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
+
+Let's start with the biggest industry development. Quantinuum launched its Helios quantum computer in November, calling it the most accurate commercial system available. The company's lead architect, Anthony Ransford, made the striking claim that you'd need to harvest every star in the universe to p...</description>
+      <guid isPermaLink="false">daily-quantum-20260308</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-08.mp3" length="2669040" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

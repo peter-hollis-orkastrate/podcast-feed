@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>YT Digest — Compliance</title>
+    <link>https://peter-hollis-orkastrate.github.io/podcast-feed</link>
+    <description>Condensed YouTube summaries — Compliance</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Mar 2026 17:54:38 +0000</lastBuildDate>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
+      <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
+
+The 2026 edition of eflow's Global Trends in Market Abuse and Trade Surveillance report is now live, drawing on enforcement data and input from over 300 regulatory professionals. The headline numbers demand attention. Fifty percent of all fines issued globally were related to trade surveillance system and controls failures. That's not insider dealin...</description>
+      <guid isPermaLink="false">daily-compliance-20260308</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-08.mp3" length="2820528" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

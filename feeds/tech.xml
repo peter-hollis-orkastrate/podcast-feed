@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>YT Digest — Tech</title>
+    <link>https://peter-hollis-orkastrate.github.io/podcast-feed</link>
+    <description>Condensed YouTube summaries — Tech</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Mar 2026 17:54:38 +0000</lastBuildDate>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
+      <description>Last Friday night, while Dario Amodei was drafting his principled stand against the Pentagon, Sam Altman announced OpenAI had signed a deal to deploy models on classified defense networks. Hours later, the US and Israel began bombing Iran. By Saturday, Claude was number one in the app store and Anthropic was designated a supply chain risk to national security — an action never before taken against an American company. These events are connected by a logic most commentary has missed.
+
+Dario misre...</description>
+      <guid isPermaLink="false">pTtueIqrg0Q</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-03 - openais-pentagon-power-play.mp3" length="3852144" type="audio/mpeg"/>
+      <pubDate>Tue, 03 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Claude vs ChatGPT: Real Differences</title>
+      <description>Millions of people just downloaded Claude after the Anthropic-Pentagon story, and almost all of them are going to treat it as a drop-in replacement for ChatGPT. That's a mistake. These are not interchangeable brands — they're built differently, trained differently, and optimized for different things. Switching with the same habits is like going from Excel to Photoshop and wondering where the spreadsheets went.
+
+Here's what's actually different. ChatGPT is trained heavily on user feedback — thumb...</description>
+      <guid isPermaLink="false">O7SSQfiPDXA</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-04 - claude-vs-chatgpt-real-differences.mp3" length="2418480" type="audio/mpeg"/>
+      <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Enterprise Context Layer Lock-In</title>
+      <description>The most expensive bet in history is an AI bet, but it's not about the model. OpenAI engineers leaked GPT-5.4's existence on GitHub and the internet predictably made it all about the model — prediction markets, hype threads, generational leap speculation. I don't care about the model. Neither should you. It's a component of something far larger.
+
+Here's the thesis: the company that first makes enterprise-scale context genuinely usable — stored, retrievable, reasoned about, acted upon at a trilli...</description>
+      <guid isPermaLink="false">JYcidOS9ozU</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-05 - enterprise-context-layer-lock-in.mp3" length="3847248" type="audio/mpeg"/>
+      <pubDate>Thu, 05 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - AI Harnesses Are the Real Decision</title>
+      <description>AI harnesses are shaping your working life and nobody's talking about them enough. When you use a coding agent like Claude Code or Codex, you're interacting with two things: the model — the intelligence — and everything else. Where does the AI do its work? Does it remember what you were building? Can it reach your project management tools, your test systems? That everything else is the harness. The model determines how smart your AI is. The harness determines how usefully it fits into your work ...</description>
+      <guid isPermaLink="false">09sFAO7pklo</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-06 - ai-harnesses-are-the-real-decision.mp3" length="2892528" type="audio/mpeg"/>
+      <pubDate>Fri, 06 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - GPT 5.4 Agentic Strengths and Judgment Gaps</title>
+      <description>I asked GPT 5.4 thinking mode a simple question: I need to wash my car, the car wash is 100 meters away, should I walk or drive? It said walk. Every other frontier model — Claude Opus 4.6, Gemini 3.1 Pro — got it right immediately. Drive, you need the car at the car wash. The model OpenAI just positioned as its most capable system for professional work produced a careful, well-structured, completely wrong answer to a question a child would get right.
+
+But it's not that simple. I ran blind evals ...</description>
+      <guid isPermaLink="false">-_vL1KXd2rc</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-07 - gpt-54-agentic-strengths-and-judgment-gaps.mp3" length="3113856" type="audio/mpeg"/>
+      <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
