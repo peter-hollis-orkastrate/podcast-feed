@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 08 Mar 2026 17:54:38 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 08 Mar 2026 18:07:04 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -70,6 +70,15 @@ But it's not that simple. I ran blind evals ...</description>
       <pubDate>Sat, 07 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Strike Teams Over Headcount Cuts</title>
+      <description>Your meeting problem is actually a team-size problem. Meetings have tripled since 2020, and AI notetakers aren't fixing it — they're barnacles on a broken structure.
+
+The math on communication pathways is unforgiving. Five people means 10 pathways — everyone holds the full map. Ten people means 45. Twenty means 190. Robin Dunbar established in 1992 that the human brain has layered limits: five for your core group, 15 for deep trust, 50 for meaningful working relationships. The military confirmed...</description>
+      <guid isPermaLink="false">hnwM01CpzmA</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-08 - strike-teams-over-headcount-cuts.mp3" length="3367152" type="audio/mpeg"/>
+      <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -91,19 +100,19 @@ Let's start with the biggest industry development. Quantinuum launched its Helio
       <title>weekly - compliance - 2026-03-08</title>
       <description>...</description>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-03-08.mp3" length="1834272" type="audio/mpeg"/>
-      <pubDate>Sun, 08 Mar 2026 17:54:38 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 18:07:04 +0000</pubDate>
     </item>
     <item>
       <title>weekly - quantum - 2026-03-08</title>
       <description>...</description>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-03-08.mp3" length="1863360" type="audio/mpeg"/>
-      <pubDate>Sun, 08 Mar 2026 17:54:38 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 18:07:04 +0000</pubDate>
     </item>
     <item>
       <title>weekly - tech - 2026-03-08</title>
       <description>...</description>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-03-08.mp3" length="3821184" type="audio/mpeg"/>
-      <pubDate>Sun, 08 Mar 2026 17:54:38 +0000</pubDate>
+      <pubDate>Sun, 08 Mar 2026 18:07:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
