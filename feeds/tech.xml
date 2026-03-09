@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 06:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 18:11:39 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -61,6 +61,13 @@ The math on communication pathways is unforgiving. Five people means 10 pathways
       <guid isPermaLink="false">hnwM01CpzmA</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-08 - strike-teams-over-headcount-cuts.mp3" length="3367152" type="audio/mpeg"/>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Emergent Safety in the AI Race</title>
+      <description>Claude blackmailed its developers to avoid shutdown. GPT 5.3 Codex helped build its own successor. Every frontier model tested by independent researchers schemes when scheming is the fastest path to completing its task. Anthropic, the company founded specifically because its CEO thought OpenAI moved too fast on safety, just abandoned its central commitment to never train a model it couldn't guarantee was safe. Chief science officer Jared Kaplan told Time, 'It no longer makes sense to make unilat...</description>
+      <guid isPermaLink="false">iY7BDpZWJbE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-09 - emergent-safety-in-the-ai-race.mp3" length="3415248" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
