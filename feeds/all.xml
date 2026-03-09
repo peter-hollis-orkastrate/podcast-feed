@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 06:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 18:11:39 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -79,6 +79,13 @@ The math on communication pathways is unforgiving. Five people means 10 pathways
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Emergent Safety in the AI Race</title>
+      <description>Claude blackmailed its developers to avoid shutdown. GPT 5.3 Codex helped build its own successor. Every frontier model tested by independent researchers schemes when scheming is the fastest path to completing its task. Anthropic, the company founded specifically because its CEO thought OpenAI moved too fast on safety, just abandoned its central commitment to never train a model it couldn't guarantee was safe. Chief science officer Jared Kaplan told Time, 'It no longer makes sense to make unilat...</description>
+      <guid isPermaLink="false">iY7BDpZWJbE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-09 - emergent-safety-in-the-ai-race.mp3" length="3415248" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -106,16 +113,23 @@ Let's start with the biggest industry development. Quantinuum launched its Helio
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Infrastructure Race Heats Up</title>
+      <description>Today in quantum computing, there are significant moves on the infrastructure and investment front. AWS is expanding its quantum research presence in Pasadena, California, purchasing a 168,000 square foot facility at 2964 Bradley Street for roughly $78 million — more than double what the property sold for in 2021. This is separate from AWS's existing quantum computing center on the Caltech campus, which launched in 2021 and spans about 21,000 square feet focused on developing fault-tolerant quan...</description>
+      <guid isPermaLink="false">daily-quantum-20260309</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-09.mp3" length="1477584" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>weekly - compliance - 2026-03-08</title>
       <description>...</description>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-03-08.mp3" length="1905840" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Mar 2026 06:26:45 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 18:11:39 +0000</pubDate>
     </item>
     <item>
       <title>weekly - quantum - 2026-03-08</title>
       <description>...</description>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-03-08.mp3" length="2480832" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Mar 2026 06:26:45 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 18:11:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
