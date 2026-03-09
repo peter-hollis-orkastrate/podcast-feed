@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 06:26:45 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 18:11:39 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -18,6 +18,13 @@ Let's start with the biggest industry development. Quantinuum launched its Helio
       <guid isPermaLink="false">daily-quantum-20260308</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-08.mp3" length="2669040" type="audio/mpeg"/>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Infrastructure Race Heats Up</title>
+      <description>Today in quantum computing, there are significant moves on the infrastructure and investment front. AWS is expanding its quantum research presence in Pasadena, California, purchasing a 168,000 square foot facility at 2964 Bradley Street for roughly $78 million — more than double what the property sold for in 2021. This is separate from AWS's existing quantum computing center on the Caltech campus, which launched in 2021 and spans about 21,000 square feet focused on developing fault-tolerant quan...</description>
+      <guid isPermaLink="false">daily-quantum-20260309</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-09.mp3" length="1477584" type="audio/mpeg"/>
+      <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
