@@ -7,26 +7,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 06:17:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Mar 2026 06:26:45 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
       <title>weekly - compliance - 2026-03-08</title>
       <description>...</description>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-03-08.mp3" length="1905840" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Mar 2026 06:17:23 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 06:26:45 +0000</pubDate>
     </item>
     <item>
       <title>weekly - quantum - 2026-03-08</title>
       <description>...</description>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-03-08.mp3" length="2480832" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Mar 2026 06:17:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>weekly - tech - 2026-03-08</title>
-      <description>...</description>
-      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-03-08.mp3" length="3821184" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Mar 2026 06:17:23 +0000</pubDate>
+      <pubDate>Mon, 09 Mar 2026 06:26:45 +0000</pubDate>
     </item>
   </channel>
 </rss>
