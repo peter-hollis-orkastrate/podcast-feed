@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 18:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 18:13:54 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -68,6 +68,13 @@ The math on communication pathways is unforgiving. Five people means 10 pathways
       <guid isPermaLink="false">iY7BDpZWJbE</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-09 - emergent-safety-in-the-ai-race.mp3" length="3415248" type="audio/mpeg"/>
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Rejection as the Core AI Skill</title>
+      <description>Your most valuable AI skill is saying no. Not no to using AI — no to AI output that sucks. I reject far more AI-generated work than I accept: wrong framing, sloppy reasoning, confident-sounding analysis that wouldn't survive contact with anyone who actually understands the domain. I send it back, explain why, and often send it back again because the fix got it from 90 to 95 percent but my bar is higher. This isn't about superpowered prompting. You can prompt brilliantly and still say no constant...</description>
+      <guid isPermaLink="false">-FhtPUkXKO4</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-10 - rejection-as-the-core-ai-skill.mp3" length="3316320" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
