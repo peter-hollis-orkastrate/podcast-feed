@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 09 Mar 2026 18:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Mar 2026 18:13:54 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -86,6 +86,13 @@ The math on communication pathways is unforgiving. Five people means 10 pathways
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Rejection as the Core AI Skill</title>
+      <description>Your most valuable AI skill is saying no. Not no to using AI — no to AI output that sucks. I reject far more AI-generated work than I accept: wrong framing, sloppy reasoning, confident-sounding analysis that wouldn't survive contact with anyone who actually understands the domain. I send it back, explain why, and often send it back again because the fix got it from 90 to 95 percent but my bar is higher. This isn't about superpowered prompting. You can prompt brilliantly and still say no constant...</description>
+      <guid isPermaLink="false">-FhtPUkXKO4</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-10 - rejection-as-the-core-ai-skill.mp3" length="3316320" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -104,6 +111,15 @@ Let's start with what matters most for senior managers and certification. The FC
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - FCA Handbook Upgrades and Regulatory Housekeeping</title>
+      <description>Good morning. Today's compliance briefing is relatively light on headline enforcement or market abuse developments, but there are a few housekeeping and strategic items worth noting.
+
+First, the FCA has formally launched its redesigned Handbook website. This is part of the regulator's stated 5-year strategy to become a smarter regulator. The new site improves navigation, makes it easier to understand connections between rules, and critically, allows users to compare different versions of Handboo...</description>
+      <guid isPermaLink="false">daily-compliance-20260310</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-10.mp3" length="1530144" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -120,16 +136,23 @@ Let's start with the biggest industry development. Quantinuum launched its Helio
       <pubDate>Mon, 09 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Meets Real-World Operations</title>
+      <description>The most striking quantum development today is a real-world proof point: D-Wave's hybrid quantum annealing system has cut emergency response times for North Wales Police by nearly 50 percent. The system solved what's called the forward deployment problem — optimally positioning police vehicles across ten local teams spanning diverse geography — compressing a task that previously took four months of classical computation into just four minutes. The project achieved 90 percent of target response t...</description>
+      <guid isPermaLink="false">daily-quantum-20260310</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-10.mp3" length="1975824" type="audio/mpeg"/>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>weekly - compliance - 2026-03-08</title>
       <description>...</description>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-03-08.mp3" length="1905840" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Mar 2026 18:11:39 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 18:13:54 +0000</pubDate>
     </item>
     <item>
       <title>weekly - quantum - 2026-03-08</title>
       <description>...</description>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-03-08.mp3" length="2480832" type="audio/mpeg"/>
-      <pubDate>Mon, 09 Mar 2026 18:11:39 +0000</pubDate>
+      <pubDate>Tue, 10 Mar 2026 18:13:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
