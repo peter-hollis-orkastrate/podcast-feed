@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 10 Mar 2026 18:13:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Mar 2026 18:14:53 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -93,6 +93,15 @@ The math on communication pathways is unforgiving. Five people means 10 pathways
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - AI Isn't Jagged Anymore</title>
+      <description>What if AI isn't jagged anymore? That's what I can't stop thinking about. Everyone has assumed AI capabilities follow a jagged pattern — incredible at some things, terrible at others. It's become the organizing frame for how we deploy and teach AI. But I want to suggest the jagged frontier was never an inherent property of AI intelligence. It was an artifact of how we were asking AI to work.
+
+When you ask a model a single question expecting a single answer, all the variance in task difficulty sh...</description>
+      <guid isPermaLink="false">LO0Ws-l6brg</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-11 - ai-isnt-jagged-anymore.mp3" length="3005424" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -120,6 +129,13 @@ First, the FCA has formally launched its redesigned Handbook website. This is pa
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - SMCR Reform and Enforcement Escalation</title>
+      <description>Let's start with the biggest structural development. The UK government is undertaking the most sweeping review of the Senior Managers and Certification Regime since its introduction. This is playing out in three phases, and compliance teams need to understand all of them. Phase One, driven by the FCA and PRA through consultation papers CP25/21 and CP18/25, is essentially a streamlining exercise. The 12-week temporary cover rule is being revised so that firms must submit an SMF application within...</description>
+      <guid isPermaLink="false">daily-compliance-20260311</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-11.mp3" length="3500208" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -143,16 +159,25 @@ Let's start with the biggest industry development. Quantinuum launched its Helio
       <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Hardware and Infrastructure Advances</title>
+      <description>Several major developments are reshaping the quantum computing landscape today. Let's start with the hardware breakthroughs.
+
+Microsoft has formally introduced Majorana 1, the world's first quantum chip powered by what it calls a Topological Core architecture. The chip leverages a new class of material — a topoconductor made from indium arsenide and aluminum, fabricated atom by atom — that can coax exotic Majorana particles into existence. These particles hide quantum information, making it inhe...</description>
+      <guid isPermaLink="false">daily-quantum-20260311</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-11.mp3" length="2653776" type="audio/mpeg"/>
+      <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>weekly - compliance - 2026-03-08</title>
       <description>...</description>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-03-08.mp3" length="1905840" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Mar 2026 18:13:54 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 18:14:53 +0000</pubDate>
     </item>
     <item>
       <title>weekly - quantum - 2026-03-08</title>
       <description>...</description>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-03-08.mp3" length="2480832" type="audio/mpeg"/>
-      <pubDate>Tue, 10 Mar 2026 18:13:54 +0000</pubDate>
+      <pubDate>Wed, 11 Mar 2026 18:14:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
