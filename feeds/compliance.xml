@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 11 Mar 2026 18:14:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Mar 2026 10:45:33 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -43,6 +43,15 @@ First, the FCA has formally launched its redesigned Handbook website. This is pa
       <guid isPermaLink="false">daily-compliance-20260311</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-11.mp3" length="3500208" type="audio/mpeg"/>
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - UK Reporting Overhaul and SMCR Reform</title>
+      <description>Let's get into the key developments that matter for compliance teams across wholesale markets and Global Banking &amp; Markets divisions.
+
+The biggest news this month is the FCA's launch of CP25/32, a consultation proposing a fundamental overhaul of the UK's onshore MiFIR transaction reporting regime. If implemented, the changes would reduce the number of reportable fields, limit mandatory reporting to instruments traded on UK venues, remove FX derivatives from scope entirely, and shorten the defaul...</description>
+      <guid isPermaLink="false">daily-compliance-20260312</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-12.mp3" length="2844864" type="audio/mpeg"/>
+      <pubDate>Thu, 12 Mar 2026 10:45:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
