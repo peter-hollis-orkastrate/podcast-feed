@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 12 Mar 2026 18:05:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 13 Mar 2026 18:10:25 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -102,6 +102,15 @@ When you ask a model a single question expecting a single answer, all the varian
       <pubDate>Wed, 11 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Building Visual Interfaces for AI Memory</title>
+      <description>Your Open Brain can think, but now it needs hands. Thousands of people built this personal memory system — a Supabase database connected to any AI through MCP — and the number one question was: what do you actually do with it once you have it?
+
+The answer is you go beyond the chatbot keyhole. Right now, when you interact with your Open Brain through Claude or ChatGPT, you're getting text back in an infinite scroll. That's fine, but some data is better seen than read. You want a calendar showing ...</description>
+      <guid isPermaLink="false">japT66frdhM</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-13 - building-visual-interfaces-for-ai-memory.mp3" length="2292336" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Mar 2026 18:08:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -186,16 +195,25 @@ The biggest story is IBM's articulation of a reference architecture for quantum-
       <pubDate>Thu, 12 Mar 2026 10:42:51 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Investment Meets National Security Controls</title>
+      <description>Today's quantum briefing centers on a rapidly intensifying dynamic at the intersection of quantum technology investment and national security regulation. A detailed analysis from Freshfields lays out how governments are playing both sides of the quantum coin — pouring billions into developing national quantum champions while simultaneously erecting protective barriers to ensure rivals can't benefit from those advances.
+
+The core issue is quantum technology's dual-use nature. Policymakers increas...</description>
+      <guid isPermaLink="false">daily-quantum-20260313</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-13.mp3" length="1885104" type="audio/mpeg"/>
+      <pubDate>Fri, 13 Mar 2026 18:10:24 +0000</pubDate>
+    </item>
+    <item>
       <title>weekly - compliance - 2026-03-08</title>
       <description>...</description>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-03-08.mp3" length="1905840" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Mar 2026 18:05:30 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 18:10:25 +0000</pubDate>
     </item>
     <item>
       <title>weekly - quantum - 2026-03-08</title>
       <description>...</description>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-03-08.mp3" length="2480832" type="audio/mpeg"/>
-      <pubDate>Thu, 12 Mar 2026 18:05:30 +0000</pubDate>
+      <pubDate>Fri, 13 Mar 2026 18:10:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
