@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 18:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 18:13:51 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -59,6 +59,17 @@ The biggest news this month is the FCA's launch of CP25/32, a consultation propo
       <guid isPermaLink="false">daily-compliance-20260313</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-13.mp3" length="2545488" type="audio/mpeg"/>
       <pubDate>Fri, 13 Mar 2026 18:40:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Enforcement, MAR Actions, Algorithmic Trading</title>
+      <description>Let's get into today's compliance briefing, which covers some significant enforcement actions and a dense set of regulatory developments that wholesale markets teams need to be tracking.
+
+The headline story is the FCA's enforcement momentum in Q1 2026. Total fines have reached just under £16 million for the quarter, and the pattern here is unmistakable — individual accountability is front and centre.
+
+The largest single penalty goes to John Wood Group PLC at £12.9 million for publishing misleadi...</description>
+      <guid isPermaLink="false">daily-compliance-20260314</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-14.mp3" length="3576672" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Mar 2026 18:13:51 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
