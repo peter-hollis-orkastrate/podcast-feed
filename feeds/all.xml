@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 13 Mar 2026 18:40:12 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 14 Mar 2026 18:13:51 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -111,6 +111,13 @@ The answer is you go beyond the chatbot keyhole. Right now, when you interact wi
       <pubDate>Fri, 13 Mar 2026 18:08:21 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Ambition Over Headcount in AI</title>
+      <description>A few days ago, Whoop announced it's hiring over 600 people, nearly doubling its workforce. CEO Will Ahmed said they're investing in both people and AI. And the boards and leadership teams I work with — the ones actually making decisions, not performing for analysts — increasingly agree with him. The doom narrative lives in the media. Inside the rooms where it matters, the smartest operators are asking: what would it take for our people to work differently and build what we couldn't build before...</description>
+      <guid isPermaLink="false">u-giatW9mYU</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-14 - ambition-over-headcount-in-ai.mp3" length="3051360" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Mar 2026 18:08:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -161,6 +168,17 @@ The biggest news this month is the FCA's launch of CP25/32, a consultation propo
       <pubDate>Fri, 13 Mar 2026 18:40:12 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - FCA Enforcement, MAR Actions, Algorithmic Trading</title>
+      <description>Let's get into today's compliance briefing, which covers some significant enforcement actions and a dense set of regulatory developments that wholesale markets teams need to be tracking.
+
+The headline story is the FCA's enforcement momentum in Q1 2026. Total fines have reached just under £16 million for the quarter, and the pattern here is unmistakable — individual accountability is front and centre.
+
+The largest single penalty goes to John Wood Group PLC at £12.9 million for publishing misleadi...</description>
+      <guid isPermaLink="false">daily-compliance-20260314</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-14.mp3" length="3576672" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Mar 2026 18:13:51 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -209,6 +227,15 @@ The core issue is quantum technology's dual-use nature. Policymakers increas...<
       <guid isPermaLink="false">daily-quantum-20260313</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-13.mp3" length="1885104" type="audio/mpeg"/>
       <pubDate>Fri, 13 Mar 2026 18:10:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Error Correction and Internet Advances</title>
+      <description>Today's quantum landscape is dominated by two converging themes: the push toward a quantum internet and the accelerating race to solve quantum error correction. Let's start with the biggest developments.
+
+Quantinuum has demonstrated remarkable results on its 98-qubit Helios trapped-ion processor using what are called iceberg codes. They achieved 94 error-detected logical qubits and 48 error-corrected logical qubits from just 98 physical qubits — a near 2-to-1 physical-to-logical ratio for error ...</description>
+      <guid isPermaLink="false">daily-quantum-20260314</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-14.mp3" length="2398752" type="audio/mpeg"/>
+      <pubDate>Sat, 14 Mar 2026 18:10:49 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
