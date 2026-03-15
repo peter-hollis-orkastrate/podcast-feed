@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 18:13:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 18:24:34 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -100,6 +100,24 @@ The answer is you go beyond the chatbot keyhole. Right now, when you interact wi
       <guid isPermaLink="false">u-giatW9mYU</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-14 - ambition-over-headcount-in-ai.mp3" length="3051360" type="audio/mpeg"/>
       <pubDate>Sat, 14 Mar 2026 18:08:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Unleashing Talent in the AI Era</title>
+      <description>Your most extraordinary people are operating at about 25% of their actual capacity. The biggest wall to AI productivity isn't tool fluency — it's the human coordination overhead that consumes our days. The syncs, the scheduling, the meetings, the emails. And what I'm seeing from solo founders is not a story about special tools. It's a story about soft skills we haven't named well enough.
+
+Take Ben Sira — zero employees, $2.5 million ARR with Pulsia, an AI company builder. He went from one millio...</description>
+      <guid isPermaLink="false">zCW-k5fFRgQ</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-15 - unleashing-talent-in-the-ai-era.mp3" length="3000672" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Mar 2026 18:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
+
+The week opens with a structural argument about team size that reframes everything that follows. The core insight is mathematical:...</description>
+      <guid isPermaLink="false">weekly-tech-2026-03-15</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-03-15.mp3" length="3642768" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Mar 2026 18:16:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
