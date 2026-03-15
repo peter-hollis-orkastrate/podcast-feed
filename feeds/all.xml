@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 14 Mar 2026 18:13:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 15 Mar 2026 18:24:34 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -118,6 +118,15 @@ The answer is you go beyond the chatbot keyhole. Right now, when you interact wi
       <pubDate>Sat, 14 Mar 2026 18:08:17 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Unleashing Talent in the AI Era</title>
+      <description>Your most extraordinary people are operating at about 25% of their actual capacity. The biggest wall to AI productivity isn't tool fluency — it's the human coordination overhead that consumes our days. The syncs, the scheduling, the meetings, the emails. And what I'm seeing from solo founders is not a story about special tools. It's a story about soft skills we haven't named well enough.
+
+Take Ben Sira — zero employees, $2.5 million ARR with Pulsia, an AI company builder. He went from one millio...</description>
+      <guid isPermaLink="false">zCW-k5fFRgQ</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-15 - unleashing-talent-in-the-ai-era.mp3" length="3000672" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Mar 2026 18:08:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -179,6 +188,13 @@ The largest single penalty goes to John Wood Group PLC at £12.9 million for pub
       <pubDate>Sat, 14 Mar 2026 18:13:51 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - Remuneration Reform, Market Abuse, SMCR Accountability</title>
+      <description>Let's start with the most consequential development for wholesale markets compliance teams this period. The FCA and PRA have jointly published their final policy statement on remuneration reform for dual-regulated firms — banks, building societies, and PRA-designated investment firms. These changes took effect on 16 October 2025, and some may be applied optionally to ongoing performance years or unvested awards from prior years. The reforms are significant in scope and go further than the origin...</description>
+      <guid isPermaLink="false">daily-compliance-20260315</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-15.mp3" length="2946528" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Mar 2026 18:13:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -238,6 +254,15 @@ Quantinuum has demonstrated remarkable results on its 98-qubit Helios trapped-io
       <pubDate>Sat, 14 Mar 2026 18:10:49 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Nvidia's Quantum and AI Expansion</title>
+      <description>Today in quantum and adjacent computing news, two stories highlight different ends of the spectrum — from a Danish startup working at the frontier of quantum chemistry to Nvidia's continued dominance and expanding reach into quantum computing infrastructure.
+
+Let's start with Nvidia, which remains arguably the most consequential technology company of this decade. The company just posted record fiscal fourth-quarter revenue of $68.1 billion, driven by its data center division which alone brought ...</description>
+      <guid isPermaLink="false">daily-quantum-20260315</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-15.mp3" length="1669104" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Mar 2026 18:10:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -245,11 +270,38 @@ Quantinuum has demonstrated remarkable results on its 98-qubit Helios trapped-io
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance has been dominated by a single, unmistakable theme: the UK regulatory architecture is being fundamentally recalibrated, and at the center of nearly every development sits individual accountability.
+
+The most structurally significant story running through the entire week is the overhaul of the Senior Managers and Certification Regime. Multiple episodes returned to this from different angles, building a remarkably consistent picture. HM Treasury, the FCA, and the PRA are al...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-03-15</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-03-15.mp3" length="3649968" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Mar 2026 18:21:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Quantum</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-quantum-2026-03-08</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-03-08.mp3" length="2480832" type="audio/mpeg"/>
       <pubDate>Sun, 08 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing, one overarching narrative dominates everything else: the field is crossing from experimental curiosity into something that looks increasingly like a real industry, with all the commercial partnerships, infrastructure buildouts, regulatory friction, and engineering milestones that come with that transition.
+
+The week opened with a sweeping survey of the field's breakout moment. The numbers alone tell a striking story. Quantum startups raised nearly four billion dol...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-03-15</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-03-15.mp3" length="4275360" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Mar 2026 18:24:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
+
+The week opens with a structural argument about team size that reframes everything that follows. The core insight is mathematical:...</description>
+      <guid isPermaLink="false">weekly-tech-2026-03-15</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-03-15.mp3" length="3642768" type="audio/mpeg"/>
+      <pubDate>Sun, 15 Mar 2026 18:16:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
