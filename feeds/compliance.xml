@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 18:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 18:12:10 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -77,6 +77,15 @@ The largest single penalty goes to John Wood Group PLC at £12.9 million for pub
       <guid isPermaLink="false">daily-compliance-20260315</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-15.mp3" length="2946528" type="audio/mpeg"/>
       <pubDate>Sun, 15 Mar 2026 18:13:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Market Abuse and SMCR Accountability</title>
+      <description>Good morning. Today's briefing covers two critical areas: the FCA's sharpened stance on market abuse enforcement and the continuing accountability obligations under the Senior Managers and Certification Regime.
+
+Let's start with the big development. On 29 April 2025, Therese Chambers, Joint Executive Director of Enforcement and Market Oversight at the FCA, laid out the regulator's agenda for combatting market abuse as part of its new five-year strategy. She framed enforcement around what she cal...</description>
+      <guid isPermaLink="false">daily-compliance-20260316</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-16.mp3" length="2434752" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Mar 2026 18:12:10 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
