@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Mar 2026 18:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2026 18:12:10 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -77,6 +77,13 @@ Let's start with Nvidia, which remains arguably the most consequential technolog
       <guid isPermaLink="false">daily-quantum-20260315</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-15.mp3" length="1669104" type="audio/mpeg"/>
       <pubDate>Sun, 15 Mar 2026 18:10:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Fault-Tolerant Quantum Architectures Advance</title>
+      <description>The biggest development today in quantum computing is a new partnership between Paris-based C12 and Germany's QC Design. C12 is adopting QC Design's Plaquette design-automation platform to accelerate its path toward fault-tolerant quantum computing. C12's approach is distinctive — they use isotopically purified carbon-12 nanotubes suspended above silicon chips to host spin qubits. This technique maximally isolates qubits from environmental noise, yielding coherence times two orders of magnitude ...</description>
+      <guid isPermaLink="false">daily-quantum-20260316</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-16.mp3" length="1314144" type="audio/mpeg"/>
+      <pubDate>Mon, 16 Mar 2026 18:09:26 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
