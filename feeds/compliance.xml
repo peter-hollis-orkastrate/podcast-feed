@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 18:12:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 18:12:49 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -86,6 +86,13 @@ Let's start with the big development. On 29 April 2025, Therese Chambers, Joint 
       <guid isPermaLink="false">daily-compliance-20260316</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-16.mp3" length="2434752" type="audio/mpeg"/>
       <pubDate>Mon, 16 Mar 2026 18:12:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA PRA Cut SMCR Red Tape</title>
+      <description>Good morning. The headline development today is a joint announcement from the FCA and PRA signalling cuts to Senior Managers and Certification Regime red tape, explicitly positioned as a measure to support growth. While the full detail of these changes hasn't yet been published in the materials available, the signal itself is significant. For compliance officers managing SMCR frameworks across wholesale markets and Global Banking &amp; Markets divisions, this likely means upcoming revisions to how s...</description>
+      <guid isPermaLink="false">daily-compliance-20260317</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-17.mp3" length="1503504" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Mar 2026 18:12:49 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
