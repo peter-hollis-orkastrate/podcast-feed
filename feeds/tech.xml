@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Mar 2026 18:12:10 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Mar 2026 18:12:49 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -118,6 +118,15 @@ To illustrate how real this is: a Meta security researcher named Summ...</descri
       <guid isPermaLink="false">8lwnJZy4cO0</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-16 - managing-ai-agents-beyond-prompting.mp3" length="2243808" type="audio/mpeg"/>
       <pubDate>Mon, 16 Mar 2026 18:07:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Claude Browser Extension Real Workflows</title>
+      <description>Everyone's sleeping on the Claude extension for Chrome, and they shouldn't be. It puts an LLM inside the most popular browser on the planet and says, 'Hey, do you want a free agent that can do useful work on the internet?' If you can define something you do repeatably, you can hand it to Claude and save yourself dozens of hours a week.
+
+Let's start with a great example. Carl Votti, a product manager and Claude Code instructor, posted a thread about a billing dispute with AT&amp;T that went viral. He...</description>
+      <guid isPermaLink="false">QT7W_uHjqWE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-17 - claude-browser-extension-real-workflows.mp3" length="2288592" type="audio/mpeg"/>
+      <pubDate>Tue, 17 Mar 2026 18:08:20 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
