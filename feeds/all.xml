@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Mar 2026 18:12:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Mar 2026 18:13:06 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -145,6 +145,13 @@ Let's start with a great example. Carl Votti, a product manager and Claude Code 
       <pubDate>Tue, 17 Mar 2026 18:08:20 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - AI Agent Failure Modes Exposed</title>
+      <description>Your AI agent knows the answer, and sometimes it recommends the opposite thing. That's what I took away from a landmark study out of Mount Sinai Health System evaluating ChatGPT Health — the tool OpenAI rolled out as a responsible alternative for medical questions. What the physicians found is quite concerning: the system over-recommends doctor visits for minor conditions and under-recommends ER visits for urgent ones. In their study, ChatGPT Health told someone with early respiratory failure to...</description>
+      <guid isPermaLink="false">4HeS_C02yAE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-18 - ai-agent-failure-modes-exposed.mp3" length="3038256" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Mar 2026 18:07:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -229,6 +236,15 @@ Let's start with the big development. On 29 April 2025, Therese Chambers, Joint 
       <pubDate>Tue, 17 Mar 2026 18:12:49 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - UK Regulation Pivots Toward Growth</title>
+      <description>Let's get into today's compliance briefing, which centers on a fundamental shift in the UK's regulatory posture and what it means practically for wholesale markets and investment bank compliance teams.
+
+The headline development comes from EY's 2026 UK Financial Services Regulation Outlook, which maps a regulatory environment that has decisively pivoted from defending against risk to actively enabling economic growth. The government's position is explicit: it is time to regulate for growth. The L...</description>
+      <guid isPermaLink="false">daily-compliance-20260318</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-18.mp3" length="2894112" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Mar 2026 18:13:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -309,6 +325,13 @@ Let's start with Nvidia, which remains arguably the most consequential technolog
       <guid isPermaLink="false">daily-quantum-20260317</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-17.mp3" length="2620368" type="audio/mpeg"/>
       <pubDate>Tue, 17 Mar 2026 18:11:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Turing Award and Quantum-Classical Integration</title>
+      <description>The biggest news today is that Charles H. Bennett and Gilles Brassard have been awarded the 2025 ACM Turing Award — the so-called Nobel Prize of Computing — carrying a one-million-dollar prize supported by Google. Bennett, an 82-year-old IBM fellow, and Brassard, a 70-year-old professor at the University of Montreal, are recognized as the founders of quantum information science. Their story begins with a chance meeting at a conference in Puerto Rico in 1979, where Bennett reportedly approached B...</description>
+      <guid isPermaLink="false">daily-quantum-20260318</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-18.mp3" length="2110896" type="audio/mpeg"/>
+      <pubDate>Wed, 18 Mar 2026 18:10:23 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
