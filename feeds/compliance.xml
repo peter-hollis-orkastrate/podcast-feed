@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 18:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 18:12:02 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -102,6 +102,15 @@ The headline development comes from EY's 2026 UK Financial Services Regulation O
       <guid isPermaLink="false">daily-compliance-20260318</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-18.mp3" length="2894112" type="audio/mpeg"/>
       <pubDate>Wed, 18 Mar 2026 18:13:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Geopolitics and Enforcement Landscape Update</title>
+      <description>Good morning. Two developments to flag today, both relatively light on published detail but carrying meaningful implications for compliance teams operating across wholesale markets.
+
+First, enforcement trends around abuse of dominance. A&amp;O Shearman has highlighted that antitrust authorities globally are targeting both exploitative and exclusionary abuses of dominance with increasing vigour. Now, while this sits squarely in the competition law space, there's a compliance read-across worth noting....</description>
+      <guid isPermaLink="false">daily-compliance-20260319</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-19.mp3" length="1430208" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Mar 2026 18:12:01 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
