@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Mar 2026 18:13:06 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Mar 2026 18:12:02 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -152,6 +152,13 @@ Let's start with a great example. Carl Votti, a product manager and Claude Code 
       <pubDate>Wed, 18 Mar 2026 18:07:54 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Middleware Trap in AI</title>
+      <description>On February 25th, Perplexity shipped the best agentic product of the month, and it might not even matter. Perplexity Computer is a cloud-native multi-model orchestration system that routes work across 19 frontier models, spawns sub-agents, persists for months, and delivers finished artifacts while you sleep. It runs Claude Opus 4.6 as its reasoning core, Gemini for deep research, Grok for speed, ChatGPT 5.2 for long context recall. It's available for $200 a month and genuinely worth it if you do...</description>
+      <guid isPermaLink="false">3FbqaD1MCUA</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-19 - middleware-trap-in-ai.mp3" length="3125952" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Mar 2026 18:08:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -245,6 +252,15 @@ The headline development comes from EY's 2026 UK Financial Services Regulation O
       <pubDate>Wed, 18 Mar 2026 18:13:04 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - Geopolitics and Enforcement Landscape Update</title>
+      <description>Good morning. Two developments to flag today, both relatively light on published detail but carrying meaningful implications for compliance teams operating across wholesale markets.
+
+First, enforcement trends around abuse of dominance. A&amp;O Shearman has highlighted that antitrust authorities globally are targeting both exploitative and exclusionary abuses of dominance with increasing vigour. Now, while this sits squarely in the competition law space, there's a compliance read-across worth noting....</description>
+      <guid isPermaLink="false">daily-compliance-20260319</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-19.mp3" length="1430208" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Mar 2026 18:12:01 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -332,6 +348,13 @@ Let's start with Nvidia, which remains arguably the most consequential technolog
       <guid isPermaLink="false">daily-quantum-20260318</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-18.mp3" length="2110896" type="audio/mpeg"/>
       <pubDate>Wed, 18 Mar 2026 18:10:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Earnings, Cryptography, and Workforce</title>
+      <description>The biggest story in quantum today is the financial picture emerging from Q4 and full-year 2025 earnings for the three publicly traded quantum computing firms. IonQ stands out as the clear revenue leader, posting $130 million in full-year GAAP revenue — a 202 percent increase over FY24 — making it the first public quantum company to cross the $100 million annual revenue threshold. Its Q4 alone brought in nearly $62 million, up 429 percent year-over-year. IonQ is projecting $225 to $245 million i...</description>
+      <guid isPermaLink="false">daily-quantum-20260319</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-19.mp3" length="1938096" type="audio/mpeg"/>
+      <pubDate>Thu, 19 Mar 2026 18:10:47 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
