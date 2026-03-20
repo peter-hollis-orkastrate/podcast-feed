@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 18:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 18:15:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -25,6 +25,13 @@ The UK currently has two main fiscal rules — one saying day-to-day borrowing s
       <guid isPermaLink="false">RtAEI-sVgmM</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-03-04 - uk-fiscal-forecast-downside-risks.mp3" length="3000096" type="audio/mpeg"/>
       <pubDate>Wed, 04 Mar 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Pensioner Wealth Reality Check</title>
+      <description>Thirty years ago, about one in three UK pensioners were living in relative poverty. Their average income was roughly 20% lower than working-age people. That animated huge policy debates and led to major changes — pension credit in the early 2000s, and then the triple lock from 2010 onwards. The great recession hit working-age people harder than pensioners, and the triple lock ratcheted up the state pension. By the early 2010s, the average pensioner had income about the same as the average workin...</description>
+      <guid isPermaLink="false">19011ozXs6E</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-03-20 - uk-pensioner-wealth-reality-check.mp3" length="2858112" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Mar 2026 18:10:42 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -159,6 +166,15 @@ Let's start with a great example. Carl Votti, a product manager and Claude Code 
       <pubDate>Thu, 19 Mar 2026 18:08:39 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Building Agents Without OpenClaw</title>
+      <description>A few weeks ago I introduced OpenBrain — a SQL database connected via MCP server to your AI, giving it persistent memory. Thousands of you built it. Now I want to talk about what happens when you go beyond memory and give your agent a heartbeat and tools, because that's what turns a chatbot into something that actually does work for you.
+
+An agent needs three things. First, memory — the ability to read and write to something persistent so it remembers what happened yesterday and three weeks ago....</description>
+      <guid isPermaLink="false">vqnAOV8NMZ4</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-20 - building-agents-without-openclaw.mp3" length="2524608" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Mar 2026 18:07:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -261,6 +277,15 @@ First, enforcement trends around abuse of dominance. A&amp;O Shearman has highli
       <pubDate>Thu, 19 Mar 2026 18:12:01 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - Operational Resilience and SMCR Reform Updates</title>
+      <description>Good morning. The headline development today is a major coordinated move from the FCA, PRA and Bank of England on operational resilience. On 18 March 2026, all three authorities issued Policy Statements finalising their rules on operational incident reporting and material third-party reporting. This is the culmination of consultations that ran through 2024, and the practical implications for wholesale markets compliance teams are significant.
+
+Let's start with what matters most. The regulators h...</description>
+      <guid isPermaLink="false">daily-compliance-20260320</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-20.mp3" length="2416464" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Mar 2026 18:15:28 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -355,6 +380,13 @@ Let's start with Nvidia, which remains arguably the most consequential technolog
       <guid isPermaLink="false">daily-quantum-20260319</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-19.mp3" length="1938096" type="audio/mpeg"/>
       <pubDate>Thu, 19 Mar 2026 18:10:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Software Goes Public on Nasdaq</title>
+      <description>The biggest quantum news today is the Nasdaq debut of Horizon Quantum Computing, an Irish-founded company that builds software development tools designed to unlock the potential of quantum hardware. The listing came through a SPAC merger with dMY Squared Technology Group, netting Horizon roughly $120 million in gross proceeds before transaction expenses. CEO and founder Dr. Joe Fitzsimons, who has more than 20 years in quantum computing research, said the company will channel those funds into ac...</description>
+      <guid isPermaLink="false">daily-quantum-20260320</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-20.mp3" length="1046160" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Mar 2026 18:13:19 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
