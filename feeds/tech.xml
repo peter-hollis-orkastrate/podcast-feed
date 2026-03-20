@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 19 Mar 2026 18:12:02 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Mar 2026 18:15:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -141,6 +141,15 @@ Let's start with a great example. Carl Votti, a product manager and Claude Code 
       <guid isPermaLink="false">3FbqaD1MCUA</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-19 - middleware-trap-in-ai.mp3" length="3125952" type="audio/mpeg"/>
       <pubDate>Thu, 19 Mar 2026 18:08:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Building Agents Without OpenClaw</title>
+      <description>A few weeks ago I introduced OpenBrain — a SQL database connected via MCP server to your AI, giving it persistent memory. Thousands of you built it. Now I want to talk about what happens when you go beyond memory and give your agent a heartbeat and tools, because that's what turns a chatbot into something that actually does work for you.
+
+An agent needs three things. First, memory — the ability to read and write to something persistent so it remembers what happened yesterday and three weeks ago....</description>
+      <guid isPermaLink="false">vqnAOV8NMZ4</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-20 - building-agents-without-openclaw.mp3" length="2524608" type="audio/mpeg"/>
+      <pubDate>Fri, 20 Mar 2026 18:07:43 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
