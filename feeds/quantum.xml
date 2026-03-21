@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 18:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 18:11:20 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -112,6 +112,13 @@ Let's start with Nvidia, which remains arguably the most consequential technolog
       <guid isPermaLink="false">daily-quantum-20260320</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-20.mp3" length="1046160" type="audio/mpeg"/>
       <pubDate>Fri, 20 Mar 2026 18:13:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Error Modeling, Silicon Qubits, UK Quantum Funding</title>
+      <description>The biggest technical story today comes from Sandia National Laboratories, where Jordan Hines and colleagues have developed a new simulation technique that accounts for realistic error types in quantum circuits — specifically coherent and non-Pauli errors that have been largely ignored in fault-tolerant quantum computing analysis. The results are sobering: coherent errors can cause logical failure rates more than eight times higher than the simplified Pauli stochastic models the field has been r...</description>
+      <guid isPermaLink="false">daily-quantum-20260321</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-21.mp3" length="1917216" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Mar 2026 18:11:19 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
