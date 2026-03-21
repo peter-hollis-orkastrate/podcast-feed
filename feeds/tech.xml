@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 20 Mar 2026 18:15:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 21 Mar 2026 18:11:20 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -150,6 +150,15 @@ An agent needs three things. First, memory — the ability to read and write to 
       <guid isPermaLink="false">vqnAOV8NMZ4</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-20 - building-agents-without-openclaw.mp3" length="2524608" type="audio/mpeg"/>
       <pubDate>Fri, 20 Mar 2026 18:07:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - The Agent Memory Wall Crisis</title>
+      <description>AI agents are getting better. The people deploying them are not. And that's the whole story right now. The capability trajectory is real and accelerating — agents can write code, generate designs, close tickets. But there's a memory wall. Software jobs last 18 months to two years on average. AI agents are measured in weeks at best, usually an hour or two. That gap is one of the hardest problems in tech, and it's leading a lot of overoptimistic people astray.
+
+AI still lacks common sense in weird...</description>
+      <guid isPermaLink="false">awV2kJzh8zk</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-21 - the-agent-memory-wall-crisis.mp3" length="3625056" type="audio/mpeg"/>
+      <pubDate>Sat, 21 Mar 2026 18:09:15 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
