@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 18:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 18:22:12 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -122,6 +122,15 @@ Let's start with what matters most. The regulators h...</description>
       <pubDate>Fri, 20 Mar 2026 18:15:28 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - MAR Enforcement and Surveillance Priorities</title>
+      <description>Today's briefing focuses on the FCA's evolving approach to Market Abuse Regulation and what it means practically for compliance teams across wholesale markets and Global Banking &amp; Markets divisions.
+
+The headline message from the FCA is a clear shift in expectations: the regulator wants to see market abuse controls that are preventative, not merely detective. It's no longer sufficient to have surveillance systems that flag suspicious activity after the fact. The FCA expects firms to build framew...</description>
+      <guid isPermaLink="false">daily-compliance-20260322</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-22.mp3" length="1840752" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 18:12:31 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -136,6 +145,15 @@ The most structurally significant story running through the entire week is the o
       <guid isPermaLink="false">weekly-compliance-2026-03-15</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-03-15.mp3" length="3649968" type="audio/mpeg"/>
       <pubDate>Sun, 15 Mar 2026 18:21:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, one overarching theme dominated every conversation: the UK regulatory landscape is being fundamentally reshaped around a growth agenda, but that pivot toward enabling economic activity is being paired with a more sophisticated, more targeted, and in many respects more demanding supervisory apparatus. Compliance teams that hear "growth" and think "relaxation" will find themselves badly exposed.
+
+The most consequential development landed at the start of the week with the F...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-03-22</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-03-22.mp3" length="3180816" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 18:19:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
