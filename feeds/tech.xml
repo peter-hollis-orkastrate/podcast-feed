@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 18:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 18:22:12 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -161,6 +161,15 @@ AI still lacks common sense in weird...</description>
       <pubDate>Sat, 21 Mar 2026 18:09:15 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Making Businesses Agent-Readable</title>
+      <description>The fences we spent 20 years building to keep bots out are now keeping our most valuable customers out. When OpenClaw hit 250,000 GitHub stars, Jensen called it the operating system of the future. Everyone's jumped on that bandwagon, but nobody's talking about the structural precondition — the thing underneath that determines whether any of this actually works.
+
+OpenClaw only works as a paradigm if company systems — product catalogs, transactional infrastructure, everything — are agent-readable ...</description>
+      <guid isPermaLink="false">BE4RclIGDmY</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-22 - making-businesses-agent-readable.mp3" length="2944512" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 18:08:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -168,6 +177,15 @@ The week opens with a structural argument about team size that reframes everythi
       <guid isPermaLink="false">weekly-tech-2026-03-15</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-03-15.mp3" length="3642768" type="audio/mpeg"/>
       <pubDate>Sun, 15 Mar 2026 18:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week's episodes form a remarkably cohesive narrative about a single inflection point: the shift from AI as a tool you use to AI as an agent you manage, and everything that shift demands of individuals, companies, and the broader commercial ecosystem.
+
+The overarching theme is that we are no longer in the prompting era. That phrase comes up explicitly in the episode on managing AI agents, but it echoes through every single conversation this week. In 2025, the skill was describing what you wa...</description>
+      <guid isPermaLink="false">weekly-tech-2026-03-22</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-03-22.mp3" length="4203648" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 18:16:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
