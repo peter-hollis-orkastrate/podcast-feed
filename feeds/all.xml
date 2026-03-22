@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 18:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 18:22:12 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -184,6 +184,15 @@ AI still lacks common sense in weird...</description>
       <pubDate>Sat, 21 Mar 2026 18:09:15 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Making Businesses Agent-Readable</title>
+      <description>The fences we spent 20 years building to keep bots out are now keeping our most valuable customers out. When OpenClaw hit 250,000 GitHub stars, Jensen called it the operating system of the future. Everyone's jumped on that bandwagon, but nobody's talking about the structural precondition — the thing underneath that determines whether any of this actually works.
+
+OpenClaw only works as a paradigm if company systems — product catalogs, transactional infrastructure, everything — are agent-readable ...</description>
+      <guid isPermaLink="false">BE4RclIGDmY</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-22 - making-businesses-agent-readable.mp3" length="2944512" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 18:08:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -293,6 +302,15 @@ Let's start with what matters most. The regulators h...</description>
       <guid isPermaLink="false">daily-compliance-20260320</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-20.mp3" length="2416464" type="audio/mpeg"/>
       <pubDate>Fri, 20 Mar 2026 18:15:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - MAR Enforcement and Surveillance Priorities</title>
+      <description>Today's briefing focuses on the FCA's evolving approach to Market Abuse Regulation and what it means practically for compliance teams across wholesale markets and Global Banking &amp; Markets divisions.
+
+The headline message from the FCA is a clear shift in expectations: the regulator wants to see market abuse controls that are preventative, not merely detective. It's no longer sufficient to have surveillance systems that flag suspicious activity after the fact. The FCA expects firms to build framew...</description>
+      <guid isPermaLink="false">daily-compliance-20260322</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-22.mp3" length="1840752" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 18:12:31 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -405,6 +423,13 @@ Let's start with Nvidia, which remains arguably the most consequential technolog
       <pubDate>Sat, 21 Mar 2026 18:11:19 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Ecosystems, Chips, and Policy Push</title>
+      <description>Today's quantum landscape is defined by three converging forces: regional ecosystem building, hardware breakthroughs from tech giants, and growing government engagement. Let's start with the biggest policy moves. California has launched Quantum California, a statewide public-private initiative under the California Jobs First Economic Blueprint — the state's first bottom-up economic strategy in more than 20 years. Leaders from science, industry, and the governor's office convened at UC Santa Barb...</description>
+      <guid isPermaLink="false">daily-quantum-20260322</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-22.mp3" length="2133216" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 18:10:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -419,6 +444,15 @@ The most structurally significant story running through the entire week is the o
       <guid isPermaLink="false">weekly-compliance-2026-03-15</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-03-15.mp3" length="3649968" type="audio/mpeg"/>
       <pubDate>Sun, 15 Mar 2026 18:21:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, one overarching theme dominated every conversation: the UK regulatory landscape is being fundamentally reshaped around a growth agenda, but that pivot toward enabling economic activity is being paired with a more sophisticated, more targeted, and in many respects more demanding supervisory apparatus. Compliance teams that hear "growth" and think "relaxation" will find themselves badly exposed.
+
+The most consequential development landed at the start of the week with the F...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-03-22</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-03-22.mp3" length="3180816" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 18:19:17 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
@@ -437,6 +471,15 @@ The week opened with a sweeping survey of the field's breakout moment. The numbe
       <pubDate>Sun, 15 Mar 2026 18:24:34 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing has been one of the most eventful in recent memory, with developments spanning government policy, financial milestones, fundamental research, and the continued blurring of boundaries between quantum and classical computing. The overarching story is one of an industry decisively crossing from laboratory curiosity into industrial infrastructure, even as deep technical challenges remind us just how much work remains.
+
+The most commanding theme this week has been the m...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-03-22</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-03-22.mp3" length="3067344" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 18:22:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -444,6 +487,15 @@ The week opens with a structural argument about team size that reframes everythi
       <guid isPermaLink="false">weekly-tech-2026-03-15</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-03-15.mp3" length="3642768" type="audio/mpeg"/>
       <pubDate>Sun, 15 Mar 2026 18:16:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week's episodes form a remarkably cohesive narrative about a single inflection point: the shift from AI as a tool you use to AI as an agent you manage, and everything that shift demands of individuals, companies, and the broader commercial ecosystem.
+
+The overarching theme is that we are no longer in the prompting era. That phrase comes up explicitly in the episode on managing AI agents, but it echoes through every single conversation this week. In 2025, the skill was describing what you wa...</description>
+      <guid isPermaLink="false">weekly-tech-2026-03-22</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-03-22.mp3" length="4203648" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 18:16:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
