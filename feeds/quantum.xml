@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 21 Mar 2026 18:11:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 22 Mar 2026 18:22:12 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -121,6 +121,13 @@ Let's start with Nvidia, which remains arguably the most consequential technolog
       <pubDate>Sat, 21 Mar 2026 18:11:19 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Ecosystems, Chips, and Policy Push</title>
+      <description>Today's quantum landscape is defined by three converging forces: regional ecosystem building, hardware breakthroughs from tech giants, and growing government engagement. Let's start with the biggest policy moves. California has launched Quantum California, a statewide public-private initiative under the California Jobs First Economic Blueprint — the state's first bottom-up economic strategy in more than 20 years. Leaders from science, industry, and the governor's office convened at UC Santa Barb...</description>
+      <guid isPermaLink="false">daily-quantum-20260322</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-22.mp3" length="2133216" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 18:10:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Quantum</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-quantum-2026-03-08</guid>
@@ -135,6 +142,15 @@ The week opened with a sweeping survey of the field's breakout moment. The numbe
       <guid isPermaLink="false">weekly-quantum-2026-03-15</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-03-15.mp3" length="4275360" type="audio/mpeg"/>
       <pubDate>Sun, 15 Mar 2026 18:24:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing has been one of the most eventful in recent memory, with developments spanning government policy, financial milestones, fundamental research, and the continued blurring of boundaries between quantum and classical computing. The overarching story is one of an industry decisively crossing from laboratory curiosity into industrial infrastructure, even as deep technical challenges remind us just how much work remains.
+
+The most commanding theme this week has been the m...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-03-22</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-03-22.mp3" length="3067344" type="audio/mpeg"/>
+      <pubDate>Sun, 22 Mar 2026 18:22:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
