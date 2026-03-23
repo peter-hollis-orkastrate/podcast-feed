@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 18:22:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 18:11:46 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -126,6 +126,13 @@ Let's start with Nvidia, which remains arguably the most consequential technolog
       <guid isPermaLink="false">daily-quantum-20260322</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-22.mp3" length="2133216" type="audio/mpeg"/>
       <pubDate>Sun, 22 Mar 2026 18:10:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Strategy, Chips, and Breakthroughs</title>
+      <description>Several important threads are converging in the quantum computing world right now. Let's start with policy. The Government Accountability Office just published a report flagging serious strategic gaps in the National Quantum Initiative Act ahead of a Senate Commerce Committee markup on its reauthorization this Wednesday. The GAO found that the current national quantum strategy lacks specific objectives for quantum computing, has no metrics to measure federal quantum activities, doesn't address f...</description>
+      <guid isPermaLink="false">daily-quantum-20260323</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-23.mp3" length="1862064" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Mar 2026 18:10:35 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
