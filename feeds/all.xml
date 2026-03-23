@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 18:22:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 18:11:46 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -193,6 +193,15 @@ OpenClaw only works as a paradigm if company systems — product catalogs, trans
       <pubDate>Sun, 22 Mar 2026 18:08:41 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Strategic Bets Behind AI Agents</title>
+      <description>OpenClaw is the most consequential moment in AI since ChatGPT. But the real story isn't the horse race of competitors or the security dumpster fire — it's that every major company responding to OpenClaw has made a fundamentally different strategic bet. And if you understand those bets, you can look at any new agent product and immediately figure out what it's actually for and whether it works for you.
+
+This matters because the avalanche is real. Nvidia built Nemo Claw. OpenAI acqui-hired Peter a...</description>
+      <guid isPermaLink="false">b7IS4C9QALc</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-23 - strategic-bets-behind-ai-agents.mp3" length="2403504" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Mar 2026 18:08:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -313,6 +322,15 @@ The headline message from the FCA is a clear shift in expectations: the regulato
       <pubDate>Sun, 22 Mar 2026 18:12:31 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - Regulatory References and PRA Oversight Basics</title>
+      <description>It's a relatively quiet day on the regulatory front. The sources flagged today are essentially background reference materials rather than new enforcement actions or policy changes, but they touch on themes that remain core to how compliance teams operate.
+
+The PRA continues in its established role as the prudential supervisor for banks, building societies, credit unions, insurers, and major investment firms. For wholesale markets and Global Banking &amp; Markets divisions, the PRA's oversight framew...</description>
+      <guid isPermaLink="false">daily-compliance-20260323</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-23.mp3" length="1037376" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Mar 2026 18:11:45 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -428,6 +446,13 @@ Let's start with Nvidia, which remains arguably the most consequential technolog
       <guid isPermaLink="false">daily-quantum-20260322</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-22.mp3" length="2133216" type="audio/mpeg"/>
       <pubDate>Sun, 22 Mar 2026 18:10:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Strategy, Chips, and Breakthroughs</title>
+      <description>Several important threads are converging in the quantum computing world right now. Let's start with policy. The Government Accountability Office just published a report flagging serious strategic gaps in the National Quantum Initiative Act ahead of a Senate Commerce Committee markup on its reauthorization this Wednesday. The GAO found that the current national quantum strategy lacks specific objectives for quantum computing, has no metrics to measure federal quantum activities, doesn't address f...</description>
+      <guid isPermaLink="false">daily-quantum-20260323</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-23.mp3" length="1862064" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Mar 2026 18:10:35 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
