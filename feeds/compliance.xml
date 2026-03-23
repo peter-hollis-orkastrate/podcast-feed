@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 18:22:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 18:11:46 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -129,6 +129,15 @@ The headline message from the FCA is a clear shift in expectations: the regulato
       <guid isPermaLink="false">daily-compliance-20260322</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-22.mp3" length="1840752" type="audio/mpeg"/>
       <pubDate>Sun, 22 Mar 2026 18:12:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Regulatory References and PRA Oversight Basics</title>
+      <description>It's a relatively quiet day on the regulatory front. The sources flagged today are essentially background reference materials rather than new enforcement actions or policy changes, but they touch on themes that remain core to how compliance teams operate.
+
+The PRA continues in its established role as the prudential supervisor for banks, building societies, credit unions, insurers, and major investment firms. For wholesale markets and Global Banking &amp; Markets divisions, the PRA's oversight framew...</description>
+      <guid isPermaLink="false">daily-compliance-20260323</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-23.mp3" length="1037376" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Mar 2026 18:11:45 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
