@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 22 Mar 2026 18:22:12 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Mar 2026 18:11:46 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -168,6 +168,15 @@ OpenClaw only works as a paradigm if company systems — product catalogs, trans
       <guid isPermaLink="false">BE4RclIGDmY</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-22 - making-businesses-agent-readable.mp3" length="2944512" type="audio/mpeg"/>
       <pubDate>Sun, 22 Mar 2026 18:08:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Strategic Bets Behind AI Agents</title>
+      <description>OpenClaw is the most consequential moment in AI since ChatGPT. But the real story isn't the horse race of competitors or the security dumpster fire — it's that every major company responding to OpenClaw has made a fundamentally different strategic bet. And if you understand those bets, you can look at any new agent product and immediately figure out what it's actually for and whether it works for you.
+
+This matters because the avalanche is real. Nvidia built Nemo Claw. OpenAI acqui-hired Peter a...</description>
+      <guid isPermaLink="false">b7IS4C9QALc</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-23 - strategic-bets-behind-ai-agents.mp3" length="2403504" type="audio/mpeg"/>
+      <pubDate>Mon, 23 Mar 2026 18:08:12 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
