@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 23 Mar 2026 18:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Mar 2026 18:14:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -177,6 +177,15 @@ This matters because the avalanche is real. Nvidia built Nemo Claw. OpenAI acqui
       <guid isPermaLink="false">b7IS4C9QALc</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-23 - strategic-bets-behind-ai-agents.mp3" length="2403504" type="audio/mpeg"/>
       <pubDate>Mon, 23 Mar 2026 18:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Agent Engineering Needs Old Principles</title>
+      <description>There's a battle playing out at the heart of agent world. On one side, Nvidia with Nemo Claw. On the other, OpenAI and Anthropic. The battle isn't about who builds agents — it's about how you get enterprises to actually use them.
+
+Anthropic and OpenAI spent 2025 discovering a bitter lesson: the companies they work with didn't have the expertise to apply their solutions. They'd launch amazing tools and watch them suffer in production. These companies ship incredibly fast internally, but they were...</description>
+      <guid isPermaLink="false">7AO4w4Y_L24</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-24 - agent-engineering-needs-old-principles.mp3" length="3173040" type="audio/mpeg"/>
+      <pubDate>Tue, 24 Mar 2026 18:09:08 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
