@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 24 Mar 2026 18:14:29 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Mar 2026 18:10:01 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -140,6 +140,15 @@ Let's start with Nvidia, which remains arguably the most consequential technolog
       <guid isPermaLink="false">daily-quantum-20260324</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-24.mp3" length="2642544" type="audio/mpeg"/>
       <pubDate>Tue, 24 Mar 2026 18:12:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Infrastructure, Investment, and Breakthroughs</title>
+      <description>Today's quantum news spans major developments in hardware strategy, networking breakthroughs, materials science, investment, and sustainability concerns.
+
+Let's start with Google, which just announced a significant expansion of its quantum roadmap. After more than a decade focused exclusively on superconducting qubits, Google Quantum AI is now adding neutral atom qubits as a second modality. Hartmut Neven, the founder and lead of Google Quantum AI, said the move is about exploiting the complemen...</description>
+      <guid isPermaLink="false">daily-quantum-20260325</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-25.mp3" length="2181456" type="audio/mpeg"/>
+      <pubDate>Wed, 25 Mar 2026 18:10:00 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
