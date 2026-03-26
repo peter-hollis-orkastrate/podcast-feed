@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 18:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 18:17:47 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -149,6 +149,13 @@ Let's start with Google, which just announced a significant expansion of its qua
       <guid isPermaLink="false">daily-quantum-20260325</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-25.mp3" length="2181456" type="audio/mpeg"/>
       <pubDate>Wed, 25 Mar 2026 18:10:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Encryption Threats and Market Reality</title>
+      <description>The biggest quantum computing story today is Google's stark warning that quantum computers could break most existing encryption systems by 2029. In a blog post, the Alphabet-owned company said encryption currently used to keep information confidential could easily be broken by a large-scale quantum computer in coming years, and urged banks, governments, and technology providers to begin migrating to post-quantum cryptography immediately. Google said it has already adjusted its own threat model t...</description>
+      <guid isPermaLink="false">daily-quantum-20260326</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-26.mp3" length="2254032" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Mar 2026 18:14:47 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
