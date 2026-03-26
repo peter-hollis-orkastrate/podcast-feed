@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 25 Mar 2026 18:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Mar 2026 18:17:47 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -32,6 +32,15 @@ The UK currently has two main fiscal rules — one saying day-to-day borrowing s
       <guid isPermaLink="false">19011ozXs6E</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-03-20 - uk-pensioner-wealth-reality-check.mp3" length="2858112" type="audio/mpeg"/>
       <pubDate>Fri, 20 Mar 2026 18:10:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK State Pension Age Realities</title>
+      <description>The state pension age is not a retirement age. You don't have to retire when you hit it, and most people actually leave work before it. Only about 10% of people retire right at the state pension age. But it's enormously salient — people anchor to it, and that labeling effect genuinely changes behavior.
+
+So what is the state pension actually doing? Three things. It provides anti-poverty protection. It creates a base layer of income across the distribution on which people build private pensions. A...</description>
+      <guid isPermaLink="false">BOn38uo5biI</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-03-26 - uk-state-pension-age-realities.mp3" length="999936" type="audio/mpeg"/>
+      <pubDate>Thu, 26 Mar 2026 18:12:25 +0000</pubDate>
     </item>
   </channel>
 </rss>
