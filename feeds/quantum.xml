@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 18:17:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 18:12:40 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -156,6 +156,15 @@ Let's start with Google, which just announced a significant expansion of its qua
       <guid isPermaLink="false">daily-quantum-20260326</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-26.mp3" length="2254032" type="audio/mpeg"/>
       <pubDate>Thu, 26 Mar 2026 18:14:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Xanadu IPO and Quantum Security Timeline</title>
+      <description>The biggest quantum computing story today is Xanadu Quantum Technologies going public. The Toronto-based company began trading on both the TSX and Nasdaq on Friday under the ticker XNDU, making it the first Canadian tech company to debut on the Toronto Stock Exchange since 2021 and the first pure-play photonic quantum computing business to go public anywhere.
+
+Xanadu achieved this through a deSPAC merger with Philadelphia-based Crane Harbor Acquisition Corp, a deal originally valued at roughly 3...</description>
+      <guid isPermaLink="false">daily-quantum-20260327</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-27.mp3" length="1763424" type="audio/mpeg"/>
+      <pubDate>Fri, 27 Mar 2026 18:10:35 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
