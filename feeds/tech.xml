@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 26 Mar 2026 18:17:47 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Mar 2026 18:12:40 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -202,6 +202,15 @@ First: coding harnesses. These are the simplest — an agent taking the place of
       <guid isPermaLink="false">4cuT-LKcmWs</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-26 - seven-skills-driving-ai-hiring.mp3" length="2650896" type="audio/mpeg"/>
       <pubDate>Thu, 26 Mar 2026 18:10:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Design Moves to the Command Line</title>
+      <description>Three releases dropped recently that matter if you're a builder, and they all point to the same shift: design is moving to the command line.
+
+First, Google updated Stitch. It's a free tool where you describe an app in words and it draws finished-looking UI—not wireframes—multiple pages at once on an infinite canvas, with voice mode. You can say 'design a landing page for an AI writing assistant with a hero section, feature cards, and two-tier pricing,' and it generates complete high-fidelity scr...</description>
+      <guid isPermaLink="false">CDClFY-R0dI</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-27 - design-moves-to-the-command-line.mp3" length="3279456" type="audio/mpeg"/>
+      <pubDate>Fri, 27 Mar 2026 18:08:33 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
