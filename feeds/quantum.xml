@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 18:12:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 18:10:01 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -165,6 +165,15 @@ Xanadu achieved this through a deSPAC merger with Philadelphia-based Crane Harbo
       <guid isPermaLink="false">daily-quantum-20260327</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-27.mp3" length="1763424" type="audio/mpeg"/>
       <pubDate>Fri, 27 Mar 2026 18:10:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Race, Security, and Breakthroughs</title>
+      <description>The quantum computing landscape is heating up on multiple fronts today, from geopolitics and cybersecurity to fundamental hardware breakthroughs and machine learning applications.
+
+Let's start with the big picture. A new Jefferies report lays out the intensifying U.S.-China quantum computing race, and the numbers are striking. China has poured an estimated $16 billion in public funding into quantum — roughly four times what the U.S. government has invested. Beijing has embedded quantum computing...</description>
+      <guid isPermaLink="false">daily-quantum-20260328</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-28.mp3" length="2494512" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Mar 2026 18:10:00 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
