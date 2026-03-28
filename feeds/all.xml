@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 27 Mar 2026 18:12:40 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 28 Mar 2026 18:10:01 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -243,6 +243,15 @@ First, Google updated Stitch. It's a free tool where you describe an app in word
       <guid isPermaLink="false">CDClFY-R0dI</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-27 - design-moves-to-the-command-line.mp3" length="3279456" type="audio/mpeg"/>
       <pubDate>Fri, 27 Mar 2026 18:08:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Agents That Clear Your Desk</title>
+      <description>Anthropic just shipped three things for Claude that together give you what OpenClaw gave early adopters, but without the self-hosting burden: scheduled tasks, Dispatch, and computer use. You can text Claude from your phone, it takes over your desktop, opens apps, clicks through screens, navigates tools with no API, and delivers finished work while you're away. Not a summary to review, not a draft to edit — the thing itself gets sorted.
+
+That distinction between work that lands on your desk and w...</description>
+      <guid isPermaLink="false">3e7gmNPr5Vo</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-28 - agents-that-clear-your-desk.mp3" length="2714112" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Mar 2026 18:07:50 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -553,6 +562,15 @@ Xanadu achieved this through a deSPAC merger with Philadelphia-based Crane Harbo
       <guid isPermaLink="false">daily-quantum-20260327</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-27.mp3" length="1763424" type="audio/mpeg"/>
       <pubDate>Fri, 27 Mar 2026 18:10:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Race, Security, and Breakthroughs</title>
+      <description>The quantum computing landscape is heating up on multiple fronts today, from geopolitics and cybersecurity to fundamental hardware breakthroughs and machine learning applications.
+
+Let's start with the big picture. A new Jefferies report lays out the intensifying U.S.-China quantum computing race, and the numbers are striking. China has poured an estimated $16 billion in public funding into quantum — roughly four times what the U.S. government has invested. Beijing has embedded quantum computing...</description>
+      <guid isPermaLink="false">daily-quantum-20260328</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-28.mp3" length="2494512" type="audio/mpeg"/>
+      <pubDate>Sat, 28 Mar 2026 18:10:00 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
