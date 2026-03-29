@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 28 Mar 2026 18:10:01 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Mar 2026 17:20:28 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -176,6 +176,13 @@ Let's start with the big picture. A new Jefferies report lays out the intensifyi
       <pubDate>Sat, 28 Mar 2026 18:10:00 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Security, Cooling, and Industry Race</title>
+      <description>The biggest quantum news today centers on security. Google has drawn a firm line, setting 2029 as its deadline for a complete migration to post-quantum cryptography. Heather Adkins, VP of Security Engineering, framed it as a responsibility — Google leading by example to push the entire industry toward quantum-resistant encryption before powerful quantum machines can break what we rely on today. The specific threat driving this urgency is 'store-now-decrypt-later' attacks, where adversaries inter...</description>
+      <guid isPermaLink="false">daily-quantum-20260329</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-29.mp3" length="2101248" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Mar 2026 17:07:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Quantum</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-quantum-2026-03-08</guid>
@@ -199,6 +206,15 @@ The most commanding theme this week has been the m...</description>
       <guid isPermaLink="false">weekly-quantum-2026-03-22</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-03-22.mp3" length="3067344" type="audio/mpeg"/>
       <pubDate>Sun, 22 Mar 2026 18:22:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing, a remarkably coherent picture emerged of a field that is simultaneously maturing, fragmenting, and racing against its own implications. Three dominant themes wove through virtually every development: the urgent scramble to prepare for quantum's threat to encryption, a hardware landscape diversifying faster than ever, and a global competition for talent, investment, and strategic positioning that is reshaping national economic policy.
+
+The most urgent and recurring...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-03-29</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-03-29.mp3" length="4001040" type="audio/mpeg"/>
+      <pubDate>Sun, 29 Mar 2026 17:20:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
