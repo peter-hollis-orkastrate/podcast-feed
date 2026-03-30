@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 29 Mar 2026 17:20:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 30 Mar 2026 17:15:03 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -252,6 +252,22 @@ That distinction between work that lands on your desk and w...</description>
       <guid isPermaLink="false">3e7gmNPr5Vo</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-28 - agents-that-clear-your-desk.mp3" length="2714112" type="audio/mpeg"/>
       <pubDate>Sat, 28 Mar 2026 18:07:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Qatar Helium Crisis Threatens AI Supply Chain</title>
+      <description>Hyperscalers are set to spend over a trillion dollars on AI in the next 24 months. Sergey Brin has said on the record he'd rather Google go bankrupt than lose the AI race. Companies are issuing bonds, going negative on free cash flow to build data centers. But all of that investment is now at risk because of a helium gas plant in Qatar.
+
+Here's the core problem. Memory and chips depend on helium — a noble gas with no substitute in chip fabrication. Helium is required during plasma etching to pul...</description>
+      <guid isPermaLink="false">sTkqCREdMXo</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-29 - qatar-helium-crisis-threatens-ai-supply-chain.mp3" length="2641104" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Mar 2026 17:12:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Skills as Agent Infrastructure Layer</title>
+      <description>Anthropic launched skills back in October, and what's happened since then has fundamentally changed how we should think about them. Most people still treat skills as those individual things from the fall. They're not. Skills have gone from personal configuration to organizational infrastructure. Team and enterprise admins are rolling them out company-wide, version-controlled, available in the sidebar, callable inside Excel, PowerPoint, Claude, Copilot. Your organization's methodology no longer l...</description>
+      <guid isPermaLink="false">0cVuMHaYEHE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-03-30 - skills-as-agent-infrastructure-layer.mp3" length="3103056" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Mar 2026 17:09:03 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -587,6 +603,13 @@ Let's start with the big picture. A new Jefferies report lays out the intensifyi
       <guid isPermaLink="false">daily-quantum-20260329</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-29.mp3" length="2101248" type="audio/mpeg"/>
       <pubDate>Sun, 29 Mar 2026 17:07:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Infrastructure Battles and Breakthroughs</title>
+      <description>There's a major scientific breakthrough to lead with today. Researchers at the University of Central Florida have published a study in Science demonstrating a method for scaling up quantum entanglement using topologically protected modes of light in silicon photonic superlattices. Professor Andrea Blanco-Redondo's team managed to entangle three, four, and five topological modes by cleverly rearranging waveguide configurations on silicon chips — rather than making the system more elaborate. The k...</description>
+      <guid isPermaLink="false">daily-quantum-20260330</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-30.mp3" length="2466288" type="audio/mpeg"/>
+      <pubDate>Mon, 30 Mar 2026 17:15:02 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
