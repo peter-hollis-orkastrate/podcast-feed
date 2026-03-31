@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 17:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 17:12:54 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -172,6 +172,13 @@ Starting with what matters most to trading desks and surveillance teams: the FCA
       <guid isPermaLink="false">daily-compliance-20260329</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-29.mp3" length="3157344" type="audio/mpeg"/>
       <pubDate>Sun, 29 Mar 2026 17:10:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Insider Dealing Fines and SMCR Reporting Relief</title>
+      <description>Let's start with enforcement. The FCA has fined Russell Gerrity just over £309,000 for insider dealing. Gerrity was a consultant working on oil rig decommissioning projects and used confidential information about planned corporate transactions to trade shares ahead of public announcements, making profits of roughly £129,000. This is a textbook inside information case, but what matters for compliance teams is the FCA's methodology: they built the case through detailed analysis of information acce...</description>
+      <guid isPermaLink="false">daily-compliance-20260331</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-03-31.mp3" length="2510784" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Mar 2026 17:12:53 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
