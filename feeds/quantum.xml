@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Mar 2026 17:15:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Mar 2026 17:12:54 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -188,6 +188,17 @@ Let's start with the big picture. A new Jefferies report lays out the intensifyi
       <guid isPermaLink="false">daily-quantum-20260330</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-30.mp3" length="2466288" type="audio/mpeg"/>
       <pubDate>Mon, 30 Mar 2026 17:15:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Breakthroughs: Fewer Qubits, Bigger Risks</title>
+      <description>Today brings several significant developments in quantum computing, spanning hardware thresholds, security warnings, fundamental research, and real-world applications.
+
+Perhaps the most striking headline comes from Caltech, where a research team has found that useful quantum computers could be built with as few as 10,000 qubits. That's a dramatically lower bar than many in the field had assumed, and it could reshape timelines for when quantum advantage becomes practically achievable.
+
+That lower...</description>
+      <guid isPermaLink="false">daily-quantum-20260331</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-03-31.mp3" length="1635840" type="audio/mpeg"/>
+      <pubDate>Tue, 31 Mar 2026 17:10:27 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
