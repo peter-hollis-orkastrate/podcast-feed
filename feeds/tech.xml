@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 17:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 17:13:31 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -263,6 +263,15 @@ Jensen Huang gave a real number in an interview: $250,000 per individual enginee
       <guid isPermaLink="false">5ztI_dbj6ek</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-02 - stop-wasting-ai-tokens.mp3" length="3036096" type="audio/mpeg"/>
       <pubDate>Thu, 02 Apr 2026 17:08:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Claude Code's 12 Agent Architecture Primitives</title>
+      <description>Anthropic accidentally leaked Claude Code — their two and a half billion dollar run rate product. Most coverage focuses on unreleased feature flags, what ships in the next few weeks. That's fine. I wanted to understand the underlying architecture that sustains this business and extract the baseline infrastructure lessons any team can use to build agents successfully.
+
+Before we get into it, this is the second significant leak from Anthropic in days. Earlier this week, draft blog materials about ...</description>
+      <guid isPermaLink="false">FtCdYhspm7w</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-03 - claude-codes-12-agent-architecture-primitives.mp3" length="3447360" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Apr 2026 17:08:49 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
