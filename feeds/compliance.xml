@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Apr 2026 17:11:06 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Apr 2026 17:13:31 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -195,6 +195,15 @@ Let's start with what matters most for wholesale markets compliance. HM Treasury
       <guid isPermaLink="false">daily-compliance-20260402</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-02.mp3" length="949824" type="audio/mpeg"/>
       <pubDate>Thu, 02 Apr 2026 17:11:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SMCR Accountability and AML Enforcement Intensify</title>
+      <description>Good morning. Two significant enforcement trends are converging right now that demand attention from compliance teams across wholesale markets and Global Banking &amp; Markets divisions.
+
+Let's start with the most consequential development: the FCA is escalating its focus on individual senior manager accountability under SMCR, and the recent cases of Kasim Garipoglu and Howard Duckett tell the story clearly. On 13 March 2026, the FCA issued its Final Notice banning Garipoglu from performing any func...</description>
+      <guid isPermaLink="false">daily-compliance-20260403</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-03.mp3" length="2688192" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Apr 2026 17:13:30 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
