@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Apr 2026 17:10:52 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Apr 2026 17:20:32 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -215,6 +215,13 @@ Let's start with the headline message from the FCA. CEO Nikhil Rathi confirmed i
       <pubDate>Sat, 04 Apr 2026 17:10:51 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - FCA Market Abuse Enforcement Intensifies</title>
+      <description>Let's start with the enforcement picture. The FCA has already issued over sixteen million pounds in fines in 2026, and the pattern is unmistakable — market abuse is the dominant theme. The most significant corporate penalty came against John Wood Group PLC, fined nearly thirteen million pounds for breaching Listing Rules through the publication of misleading information. But for compliance teams at investment banks, the action to watch closely is Dinosaur Merchant Bank, fined three hundred and t...</description>
+      <guid isPermaLink="false">daily-compliance-20260405</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-05.mp3" length="2526048" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Apr 2026 17:09:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -247,6 +254,15 @@ The single loudest signal this week is the FCA's relentless focus on systems, co
       <guid isPermaLink="false">weekly-compliance-2026-03-29</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-03-29.mp3" length="2681856" type="audio/mpeg"/>
       <pubDate>Sun, 29 Mar 2026 17:16:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, one theme towers above everything else: regulators are no longer simply asking whether controls exist on paper — they are testing whether those controls actually work under real-world conditions. That shift in emphasis runs through every major development this week, from market abuse enforcement to AI governance, from SMCR accountability to AML screening, and it carries immediate practical consequences for compliance teams across wholesale markets and beyond.
+
+The most p...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-04-05</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-04-05.mp3" length="4152816" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Apr 2026 17:16:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
