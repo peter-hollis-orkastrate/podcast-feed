@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 17:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 17:16:54 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -315,6 +315,24 @@ Let's start with why this category exists. In January, Anthropic shipped Co-work
       <pubDate>Sat, 04 Apr 2026 17:07:46 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Agents Need Foundations Not Hype</title>
+      <description>The OpenClaw stories are real. You can build a $320,000 SaaS replacement, a full CRM in days, scale ad creatives from 20 to 2,000. All verified. But what concerns me is people treating this as a blank-slate permission slip — thinking they don't have to worry about data, best practices, or software architecture because OpenClaw will make it better. It won't.
+
+Let me be precise about what OpenClaw actually is: an open-source, self-hosted, model-agnostic AI agent framework. It runs as a persistent ...</description>
+      <guid isPermaLink="false">kVPVmz0qJvY</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-05 - agents-need-foundations-not-hype.mp3" length="2291760" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Apr 2026 17:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - AI Agent Infrastructure Stack Decoded</title>
+      <description>Right now, a new infrastructure stack is being assembled for AI agents, with billions in capital behind it. It's not software, it's not agents — it's the layer underneath both that lets agents actually do things in the world. And almost nobody can figure out what's real and what's hype.
+
+We've seen this movie twice before. Between 2006 and 2010, computing shifted from on-prem to the cloud — AWS emerged from that. Between 2012 and 2016, monolithic apps decomposed into microservices. Now we're wat...</description>
+      <guid isPermaLink="false">7HP1jFJ9W1c</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-06 - ai-agent-infrastructure-stack-decoded.mp3" length="3750768" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Apr 2026 17:09:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -524,6 +542,13 @@ Let's start with the headline message from the FCA. CEO Nikhil Rathi confirmed i
       <guid isPermaLink="false">daily-compliance-20260405</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-05.mp3" length="2526048" type="audio/mpeg"/>
       <pubDate>Sun, 05 Apr 2026 17:09:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SM&amp;CR Reform and Regulatory Grid Update</title>
+      <description>The most significant development for compliance teams today is the FCA's publication of Consultation Paper CP25/21, which proposes substantial reforms to the Senior Managers and Certification Regime. This is a two-phase effort. Phase one targets immediate practical improvements — greater flexibility around the 12-week rule for temporary senior management function cover, extended validity periods for criminal record checks in SMF applications, streamlined certification processes to reduce duplica...</description>
+      <guid isPermaLink="false">daily-compliance-20260406</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-06.mp3" length="2469744" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Apr 2026 17:16:52 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -753,6 +778,13 @@ Let's start with the cautionary tale. Xanadu, a Toronto-based quantum computing 
       <guid isPermaLink="false">daily-quantum-20260405</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-05.mp3" length="1843200" type="audio/mpeg"/>
       <pubDate>Sun, 05 Apr 2026 17:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - IonQ's Accuracy Edge and Quantum Ecosystem Growth</title>
+      <description>Today in quantum computing, two stories highlight both the commercial race and the growing academic ecosystem shaping the field. First, IonQ continues to stand out among pure-play quantum computing companies, and the reason comes down to its trapped ion architecture. Unlike superconducting approaches, where qubits can only interact with their immediate neighbors, trapped ion technology allows every qubit in the system to communicate with every other qubit. That full connectivity translates into ...</description>
+      <guid isPermaLink="false">daily-quantum-20260406</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-06.mp3" length="1500768" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Apr 2026 17:14:36 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
