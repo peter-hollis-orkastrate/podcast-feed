@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Apr 2026 17:20:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Apr 2026 17:16:54 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -238,6 +238,13 @@ Let's start with the cautionary tale. Xanadu, a Toronto-based quantum computing 
       <guid isPermaLink="false">daily-quantum-20260405</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-05.mp3" length="1843200" type="audio/mpeg"/>
       <pubDate>Sun, 05 Apr 2026 17:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - IonQ's Accuracy Edge and Quantum Ecosystem Growth</title>
+      <description>Today in quantum computing, two stories highlight both the commercial race and the growing academic ecosystem shaping the field. First, IonQ continues to stand out among pure-play quantum computing companies, and the reason comes down to its trapped ion architecture. Unlike superconducting approaches, where qubits can only interact with their immediate neighbors, trapped ion technology allows every qubit in the system to communicate with every other qubit. That full connectivity translates into ...</description>
+      <guid isPermaLink="false">daily-quantum-20260406</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-06.mp3" length="1500768" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Apr 2026 17:14:36 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
