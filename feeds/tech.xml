@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 17:16:53 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 17:13:03 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -299,6 +299,13 @@ We've seen this movie twice before. Between 2006 and 2010, computing shifted fro
       <guid isPermaLink="false">7HP1jFJ9W1c</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-06 - ai-agent-infrastructure-stack-decoded.mp3" length="3750768" type="audio/mpeg"/>
       <pubDate>Mon, 06 Apr 2026 17:09:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - AI Is Collapsing Arbitrage Everywhere</title>
+      <description>For thousands of years, since the days of ancient copper merchants on camel caravan routes, the world has been built on arbitrage — gaps between what something costs and what the market pays. These aren't bugs. They're the structure of the economy. The law firm billing ten hours for two hours of thinking. The consultant charging a fortune for synthesizing public data. Offshore dev teams existing because a San Francisco engineer costs more than a Bangalore one. These gaps are the water the econom...</description>
+      <guid isPermaLink="false">BiqG3it0gY0</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-07 - ai-is-collapsing-arbitrage-everywhere.mp3" length="3596688" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Apr 2026 17:09:33 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
