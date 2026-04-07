@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 17:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 17:13:04 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -245,6 +245,13 @@ Let's start with the cautionary tale. Xanadu, a Toronto-based quantum computing 
       <guid isPermaLink="false">daily-quantum-20260406</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-06.mp3" length="1500768" type="audio/mpeg"/>
       <pubDate>Mon, 06 Apr 2026 17:14:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Gains Ground Amid Market Caution</title>
+      <description>Let's start with the biggest research development today. A team from the University of Science and Technology of China, led by Professor Peng Xinhua, has published results in Physical Review Letters showing that a quantum processor with just nine interacting atomic spins outperformed classical neural networks containing thousands of nodes on real-world weather forecasting. The key innovation here is quantum reservoir computing — a brain-inspired approach where the natural dynamics of the quantum...</description>
+      <guid isPermaLink="false">daily-quantum-20260407</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-07.mp3" length="1818432" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Apr 2026 17:11:55 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
