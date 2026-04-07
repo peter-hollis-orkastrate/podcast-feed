@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 06 Apr 2026 17:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Apr 2026 17:13:04 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -227,6 +227,15 @@ Let's start with the headline message from the FCA. CEO Nikhil Rathi confirmed i
       <guid isPermaLink="false">daily-compliance-20260406</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-06.mp3" length="2469744" type="audio/mpeg"/>
       <pubDate>Mon, 06 Apr 2026 17:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - UK MAR Post-Brexit Surveillance Expectations</title>
+      <description>Good morning. Today's briefing covers the UK market abuse regulation landscape following Brexit and what it means practically for surveillance and compliance operations at investment banks.
+
+The headline point is straightforward but operationally significant: UK MAR now stands as an independent regime, separate from EU MAR. For Global Banking and Markets divisions operating across jurisdictions, this means dual compliance obligations are a reality, not a theoretical concern. Firms must ensure th...</description>
+      <guid isPermaLink="false">daily-compliance-20260407</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-07.mp3" length="1092960" type="audio/mpeg"/>
+      <pubDate>Tue, 07 Apr 2026 17:13:02 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
