@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 17:13:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 17:16:40 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -306,6 +306,15 @@ We've seen this movie twice before. Between 2006 and 2010, computing shifted fro
       <guid isPermaLink="false">BiqG3it0gY0</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-07 - ai-is-collapsing-arbitrage-everywhere.mp3" length="3596688" type="audio/mpeg"/>
       <pubDate>Tue, 07 Apr 2026 17:09:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Persistent Agent Lock-In Strategy</title>
+      <description>The most important thing in the Claude code leak isn't the code. Buried in the half-million lines Anthropic accidentally published to a public registry is an unannounced project called Conway — a standalone always-on agent environment. It's not on Anthropic's roadmap. It's internal. And when you line it up against everything else they've shipped this quarter, it reveals a platform strategy most of us aren't seeing clearly enough.
+
+Conway operates as a dedicated sidebar inside the Claude interfac...</description>
+      <guid isPermaLink="false">ro5jpbi5uYc</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-08 - persistent-agent-lock-in-strategy.mp3" length="3903120" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Apr 2026 17:10:09 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
