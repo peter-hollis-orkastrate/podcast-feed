@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 17:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 17:16:40 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -252,6 +252,13 @@ Let's start with the cautionary tale. Xanadu, a Toronto-based quantum computing 
       <guid isPermaLink="false">daily-quantum-20260407</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-07.mp3" length="1818432" type="audio/mpeg"/>
       <pubDate>Tue, 07 Apr 2026 17:11:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - AI Accelerates Quantum Encryption Threat</title>
+      <description>The biggest quantum computing story right now is a potential sea change in the encryption threat timeline. Researchers from Oratomic, a startup co-founded by Dolev Bluvstein, and Google have published new papers suggesting quantum computers capable of breaking internet encryption could arrive significantly sooner than expected. The reaction has been swift — Cloudflare is accelerating its post-quantum preparation deadline to 2029, and cybersecurity researcher Bas Westerbaan called it 'a real shoc...</description>
+      <guid isPermaLink="false">daily-quantum-20260408</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-08.mp3" length="1978704" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Apr 2026 17:16:39 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
