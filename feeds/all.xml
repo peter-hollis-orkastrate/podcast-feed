@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Apr 2026 17:13:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Apr 2026 17:16:40 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -41,6 +41,13 @@ So what is the state pension actually doing? Three things. It provides anti-pove
       <guid isPermaLink="false">BOn38uo5biI</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-03-26 - uk-state-pension-age-realities.mp3" length="999936" type="audio/mpeg"/>
       <pubDate>Thu, 26 Mar 2026 18:12:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - Scotland's Looming Fiscal Crunch</title>
+      <description>Scotland controls about two-thirds of its public spending — health, education, social care, justice, and now some social security. It also has significant tax powers, most importantly over income tax rates and bands. But the biggest reason Scotland spends more per person than England isn't those taxes — it's the funding it gets from the UK government. We estimate that in 2024-25, Scotland received about 26% more per person than was spent on comparable services in England. That's actually down fr...</description>
+      <guid isPermaLink="false">PsSOSTlEP0U</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-04-08 - scotlands-looming-fiscal-crunch.mp3" length="3280320" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Apr 2026 17:14:30 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -338,6 +345,15 @@ We've seen this movie twice before. Between 2006 and 2010, computing shifted fro
       <guid isPermaLink="false">BiqG3it0gY0</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-07 - ai-is-collapsing-arbitrage-everywhere.mp3" length="3596688" type="audio/mpeg"/>
       <pubDate>Tue, 07 Apr 2026 17:09:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Persistent Agent Lock-In Strategy</title>
+      <description>The most important thing in the Claude code leak isn't the code. Buried in the half-million lines Anthropic accidentally published to a public registry is an unannounced project called Conway — a standalone always-on agent environment. It's not on Anthropic's roadmap. It's internal. And when you line it up against everything else they've shipped this quarter, it reveals a platform strategy most of us aren't seeing clearly enough.
+
+Conway operates as a dedicated sidebar inside the Claude interfac...</description>
+      <guid isPermaLink="false">ro5jpbi5uYc</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-08 - persistent-agent-lock-in-strategy.mp3" length="3903120" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Apr 2026 17:10:09 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -808,6 +824,13 @@ Let's start with the cautionary tale. Xanadu, a Toronto-based quantum computing 
       <guid isPermaLink="false">daily-quantum-20260407</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-07.mp3" length="1818432" type="audio/mpeg"/>
       <pubDate>Tue, 07 Apr 2026 17:11:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - AI Accelerates Quantum Encryption Threat</title>
+      <description>The biggest quantum computing story right now is a potential sea change in the encryption threat timeline. Researchers from Oratomic, a startup co-founded by Dolev Bluvstein, and Google have published new papers suggesting quantum computers capable of breaking internet encryption could arrive significantly sooner than expected. The reaction has been swift — Cloudflare is accelerating its post-quantum preparation deadline to 2029, and cybersecurity researcher Bas Westerbaan called it 'a real shoc...</description>
+      <guid isPermaLink="false">daily-quantum-20260408</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-08.mp3" length="1978704" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Apr 2026 17:16:39 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
