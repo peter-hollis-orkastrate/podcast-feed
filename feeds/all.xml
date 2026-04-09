@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 17:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 17:12:22 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -356,6 +356,15 @@ Conway operates as a dedicated sidebar inside the Claude interfac...</descriptio
       <pubDate>Wed, 08 Apr 2026 17:10:09 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - AI IPOs Raiding Retirement Funds</title>
+      <description>Three companies in the AI space — SpaceX, OpenAI, and Anthropic — collectively valued at around $3 trillion, are planning to go public in the second half of 2026 and early 2027. SpaceX is targeting June, Anthropic is eyeing October, and OpenAI is looking at early 2027. And your retirement account is the exit liquidity.
+
+To understand the scale problem, consider this: every IPO in the United States last year raised a grand total of $47 billion combined. That was the best year in a long time. Spac...</description>
+      <guid isPermaLink="false">9N7qXkmntlU</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-09 - ai-ipos-raiding-retirement-funds.mp3" length="3021696" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Apr 2026 17:08:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -581,6 +590,17 @@ The headline point is straightforward but operationally significant: UK MAR now 
       <guid isPermaLink="false">daily-compliance-20260407</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-07.mp3" length="1092960" type="audio/mpeg"/>
       <pubDate>Tue, 07 Apr 2026 17:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - PRA FCA Remuneration Rules Overhaul</title>
+      <description>Good morning. Today's briefing covers a major overhaul of UK banker remuneration rules that compliance teams across wholesale markets and Global Banking &amp; Markets divisions need to act on immediately.
+
+The PRA and FCA have announced sweeping reforms to senior banker pay rules, effective October 16, 2025. These changes apply to 2025 pay awards and any outstanding payments, so the implementation window is essentially now.
+
+The headline change: bonus deferral periods for senior bankers are being ha...</description>
+      <guid isPermaLink="false">daily-compliance-20260409</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-09.mp3" length="2133504" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Apr 2026 17:12:21 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -831,6 +851,13 @@ Let's start with the cautionary tale. Xanadu, a Toronto-based quantum computing 
       <guid isPermaLink="false">daily-quantum-20260408</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-08.mp3" length="1978704" type="audio/mpeg"/>
       <pubDate>Wed, 08 Apr 2026 17:16:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Advances in Finance and Cryptography</title>
+      <description>Today in quantum, a few significant developments across both the commercial and research sides of the field. Let's start with the most consequential. Quanta Magazine is reporting that two independent research groups have made substantial progress in reducing the number of qubits and the time required to break common online encryption technologies. This is a big deal — it means the timeline for quantum computers posing a real threat to current security infrastructure may be shorter than many expe...</description>
+      <guid isPermaLink="false">daily-quantum-20260409</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-09.mp3" length="1224720" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Apr 2026 17:09:54 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
