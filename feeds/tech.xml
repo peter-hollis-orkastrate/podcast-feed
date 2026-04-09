@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 17:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 17:12:22 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -315,6 +315,15 @@ Conway operates as a dedicated sidebar inside the Claude interfac...</descriptio
       <guid isPermaLink="false">ro5jpbi5uYc</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-08 - persistent-agent-lock-in-strategy.mp3" length="3903120" type="audio/mpeg"/>
       <pubDate>Wed, 08 Apr 2026 17:10:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - AI IPOs Raiding Retirement Funds</title>
+      <description>Three companies in the AI space — SpaceX, OpenAI, and Anthropic — collectively valued at around $3 trillion, are planning to go public in the second half of 2026 and early 2027. SpaceX is targeting June, Anthropic is eyeing October, and OpenAI is looking at early 2027. And your retirement account is the exit liquidity.
+
+To understand the scale problem, consider this: every IPO in the United States last year raised a grand total of $47 billion combined. That was the best year in a long time. Spac...</description>
+      <guid isPermaLink="false">9N7qXkmntlU</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-09 - ai-ipos-raiding-retirement-funds.mp3" length="3021696" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Apr 2026 17:08:32 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
