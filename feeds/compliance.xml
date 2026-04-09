@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Apr 2026 17:16:40 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Apr 2026 17:12:22 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -236,6 +236,17 @@ The headline point is straightforward but operationally significant: UK MAR now 
       <guid isPermaLink="false">daily-compliance-20260407</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-07.mp3" length="1092960" type="audio/mpeg"/>
       <pubDate>Tue, 07 Apr 2026 17:13:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - PRA FCA Remuneration Rules Overhaul</title>
+      <description>Good morning. Today's briefing covers a major overhaul of UK banker remuneration rules that compliance teams across wholesale markets and Global Banking &amp; Markets divisions need to act on immediately.
+
+The PRA and FCA have announced sweeping reforms to senior banker pay rules, effective October 16, 2025. These changes apply to 2025 pay awards and any outstanding payments, so the implementation window is essentially now.
+
+The headline change: bonus deferral periods for senior bankers are being ha...</description>
+      <guid isPermaLink="false">daily-compliance-20260409</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-09.mp3" length="2133504" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Apr 2026 17:12:21 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
