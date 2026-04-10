@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 17:12:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 17:13:36 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -247,6 +247,15 @@ The headline change: bonus deferral periods for senior bankers are being ha...</
       <guid isPermaLink="false">daily-compliance-20260409</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-09.mp3" length="2133504" type="audio/mpeg"/>
       <pubDate>Thu, 09 Apr 2026 17:12:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - MAR Reforms, Enforcement Trends, Sanctions Escalation</title>
+      <description>Good morning. Several significant developments are converging that demand attention from compliance teams across wholesale markets and Global Banking &amp; Markets divisions.
+
+Let's start with market abuse. ESMA published a consultation on 19 February proposing amendments to its MAR guidelines on delayed disclosure of inside information. This aligns with the Listing Act changes coming into force on 5 June 2026. The key shift: issuers will no longer need to immediately disclose inside information rel...</description>
+      <guid isPermaLink="false">daily-compliance-20260410</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-10.mp3" length="3277296" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Apr 2026 17:13:34 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
