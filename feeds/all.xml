@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 17:12:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 17:13:36 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -365,6 +365,15 @@ To understand the scale problem, consider this: every IPO in the United States l
       <pubDate>Thu, 09 Apr 2026 17:08:32 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Five Durable Verticals in AI Economy</title>
+      <description>The AI app builder space — Lovable, Replit, Bolt, V0, and the long tail — is collapsing into a commodity. Lovable just raised $330 million at a $6.6 billion valuation with 100,000 new projects created daily. But most of these companies are functionally thin wrappers around Claude, ChatGPT, or Gemini. When your product is a UI layer on top of someone else's intelligence, your moat is about a week deep now that Claude Code and Codex exist.
+
+The conventional wisdom says you escape by training your ...</description>
+      <guid isPermaLink="false">ib2m9HVX7as</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-10 - five-durable-verticals-in-ai-economy.mp3" length="2729664" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Apr 2026 17:07:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -601,6 +610,15 @@ The headline change: bonus deferral periods for senior bankers are being ha...</
       <guid isPermaLink="false">daily-compliance-20260409</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-09.mp3" length="2133504" type="audio/mpeg"/>
       <pubDate>Thu, 09 Apr 2026 17:12:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - MAR Reforms, Enforcement Trends, Sanctions Escalation</title>
+      <description>Good morning. Several significant developments are converging that demand attention from compliance teams across wholesale markets and Global Banking &amp; Markets divisions.
+
+Let's start with market abuse. ESMA published a consultation on 19 February proposing amendments to its MAR guidelines on delayed disclosure of inside information. This aligns with the Listing Act changes coming into force on 5 June 2026. The key shift: issuers will no longer need to immediately disclose inside information rel...</description>
+      <guid isPermaLink="false">daily-compliance-20260410</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-10.mp3" length="3277296" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Apr 2026 17:13:34 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -858,6 +876,13 @@ Let's start with the cautionary tale. Xanadu, a Toronto-based quantum computing 
       <guid isPermaLink="false">daily-quantum-20260409</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-09.mp3" length="1224720" type="audio/mpeg"/>
       <pubDate>Thu, 09 Apr 2026 17:09:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Ecosystems, Security, and Simulability</title>
+      <description>The biggest infrastructure story in quantum today is IQM Quantum Computers establishing its first US Quantum Technology Center at the University of Maryland's Discovery District. The Finnish company, which already operates quantum data centers in Finland and Germany and has delivered systems to supercomputing centers in South Korea, Poland, Italy, and Taiwan, chose College Park specifically for its proximity to NIST, NASA Goddard, Johns Hopkins Applied Physics Laboratory, and the broader federal...</description>
+      <guid isPermaLink="false">daily-quantum-20260410</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-10.mp3" length="1881648" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Apr 2026 17:10:27 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
