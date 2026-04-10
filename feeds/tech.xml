@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 17:12:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 17:13:36 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -324,6 +324,15 @@ To understand the scale problem, consider this: every IPO in the United States l
       <guid isPermaLink="false">9N7qXkmntlU</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-09 - ai-ipos-raiding-retirement-funds.mp3" length="3021696" type="audio/mpeg"/>
       <pubDate>Thu, 09 Apr 2026 17:08:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Five Durable Verticals in AI Economy</title>
+      <description>The AI app builder space — Lovable, Replit, Bolt, V0, and the long tail — is collapsing into a commodity. Lovable just raised $330 million at a $6.6 billion valuation with 100,000 new projects created daily. But most of these companies are functionally thin wrappers around Claude, ChatGPT, or Gemini. When your product is a UI layer on top of someone else's intelligence, your moat is about a week deep now that Claude Code and Codex exist.
+
+The conventional wisdom says you escape by training your ...</description>
+      <guid isPermaLink="false">ib2m9HVX7as</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-10 - five-durable-verticals-in-ai-economy.mp3" length="2729664" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Apr 2026 17:07:55 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
