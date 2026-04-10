@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Apr 2026 17:12:22 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Apr 2026 17:13:36 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -266,6 +266,13 @@ Let's start with the cautionary tale. Xanadu, a Toronto-based quantum computing 
       <guid isPermaLink="false">daily-quantum-20260409</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-09.mp3" length="1224720" type="audio/mpeg"/>
       <pubDate>Thu, 09 Apr 2026 17:09:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Ecosystems, Security, and Simulability</title>
+      <description>The biggest infrastructure story in quantum today is IQM Quantum Computers establishing its first US Quantum Technology Center at the University of Maryland's Discovery District. The Finnish company, which already operates quantum data centers in Finland and Germany and has delivered systems to supercomputing centers in South Korea, Poland, Italy, and Taiwan, chose College Park specifically for its proximity to NIST, NASA Goddard, Johns Hopkins Applied Physics Laboratory, and the broader federal...</description>
+      <guid isPermaLink="false">daily-quantum-20260410</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-10.mp3" length="1881648" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Apr 2026 17:10:27 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
