@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2026 17:13:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 17:24:33 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -275,6 +275,13 @@ Let's start with the cautionary tale. Xanadu, a Toronto-based quantum computing 
       <pubDate>Fri, 10 Apr 2026 17:10:27 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Error Correction Race Heats Up</title>
+      <description>The quantum computing field saw several significant developments this week, centered on the persistent challenge of error correction and qubit stability. Alice &amp; Bob announced a 160-fold improvement in error correction by introducing a technique called qubit squeezing to their cat qubits — the same approach used in AWS's Ocelot chip. Senior researcher Anil Murani said this brings them closer to what the industry calls escape velocity, the point where error rates stop growing exponentially as you...</description>
+      <guid isPermaLink="false">daily-quantum-20260412</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-12.mp3" length="2066400" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Apr 2026 17:13:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Quantum</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-quantum-2026-03-08</guid>
@@ -316,6 +323,15 @@ The bombshell came at the end of the week's midpoint. Two independent research t
       <guid isPermaLink="false">weekly-quantum-2026-04-05</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-04-05.mp3" length="3656736" type="audio/mpeg"/>
       <pubDate>Sun, 05 Apr 2026 17:20:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing offered a remarkably vivid portrait of a field caught between genuine scientific momentum and the persistent tensions of commercialization, hype, and hard-nosed engineering reality. Several threads wove through the week's developments, and together they tell a story about an industry that is maturing — sometimes painfully, sometimes impressively — on multiple fronts simultaneously.
+
+The most dramatic storyline was the accelerating threat quantum computers pose to e...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-04-12</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-04-12.mp3" length="4028832" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Apr 2026 17:24:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
