@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 10 Apr 2026 17:13:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Apr 2026 17:24:33 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -335,6 +335,24 @@ The conventional wisdom says you escape by training your ...</description>
       <pubDate>Fri, 10 Apr 2026 17:07:55 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Software Solutions to AI's Memory Crisis</title>
+      <description>Google just published one of the most important breakthroughs of the year — TurboQuant. It addresses how LLMs use memory at the core architectural level, and that's a huge deal because intelligence and demand for intelligence are scaling far faster than memory supply.
+
+The comparison everyone's making is to Pied Piper from Silicon Valley the TV show. Pied Piper compressed video files; TurboQuant compresses the KV cache — the memory LLMs use to think. It achieves a 6x memory reduction and up to 8...</description>
+      <guid isPermaLink="false">erV_8yrGMA8</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-11 - software-solutions-to-ais-memory-crisis.mp3" length="2674368" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Apr 2026 17:11:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Unbundling Management in the AI Era</title>
+      <description>Nearly half of US companies have removed a layer of management in the last year. The pitch is always the same — flatter, leaner, faster, powered by AI — and then everyone's expected to figure out the rest on their own. If things have felt wrong at work since then, you're not imagining it. The company removed something load-bearing.
+
+Managers do three distinct jobs, and understanding this bundle is the key to getting this right. The first is routing — who needs to know what, when. This is informa...</description>
+      <guid isPermaLink="false">zhXgkQ3nYeE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-12 - unbundling-management-in-the-ai-era.mp3" length="2714544" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Apr 2026 17:08:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -367,6 +385,15 @@ The most urgent story was the Qatar helium crisis and what it means for the AI s
       <guid isPermaLink="false">weekly-tech-2026-04-05</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-04-05.mp3" length="3664800" type="audio/mpeg"/>
       <pubDate>Sun, 05 Apr 2026 17:12:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week's tech coverage painted a remarkably cohesive picture of what's actually happening beneath the surface of the AI economy, and it starts with a single uncomfortable truth: the systems we're building are outrunning the structures we need to run them well.
+
+The week opened with a grounded look at OpenClaw, the open-source agent framework that's become something of a poster child for what AI can do when you let it loose. The stories are real — CRMs built in days, ad creative pipelines scal...</description>
+      <guid isPermaLink="false">weekly-tech-2026-04-12</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-04-12.mp3" length="4202352" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Apr 2026 17:16:59 +0000</pubDate>
     </item>
   </channel>
 </rss>
