@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:09:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 17:11:15 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -399,6 +399,15 @@ Managers do three distinct jobs, and understanding this bundle is the key to get
       <pubDate>Mon, 13 Apr 2026 17:08:25 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - AI's Shift from Capability to Economics</title>
+      <description>March 2026 was one of the biggest months in AI history — multiple frontier models shipped, GTC happened, the SaaS apocalypse continued. But I want to read under those headlines and show you the structural moves that happened while everyone was watching model drops. Because the pace is only getting denser, and the skill of pulling structural signal from noise is becoming one of the most valuable things you can practice.
+
+First: inference became a reason to kill product, and Sora was the first vic...</description>
+      <guid isPermaLink="false">0vdlwOK_Qdk</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-14 - ais-shift-from-capability-to-economics.mp3" length="2910672" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Apr 2026 17:08:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -644,6 +653,13 @@ Let's start with market abuse. ESMA published a consultation on 19 February prop
       <guid isPermaLink="false">daily-compliance-20260410</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-10.mp3" length="3277296" type="audio/mpeg"/>
       <pubDate>Fri, 10 Apr 2026 17:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA PRA Joint Enforcement Action</title>
+      <description>Today's briefing is necessarily brief given limited source material, but there's a point worth flagging. The FCA and PRA jointly fined R. Raphael &amp; Sons plc — a case that, while dating back to 2019, serves as a useful reminder of how the dual-regulator model operates in practice when it comes to enforcement. Joint fines from both the FCA and PRA signal that where a firm falls under both supervisory regimes, neither regulator is content to defer to the other. Both will pursue action independently...</description>
+      <guid isPermaLink="false">daily-compliance-20260414</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-14.mp3" length="844272" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Apr 2026 17:11:14 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -922,6 +938,15 @@ Let's start with the cautionary tale. Xanadu, a Toronto-based quantum computing 
       <guid isPermaLink="false">daily-quantum-20260413</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-13.mp3" length="972720" type="audio/mpeg"/>
       <pubDate>Mon, 13 Apr 2026 17:09:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - NVIDIA Launches AI-Powered Quantum Models</title>
+      <description>NVIDIA made a significant move into quantum computing this week, announcing what it calls the world's first family of open-source AI models built specifically to accelerate practical quantum development. The new model family is called NVIDIA Ising, and it targets the two biggest bottlenecks facing the quantum industry: processor calibration and error correction.
+
+The Ising Calibration model is a vision-language model that can interpret measurements from quantum processors and automate calibratio...</description>
+      <guid isPermaLink="false">daily-quantum-20260414</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-14.mp3" length="1676016" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Apr 2026 17:10:12 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
