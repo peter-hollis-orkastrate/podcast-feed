@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:09:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 17:11:15 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -358,6 +358,15 @@ Managers do three distinct jobs, and understanding this bundle is the key to get
       <guid isPermaLink="false">E1idsrv79tI</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-13 - dark-code-is-an-organizational-problem.mp3" length="2399472" type="audio/mpeg"/>
       <pubDate>Mon, 13 Apr 2026 17:08:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - AI's Shift from Capability to Economics</title>
+      <description>March 2026 was one of the biggest months in AI history — multiple frontier models shipped, GTC happened, the SaaS apocalypse continued. But I want to read under those headlines and show you the structural moves that happened while everyone was watching model drops. Because the pace is only getting denser, and the skill of pulling structural signal from noise is becoming one of the most valuable things you can practice.
+
+First: inference became a reason to kill product, and Sora was the first vic...</description>
+      <guid isPermaLink="false">0vdlwOK_Qdk</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-14 - ais-shift-from-capability-to-economics.mp3" length="2910672" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Apr 2026 17:08:07 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
