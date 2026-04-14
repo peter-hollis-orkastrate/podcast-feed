@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Apr 2026 17:09:28 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 14 Apr 2026 17:11:15 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -256,6 +256,13 @@ Let's start with market abuse. ESMA published a consultation on 19 February prop
       <guid isPermaLink="false">daily-compliance-20260410</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-10.mp3" length="3277296" type="audio/mpeg"/>
       <pubDate>Fri, 10 Apr 2026 17:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA PRA Joint Enforcement Action</title>
+      <description>Today's briefing is necessarily brief given limited source material, but there's a point worth flagging. The FCA and PRA jointly fined R. Raphael &amp; Sons plc — a case that, while dating back to 2019, serves as a useful reminder of how the dual-regulator model operates in practice when it comes to enforcement. Joint fines from both the FCA and PRA signal that where a firm falls under both supervisory regimes, neither regulator is content to defer to the other. Both will pursue action independently...</description>
+      <guid isPermaLink="false">daily-compliance-20260414</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-14.mp3" length="844272" type="audio/mpeg"/>
+      <pubDate>Tue, 14 Apr 2026 17:11:14 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
