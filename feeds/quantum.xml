@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 17:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 17:10:00 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -303,6 +303,13 @@ The Ising Calibration model is a vision-language model that can interpret measur
       <guid isPermaLink="false">daily-quantum-20260415</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-15.mp3" length="2099520" type="audio/mpeg"/>
       <pubDate>Wed, 15 Apr 2026 17:13:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Nvidia Ignites Quantum Computing Rally</title>
+      <description>It's been a landmark week for quantum computing, driven primarily by Nvidia's announcement of Ising — a new family of open-source AI models designed to tackle two of the hardest problems in the field: quantum error correction and calibration. Jensen Huang framed AI as the control plane, essentially the operating system, of quantum machines, saying it's what transforms fragile qubits into scalable, reliable quantum-GPU systems. The announcement dropped on World Quantum Day, April 14th, chosen bec...</description>
+      <guid isPermaLink="false">daily-quantum-20260416</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-16.mp3" length="1477296" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Apr 2026 17:09:59 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
