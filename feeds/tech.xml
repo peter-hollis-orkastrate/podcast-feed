@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Apr 2026 17:13:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Apr 2026 17:10:00 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -376,6 +376,15 @@ The most common message in OpenClaw community forums is simply: 'Now what?' Not 
       <guid isPermaLink="false">2PWJu6uAaoU</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-15 - agents-need-your-tacit-knowledge.mp3" length="2928240" type="audio/mpeg"/>
       <pubDate>Wed, 15 Apr 2026 17:08:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Rebuilding the Web for Agents</title>
+      <description>For 50 years, you and I were the most important thing in computing, and we're just not anymore. That's going to change the rest of our lives. But I don't mean that to be discouraging — this is about our agentic partnership with the new intelligence and what a rebuilt world looks like.
+
+Look at any piece of web infrastructure and notice the human affordances baked into the structure. A spreadsheet opens a file because you need to scan rows at the speed your brain processes visual information. A C...</description>
+      <guid isPermaLink="false">XlfumXPPrLY</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-16 - rebuilding-the-web-for-agents.mp3" length="2845872" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Apr 2026 17:08:23 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
