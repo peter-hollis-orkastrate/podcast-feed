@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Apr 2026 17:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 17:10:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -310,6 +310,15 @@ The Ising Calibration model is a vision-language model that can interpret measur
       <guid isPermaLink="false">daily-quantum-20260416</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-16.mp3" length="1477296" type="audio/mpeg"/>
       <pubDate>Thu, 16 Apr 2026 17:09:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Security Deadlines and AI Breakthroughs</title>
+      <description>The quantum computing world is seeing a significant acceleration in urgency around post-quantum cryptography, alongside major new tools aimed at making quantum hardware actually useful. Let's start with the security story, which is arguably the most consequential.
+
+Google and Cloudflare both moved their internal deadlines for full post-quantum cryptography readiness to 2029, about five years sooner than previously planned. The catalyst was two recent research papers that dramatically revised est...</description>
+      <guid isPermaLink="false">daily-quantum-20260417</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-17.mp3" length="2476512" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Apr 2026 17:10:28 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
