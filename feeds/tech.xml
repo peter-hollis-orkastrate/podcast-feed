@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Apr 2026 17:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 17:10:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -385,6 +385,15 @@ Look at any piece of web infrastructure and notice the human affordances baked i
       <guid isPermaLink="false">XlfumXPPrLY</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-16 - rebuilding-the-web-for-agents.mp3" length="2845872" type="audio/mpeg"/>
       <pubDate>Thu, 16 Apr 2026 17:08:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Own Your AI Context</title>
+      <description>Right now all of us are building the most important asset of our careers inside AI systems we don't own, and it's fragmented across ChatGPT, Claude, Perplexity. We're feeding in our context, our thinking, our documents — and none of it is portable. We need a bring-your-own-context system for the enterprise worker in 2026, and we have nothing.
+
+The bet Sam Altman and Dario Amodei have been making worked. The fact that we care which AI instance we use is a function of their memory systems. I call ...</description>
+      <guid isPermaLink="false">4KAF72BTyCE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-17 - own-your-ai-context.mp3" length="2446992" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Apr 2026 17:08:05 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
