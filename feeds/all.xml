@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 17:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 17:12:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -442,6 +442,13 @@ The bet Sam Altman and Dario Amodei have been making worked. The fact that we ca
       <pubDate>Fri, 17 Apr 2026 17:08:05 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Auto-Improving Agents for Business</title>
+      <description>On March 8th, Andrej Karpathy released a 630-line Python script that created an entirely new paradigm. He pointed an AI agent at his own training code, gave it a single metric to optimize, and went to sleep. Two days later, the agent had run 700 experiments, discovered 20 genuine improvements, and cut training time by 11% on a codebase one of the best ML researchers alive had already optimized for months. It even found a bug in his attention implementation. Not because the agent was smarter, but...</description>
+      <guid isPermaLink="false">xnG8h3UnNFI</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-18 - auto-improving-agents-for-business.mp3" length="3387312" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Apr 2026 17:08:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -694,6 +701,15 @@ Let's start with market abuse. ESMA published a consultation on 19 February prop
       <guid isPermaLink="false">daily-compliance-20260414</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-14.mp3" length="844272" type="audio/mpeg"/>
       <pubDate>Tue, 14 Apr 2026 17:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Banker Bonus Rules Relaxed Immediately</title>
+      <description>Good morning. Today's key development for compliance teams at UK investment banks concerns a significant loosening of the remuneration rules for Material Risk Takers at dual-regulated firms. On 16 October 2025, the FCA and PRA published a joint policy statement that went further than their original consultation proposals, and the changes took effect immediately.
+
+Let's get into the substance. The most impactful change is to deferral periods. Previously, Senior Management Function holders faced d...</description>
+      <guid isPermaLink="false">daily-compliance-20260418</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-18.mp3" length="1904544" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Apr 2026 17:12:28 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1004,6 +1020,13 @@ Google and Cloudflare both moved their internal deadlines for full post-quantum 
       <guid isPermaLink="false">daily-quantum-20260417</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-17.mp3" length="2476512" type="audio/mpeg"/>
       <pubDate>Fri, 17 Apr 2026 17:10:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Internet, SPACs, and Majorana States</title>
+      <description>The most striking quantum development today comes from the privacy and security front. Researchers have demonstrated that on a future quantum internet, VPNs would essentially be useless — your location can always be verified. The protocol uses entangled photons and a specific type of Bell test to perform quantum position verification. Here's how it works: a remote party measures properties of entangled photons simultaneously with the sender, and over multiple rounds, the Bell test confirms stron...</description>
+      <guid isPermaLink="false">daily-quantum-20260418</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-18.mp3" length="1286064" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Apr 2026 17:10:21 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
