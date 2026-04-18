@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 17:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 17:12:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -263,6 +263,15 @@ Let's start with market abuse. ESMA published a consultation on 19 February prop
       <guid isPermaLink="false">daily-compliance-20260414</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-14.mp3" length="844272" type="audio/mpeg"/>
       <pubDate>Tue, 14 Apr 2026 17:11:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Banker Bonus Rules Relaxed Immediately</title>
+      <description>Good morning. Today's key development for compliance teams at UK investment banks concerns a significant loosening of the remuneration rules for Material Risk Takers at dual-regulated firms. On 16 October 2025, the FCA and PRA published a joint policy statement that went further than their original consultation proposals, and the changes took effect immediately.
+
+Let's get into the substance. The most impactful change is to deferral periods. Previously, Senior Management Function holders faced d...</description>
+      <guid isPermaLink="false">daily-compliance-20260418</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-18.mp3" length="1904544" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Apr 2026 17:12:28 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
