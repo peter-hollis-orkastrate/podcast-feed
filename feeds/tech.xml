@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Apr 2026 17:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Apr 2026 17:12:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -394,6 +394,13 @@ The bet Sam Altman and Dario Amodei have been making worked. The fact that we ca
       <guid isPermaLink="false">4KAF72BTyCE</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-17 - own-your-ai-context.mp3" length="2446992" type="audio/mpeg"/>
       <pubDate>Fri, 17 Apr 2026 17:08:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Auto-Improving Agents for Business</title>
+      <description>On March 8th, Andrej Karpathy released a 630-line Python script that created an entirely new paradigm. He pointed an AI agent at his own training code, gave it a single metric to optimize, and went to sleep. Two days later, the agent had run 700 experiments, discovered 20 genuine improvements, and cut training time by 11% on a codebase one of the best ML researchers alive had already optimized for months. It even found a bug in his attention implementation. Not because the agent was smarter, but...</description>
+      <guid isPermaLink="false">xnG8h3UnNFI</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-18 - auto-improving-agents-for-business.mp3" length="3387312" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Apr 2026 17:08:40 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
