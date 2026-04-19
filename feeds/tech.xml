@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Apr 2026 17:12:29 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Apr 2026 17:23:16 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -403,6 +403,13 @@ The bet Sam Altman and Dario Amodei have been making worked. The fact that we ca
       <pubDate>Sat, 18 Apr 2026 17:08:40 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - World Models Need Judgment Boundaries</title>
+      <description>Jack Dorsey published a blueprint last week for what's called a world model — a living, always-updated model of everything happening across a company. It got 5 million views in two days. Agency founders are posting implementations, enterprise vendors are rebranding around the concept. And the idea is sound as far as it goes. A huge share of what fills manager calendars — status syncs, alignment meetings, information shuttling — is work that software can do faster and cheaper today. Companies tha...</description>
+      <guid isPermaLink="false">fm6mYqFAM5c</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-19 - world-models-need-judgment-boundaries.mp3" length="2572128" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Apr 2026 17:07:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -444,6 +451,15 @@ The week opened with a grounded look at OpenClaw, the open-source agent framewor
       <guid isPermaLink="false">weekly-tech-2026-04-12</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-04-12.mp3" length="4202352" type="audio/mpeg"/>
       <pubDate>Sun, 12 Apr 2026 17:16:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech delivered one of the most coherent and interconnected runs of analysis I've seen in a while, and the throughline is unmistakable. We are watching the AI industry pivot from asking "what can this technology do?" to asking "what can we actually sustain, govern, and build organizations around?" Nearly every episode this week orbited that transition, approaching it from different angles but arriving at remarkably consistent conclusions.
+
+The overarching theme is that AI's hardest p...</description>
+      <guid isPermaLink="false">weekly-tech-2026-04-19</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-04-19.mp3" length="4681152" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Apr 2026 17:18:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
