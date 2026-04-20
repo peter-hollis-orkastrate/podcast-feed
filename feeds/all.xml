@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 17:23:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 17:11:58 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -456,6 +456,15 @@ The bet Sam Altman and Dario Amodei have been making worked. The fact that we ca
       <pubDate>Sun, 19 Apr 2026 17:07:29 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Proving Value in AI's Generation Era</title>
+      <description>The problem with AI and jobs is that nobody knows what you and I are worth anymore. The standard 2026 career advice — build your portfolio, learn the tools, ship projects — isn't bad, but it leans into the one thing AI makes easy for everyone: generating code. GitHub projects are exploding, App Store listings are exploding. When generation is essentially free, it's incredibly hard to prove you know what you're doing.
+
+This isn't just a junior problem. The entire mechanism by which we prove compe...</description>
+      <guid isPermaLink="false">-dJ9WrTG6zQ</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-20 - proving-value-in-ais-generation-era.mp3" length="2214576" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Apr 2026 17:07:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -726,6 +735,15 @@ Let's start with the headline numbers from the Financial Conduct Authority. FCA 
       <guid isPermaLink="false">daily-compliance-20260419</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-19.mp3" length="2633616" type="audio/mpeg"/>
       <pubDate>Sun, 19 Apr 2026 17:13:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Enforcement Trends and Market Abuse Evolution</title>
+      <description>Good morning. Today's briefing covers enforcement trends that UK compliance teams need to track closely, alongside market conditions that are raising the stakes on surveillance and controls.
+
+Let's start with the most consequential theme: individual accountability is now the defining feature of regulatory enforcement on both sides of the Atlantic. The SEC has made explicitly clear heading into 2026 that corporate penalties alone will not suffice — they are pursuing personal liability against CEO...</description>
+      <guid isPermaLink="false">daily-compliance-20260420</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-20.mp3" length="2265840" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Apr 2026 17:11:56 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1050,6 +1068,15 @@ Google and Cloudflare both moved their internal deadlines for full post-quantum 
       <guid isPermaLink="false">daily-quantum-20260419</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-19.mp3" length="2253888" type="audio/mpeg"/>
       <pubDate>Sun, 19 Apr 2026 17:10:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum-AI Synergy and Hardware Advances</title>
+      <description>The biggest theme in quantum computing right now is the growing evidence that even today's imperfect quantum hardware can deliver real, practical advantages — especially when paired with classical systems.
+
+Researchers from University College London published findings in Science Advances showing they've achieved what they call practical quantum advantage by hooking up an AI model running on a supercomputer to a quantum computer at the Leibniz Supercomputing Centre in Germany. The setup predicted...</description>
+      <guid isPermaLink="false">daily-quantum-20260420</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-20.mp3" length="2043216" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Apr 2026 17:09:45 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
