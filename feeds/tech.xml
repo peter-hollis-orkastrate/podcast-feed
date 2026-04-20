@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 17:23:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 17:11:57 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -408,6 +408,15 @@ The bet Sam Altman and Dario Amodei have been making worked. The fact that we ca
       <guid isPermaLink="false">fm6mYqFAM5c</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-19 - world-models-need-judgment-boundaries.mp3" length="2572128" type="audio/mpeg"/>
       <pubDate>Sun, 19 Apr 2026 17:07:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Proving Value in AI's Generation Era</title>
+      <description>The problem with AI and jobs is that nobody knows what you and I are worth anymore. The standard 2026 career advice — build your portfolio, learn the tools, ship projects — isn't bad, but it leans into the one thing AI makes easy for everyone: generating code. GitHub projects are exploding, App Store listings are exploding. When generation is essentially free, it's incredibly hard to prove you know what you're doing.
+
+This isn't just a junior problem. The entire mechanism by which we prove compe...</description>
+      <guid isPermaLink="false">-dJ9WrTG6zQ</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-20 - proving-value-in-ais-generation-era.mp3" length="2214576" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Apr 2026 17:07:39 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
