@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Apr 2026 17:23:16 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Apr 2026 17:11:58 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -281,6 +281,15 @@ Let's start with the headline numbers from the Financial Conduct Authority. FCA 
       <guid isPermaLink="false">daily-compliance-20260419</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-19.mp3" length="2633616" type="audio/mpeg"/>
       <pubDate>Sun, 19 Apr 2026 17:13:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Enforcement Trends and Market Abuse Evolution</title>
+      <description>Good morning. Today's briefing covers enforcement trends that UK compliance teams need to track closely, alongside market conditions that are raising the stakes on surveillance and controls.
+
+Let's start with the most consequential theme: individual accountability is now the defining feature of regulatory enforcement on both sides of the Atlantic. The SEC has made explicitly clear heading into 2026 that corporate penalties alone will not suffice — they are pursuing personal liability against CEO...</description>
+      <guid isPermaLink="false">daily-compliance-20260420</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-20.mp3" length="2265840" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Apr 2026 17:11:56 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
