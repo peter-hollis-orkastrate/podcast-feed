@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Apr 2026 17:11:58 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Apr 2026 17:12:20 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -463,6 +463,15 @@ This isn't just a junior problem. The entire mechanism by which we prove compe..
       <guid isPermaLink="false">-dJ9WrTG6zQ</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-20 - proving-value-in-ais-generation-era.mp3" length="2214576" type="audio/mpeg"/>
       <pubDate>Mon, 20 Apr 2026 17:07:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Opus 4.7: Directed Optimization Tradeoffs</title>
+      <description>Claude Opus 4.7 is the smartest model Anthropic has ever shipped publicly. It's also the most combative, the most literal, and the first Opus release that costs you measurably more for the same work even though the sticker price didn't move. You have to hold all three of those in view or you'll misread what just happened.
+
+Context matters here. Anthropic shipped 4.7 on the 16th, Claude Design launched the 17th, OpenAI pushed the biggest Codex update since launch the same day, and their next fron...</description>
+      <guid isPermaLink="false">tJB_8mfRgCo</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-21 - opus-47-directed-optimization-tradeoffs.mp3" length="4718160" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Apr 2026 17:10:18 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -1077,6 +1086,13 @@ Researchers from University College London published findings in Science Advance
       <guid isPermaLink="false">daily-quantum-20260420</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-20.mp3" length="2043216" type="audio/mpeg"/>
       <pubDate>Mon, 20 Apr 2026 17:09:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Reversing Time, Honors, and Quantum Strategy</title>
+      <description>Three significant developments in quantum computing today. First, theoretical physicists at Los Alamos National Laboratory have shown how to reverse the arrow of time in a quantum system. Luis Pedro García-Pintos and colleagues, publishing in Physical Review X, used computer simulations to demonstrate that by knowing a quantum system's original state and its post-measurement outcome, they could construct a control sequence — a Hamiltonian — that acts like Maxwell's demon, reverting the system ba...</description>
+      <guid isPermaLink="false">daily-quantum-20260421</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-21.mp3" length="1711152" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Apr 2026 17:12:18 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
