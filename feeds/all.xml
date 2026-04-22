@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 17:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 17:11:08 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -474,6 +474,15 @@ Context matters here. Anthropic shipped 4.7 on the 16th, Claude Design launched 
       <pubDate>Tue, 21 Apr 2026 17:10:18 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Write-Time vs Query-Time AI Memory</title>
+      <description>Karpathy's wiki idea got 41,000 bookmarks, and I've gotten hundreds of messages asking whether it makes OpenBrain obsolete. The honest answer is they're fundamentally different systems solving different problems, and the fork between them is the most important architectural decision you can make right now.
+
+Here's what Karpathy got right. Today, every time you ask an AI a question, it rediscovers your knowledge from scratch — finds relevant documents, reads them, synthesizes, gives you an answer...</description>
+      <guid isPermaLink="false">dxq7WtWxi44</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-22 - write-time-vs-query-time-ai-memory.mp3" length="2361744" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Apr 2026 17:07:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -753,6 +762,15 @@ Let's start with the most consequential theme: individual accountability is now 
       <guid isPermaLink="false">daily-compliance-20260420</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-20.mp3" length="2265840" type="audio/mpeg"/>
       <pubDate>Mon, 20 Apr 2026 17:11:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SMCR Reforms Cut Compliance Burden</title>
+      <description>The headline development today is the FCA and PRA jointly confirming concrete changes to the Senior Managers and Certification Regime, marking the conclusion of the Phase 1 reforms that were first proposed in July 2025. The regulators are framing this as a meaningful step toward halving the overall regulatory burden SMCR places on firms, and for compliance teams at wholesale banks this has immediate practical implications.
+
+Let's start with what matters most for day-to-day operations. Firms now ...</description>
+      <guid isPermaLink="false">daily-compliance-20260422</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-22.mp3" length="2130192" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Apr 2026 17:11:06 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1093,6 +1111,13 @@ Researchers from University College London published findings in Science Advance
       <guid isPermaLink="false">daily-quantum-20260421</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-21.mp3" length="1711152" type="audio/mpeg"/>
       <pubDate>Tue, 21 Apr 2026 17:12:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Pennsylvania Launches AI Quantum Factory</title>
+      <description>Today in quantum computing news, Pennsylvania is making a notable move to establish itself as a hub for quantum and AI technology. Universities across the commonwealth, together with state leaders, have officially launched the Keystone AI and Quantum Factory — an initiative designed to bring together academic research and government support to accelerate practical applications of both AI and quantum computing. Details are still emerging, but the effort signals Pennsylvania's intent to compete fo...</description>
+      <guid isPermaLink="false">daily-quantum-20260422</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-22.mp3" length="587664" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Apr 2026 17:08:47 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
