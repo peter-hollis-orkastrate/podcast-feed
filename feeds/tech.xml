@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 17:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 17:11:08 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -426,6 +426,15 @@ Context matters here. Anthropic shipped 4.7 on the 16th, Claude Design launched 
       <guid isPermaLink="false">tJB_8mfRgCo</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-21 - opus-47-directed-optimization-tradeoffs.mp3" length="4718160" type="audio/mpeg"/>
       <pubDate>Tue, 21 Apr 2026 17:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Write-Time vs Query-Time AI Memory</title>
+      <description>Karpathy's wiki idea got 41,000 bookmarks, and I've gotten hundreds of messages asking whether it makes OpenBrain obsolete. The honest answer is they're fundamentally different systems solving different problems, and the fork between them is the most important architectural decision you can make right now.
+
+Here's what Karpathy got right. Today, every time you ask an AI a question, it rediscovers your knowledge from scratch — finds relevant documents, reads them, synthesizes, gives you an answer...</description>
+      <guid isPermaLink="false">dxq7WtWxi44</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-22 - write-time-vs-query-time-ai-memory.mp3" length="2361744" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Apr 2026 17:07:46 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
