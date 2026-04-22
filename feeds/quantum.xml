@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Apr 2026 17:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Apr 2026 17:11:08 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -349,6 +349,13 @@ Researchers from University College London published findings in Science Advance
       <guid isPermaLink="false">daily-quantum-20260421</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-21.mp3" length="1711152" type="audio/mpeg"/>
       <pubDate>Tue, 21 Apr 2026 17:12:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Pennsylvania Launches AI Quantum Factory</title>
+      <description>Today in quantum computing news, Pennsylvania is making a notable move to establish itself as a hub for quantum and AI technology. Universities across the commonwealth, together with state leaders, have officially launched the Keystone AI and Quantum Factory — an initiative designed to bring together academic research and government support to accelerate practical applications of both AI and quantum computing. Details are still emerging, but the effort signals Pennsylvania's intent to compete fo...</description>
+      <guid isPermaLink="false">daily-quantum-20260422</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-22.mp3" length="587664" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Apr 2026 17:08:47 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
