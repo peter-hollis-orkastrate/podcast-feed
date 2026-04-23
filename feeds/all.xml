@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 17:11:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 17:12:25 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -483,6 +483,15 @@ Here's what Karpathy got right. Today, every time you ask an AI a question, it r
       <pubDate>Wed, 22 Apr 2026 17:07:46 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Computer Use Beats APIs Now</title>
+      <description>OpenAI completely revamped Codex on April 16th, turning it into a desktop agent that operates any Mac application — clicking, typing, running in the background while you work. It's faster and more reliable than Claude's computer use by a wider margin than I expected. And that matters because most enterprise software doesn't have modern APIs, and Codex doesn't need them.
+
+Greg Brockman recently said models have gone from being the product to being part of the product. The brain is effectively bui...</description>
+      <guid isPermaLink="false">2d9ZmA-4QzU</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-23 - computer-use-beats-apis-now.mp3" length="2929392" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Apr 2026 17:07:54 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -771,6 +780,13 @@ Let's start with what matters most for day-to-day operations. Firms now ...</des
       <guid isPermaLink="false">daily-compliance-20260422</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-22.mp3" length="2130192" type="audio/mpeg"/>
       <pubDate>Wed, 22 Apr 2026 17:11:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SM&amp;CR Phase 1 Reforms Take Effect</title>
+      <description>The most significant development for compliance teams this week is the finalisation of SM&amp;CR Phase 1 reforms. On 22 April 2026, the FCA published PS26/6 and the PRA published PS12/26, setting out changes that largely took effect on 24 April, with system and reporting process updates following on 10 July. Alongside these, HM Treasury published its consultation response confirming the legislative direction for Phase 2, which will require primary legislation to be introduced when parliamentary time...</description>
+      <guid isPermaLink="false">daily-compliance-20260423</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-23.mp3" length="3010896" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Apr 2026 17:12:23 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1118,6 +1134,13 @@ Researchers from University College London published findings in Science Advance
       <guid isPermaLink="false">daily-quantum-20260422</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-22.mp3" length="587664" type="audio/mpeg"/>
       <pubDate>Wed, 22 Apr 2026 17:08:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Networking, Scaling, and Sensing Advances</title>
+      <description>The biggest quantum story today is Cisco's unveiling of its Universal Quantum Switch — a working prototype designed to connect quantum computers from different vendors and different modalities into a single network. Vijoy Pandey, SVP and GM of Cisco's Outshift incubation arm, framed the problem clearly: practical quantum applications will require hundreds of thousands to millions of qubits, but current systems operate at 100 to 1,000 qubits, with public roadmaps suggesting low tens of thousands ...</description>
+      <guid isPermaLink="false">daily-quantum-20260423</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-23.mp3" length="2012112" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Apr 2026 17:09:53 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
