@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 22 Apr 2026 17:11:08 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 17:12:25 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -299,6 +299,13 @@ Let's start with what matters most for day-to-day operations. Firms now ...</des
       <guid isPermaLink="false">daily-compliance-20260422</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-22.mp3" length="2130192" type="audio/mpeg"/>
       <pubDate>Wed, 22 Apr 2026 17:11:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SM&amp;CR Phase 1 Reforms Take Effect</title>
+      <description>The most significant development for compliance teams this week is the finalisation of SM&amp;CR Phase 1 reforms. On 22 April 2026, the FCA published PS26/6 and the PRA published PS12/26, setting out changes that largely took effect on 24 April, with system and reporting process updates following on 10 July. Alongside these, HM Treasury published its consultation response confirming the legislative direction for Phase 2, which will require primary legislation to be introduced when parliamentary time...</description>
+      <guid isPermaLink="false">daily-compliance-20260423</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-23.mp3" length="3010896" type="audio/mpeg"/>
+      <pubDate>Thu, 23 Apr 2026 17:12:23 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
