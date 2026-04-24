@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 17:12:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 17:11:57 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -492,6 +492,15 @@ Greg Brockman recently said models have gone from being the product to being par
       <pubDate>Thu, 23 Apr 2026 17:07:54 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Death of the Mockup-to-Production Handoff</title>
+      <description>Anthropic launched Claude Design and the world fixated on Figma's stock crash. That's the least interesting part of this story. The real story is that Claude Design is the third piece in a coordinated Anthropic stack that's quietly retiring the entire mockup-to-production handoff.
+
+Let me show you the range. You can make pitch decks with live embedded AI — not screenshots, actual working chatbots inside the deck a VC can use in the meeting. Animated product explainer videos rendered in code, so ...</description>
+      <guid isPermaLink="false">KlPxWaY91rE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-24 - death-of-the-mockup-to-production-handoff.mp3" length="3147408" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Apr 2026 17:08:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -787,6 +796,15 @@ Let's start with what matters most for day-to-day operations. Firms now ...</des
       <guid isPermaLink="false">daily-compliance-20260423</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-23.mp3" length="3010896" type="audio/mpeg"/>
       <pubDate>Thu, 23 Apr 2026 17:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA SM&amp;CR Reforms Take Effect</title>
+      <description>Today's briefing centres on a significant development for anyone working under the Senior Managers and Certification Regime. On 22 April 2026, the FCA published policy statement PS26/6, confirming a package of SM&amp;CR reforms that took effect almost immediately on 24 April. This is Phase One of a broader, multi-phase effort by the FCA, PRA, and HM Treasury to reduce regulatory burden while preserving the core accountability principles that underpin the regime.
+
+Let's start with what's changed righ...</description>
+      <guid isPermaLink="false">daily-compliance-20260424</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-24.mp3" length="1945872" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Apr 2026 17:11:55 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1141,6 +1159,13 @@ Researchers from University College London published findings in Science Advance
       <guid isPermaLink="false">daily-quantum-20260423</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-23.mp3" length="2012112" type="audio/mpeg"/>
       <pubDate>Thu, 23 Apr 2026 17:09:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Cracks ECC, Markets React</title>
+      <description>The biggest quantum computing story today is a researcher successfully breaking a 15-bit elliptic curve cryptographic key on quantum hardware, winning Project Eleven's Q-Day Prize. Now, 15 bits is a far cry from the 256-bit keys that secure real-world cryptocurrency transactions, but the direction of progress is what matters here. Both Bitcoin and Ethereum rely on elliptic curve cryptography for transaction security, and an estimated $600 billion in Bitcoin currently sits in addresses with expos...</description>
+      <guid isPermaLink="false">daily-quantum-20260424</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-24.mp3" length="2121696" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Apr 2026 17:10:12 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
