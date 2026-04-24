@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 23 Apr 2026 17:12:25 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Apr 2026 17:11:57 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -306,6 +306,15 @@ Let's start with what matters most for day-to-day operations. Firms now ...</des
       <guid isPermaLink="false">daily-compliance-20260423</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-23.mp3" length="3010896" type="audio/mpeg"/>
       <pubDate>Thu, 23 Apr 2026 17:12:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA SM&amp;CR Reforms Take Effect</title>
+      <description>Today's briefing centres on a significant development for anyone working under the Senior Managers and Certification Regime. On 22 April 2026, the FCA published policy statement PS26/6, confirming a package of SM&amp;CR reforms that took effect almost immediately on 24 April. This is Phase One of a broader, multi-phase effort by the FCA, PRA, and HM Treasury to reduce regulatory burden while preserving the core accountability principles that underpin the regime.
+
+Let's start with what's changed righ...</description>
+      <guid isPermaLink="false">daily-compliance-20260424</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-24.mp3" length="1945872" type="audio/mpeg"/>
+      <pubDate>Fri, 24 Apr 2026 17:11:55 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
