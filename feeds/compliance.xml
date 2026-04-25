@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 17:11:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 17:12:48 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -315,6 +315,15 @@ Let's start with what's changed righ...</description>
       <guid isPermaLink="false">daily-compliance-20260424</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-24.mp3" length="1945872" type="audio/mpeg"/>
       <pubDate>Fri, 24 Apr 2026 17:11:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Global Finfluencer Enforcement Crackdown</title>
+      <description>Good morning. One notable development to flag today from the FCA. On the 24th of April, the FCA announced it had spearheaded a global coordinated enforcement action targeting illegal financial influencers — so-called finfluencers. Seventeen regulators worldwide participated in what was dubbed a 'week of action' beginning the 20th of April 2026, combining enforcement activity, consumer awareness campaigns, and educational programmes aimed at influencers who want to operate within the rules.
+
+In t...</description>
+      <guid isPermaLink="false">daily-compliance-20260425</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-25.mp3" length="1436544" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Apr 2026 17:12:46 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
