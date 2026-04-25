@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 17:11:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 17:12:48 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -453,6 +453,15 @@ Let me show you the range. You can make pitch decks with live embedded AI — no
       <guid isPermaLink="false">KlPxWaY91rE</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-24 - death-of-the-mockup-to-production-handoff.mp3" length="3147408" type="audio/mpeg"/>
       <pubDate>Fri, 24 Apr 2026 17:08:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Image Generation Joins the Reasoning Stack</title>
+      <description>GPT Image 2 just won 93% of blind pairwise comparisons in Image Arena. The next best model, Google's Nano Banana 2, topped out at 67%. That's a 26-point gap. Leaders in image generation usually trade places by three or four points. This is unprecedented.
+
+But the bigger story is what's underneath that number. Let me make it concrete. Takuya Matsuyama makes a developer note-taking app called Inkdrop. He fed GPT Image 2 a summary of his app, his V6 release notes, and some blog posts about Japanese...</description>
+      <guid isPermaLink="false">brBPsPPyuQM</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-25 - image-generation-joins-the-reasoning-stack.mp3" length="4169808" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Apr 2026 17:09:29 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
