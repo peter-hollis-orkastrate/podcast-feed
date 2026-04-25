@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Apr 2026 17:11:57 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Apr 2026 17:12:48 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -501,6 +501,15 @@ Let me show you the range. You can make pitch decks with live embedded AI — no
       <pubDate>Fri, 24 Apr 2026 17:08:07 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Image Generation Joins the Reasoning Stack</title>
+      <description>GPT Image 2 just won 93% of blind pairwise comparisons in Image Arena. The next best model, Google's Nano Banana 2, topped out at 67%. That's a 26-point gap. Leaders in image generation usually trade places by three or four points. This is unprecedented.
+
+But the bigger story is what's underneath that number. Let me make it concrete. Takuya Matsuyama makes a developer note-taking app called Inkdrop. He fed GPT Image 2 a summary of his app, his V6 release notes, and some blog posts about Japanese...</description>
+      <guid isPermaLink="false">brBPsPPyuQM</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-25 - image-generation-joins-the-reasoning-stack.mp3" length="4169808" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Apr 2026 17:09:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -805,6 +814,15 @@ Let's start with what's changed righ...</description>
       <guid isPermaLink="false">daily-compliance-20260424</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-24.mp3" length="1945872" type="audio/mpeg"/>
       <pubDate>Fri, 24 Apr 2026 17:11:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Global Finfluencer Enforcement Crackdown</title>
+      <description>Good morning. One notable development to flag today from the FCA. On the 24th of April, the FCA announced it had spearheaded a global coordinated enforcement action targeting illegal financial influencers — so-called finfluencers. Seventeen regulators worldwide participated in what was dubbed a 'week of action' beginning the 20th of April 2026, combining enforcement activity, consumer awareness campaigns, and educational programmes aimed at influencers who want to operate within the rules.
+
+In t...</description>
+      <guid isPermaLink="false">daily-compliance-20260425</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-25.mp3" length="1436544" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Apr 2026 17:12:46 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1166,6 +1184,15 @@ Researchers from University College London published findings in Science Advance
       <guid isPermaLink="false">daily-quantum-20260424</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-24.mp3" length="2121696" type="audio/mpeg"/>
       <pubDate>Fri, 24 Apr 2026 17:10:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Illinois Quantum Hub and Market Reality</title>
+      <description>Today's quantum news presents a sharp contrast between the ambitious state-level push to build a quantum ecosystem and the harsh financial reality facing one of the sector's publicly traded companies.
+
+At Northwestern University's Inaugural Quantum Innovation Symposium, Illinois Governor J.B. Pritzker made a major appearance to champion the state's quantum ambitions. Illinois, Pritzker emphasized, was the first state in the nation to invest in a quantum future back in 2019, and that early move g...</description>
+      <guid isPermaLink="false">daily-quantum-20260425</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-25.mp3" length="1963152" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Apr 2026 17:11:28 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
