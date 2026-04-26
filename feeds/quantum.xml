@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 17:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 17:22:05 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -381,6 +381,13 @@ At Northwestern University's Inaugural Quantum Innovation Symposium, Illinois Go
       <pubDate>Sat, 25 Apr 2026 17:11:28 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Computing Investment Landscape 2026</title>
+      <description>Quantum computing is no longer a distant promise — it's making a real impact right now, and the investment landscape is shaping up around three key players. IonQ continues to build momentum with the world's most accurate quantum computing technology, built on its trapped-ion architecture. That accuracy advantage is precisely why DARPA selected the company for a contract pioneering quantum computing in military applications. The financial trajectory is striking: IonQ's revenue surged 429% year ov...</description>
+      <guid isPermaLink="false">daily-quantum-20260426</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-26.mp3" length="1247760" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 17:10:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Quantum</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-quantum-2026-03-08</guid>
@@ -440,6 +447,15 @@ The single most dominant theme is the relentless push toward solving quantum err
       <guid isPermaLink="false">weekly-quantum-2026-04-19</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-04-19.mp3" length="3085776" type="audio/mpeg"/>
       <pubDate>Sun, 19 Apr 2026 17:23:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing has been one of those weeks where you can really feel the field shifting gears, moving from theoretical possibility toward tangible engineering and real strategic consequence. Several major themes emerged, and what's striking is how tightly they're all connected.
+
+The overarching story is distributed quantum computing arriving as a serious architectural paradigm. The week opened with Oxford researchers demonstrating two separate trapped-ion quantum computers operat...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-04-26</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-04-26.mp3" length="3468672" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 17:22:05 +0000</pubDate>
     </item>
   </channel>
 </rss>
