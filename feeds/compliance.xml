@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 17:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 17:22:05 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -326,6 +326,15 @@ In t...</description>
       <pubDate>Sat, 25 Apr 2026 17:12:46 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - FCA Market Sounding Review Findings</title>
+      <description>Good morning. The most significant development for compliance teams today is the FCA's publication of its multi-firm review into market sounding practices across UK equity capital markets. This is a substantive piece of supervisory work and carries direct implications for anyone overseeing ECM activity, syndicate desks, or inside information controls.
+
+The FCA examined data from five banks covering UK equity and equity-linked transactions over fifty million pounds — ninety percent of which were ...</description>
+      <guid isPermaLink="false">daily-compliance-20260426</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-26.mp3" length="2111040" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 17:12:04 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -385,6 +394,15 @@ Let's start with the broades...</description>
       <guid isPermaLink="false">weekly-compliance-2026-04-19</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-04-19.mp3" length="2104992" type="audio/mpeg"/>
       <pubDate>Sun, 19 Apr 2026 17:19:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, the overarching story is one of a regulatory landscape in deliberate transition — a world where the formal apparatus of accountability is being streamlined and lightened even as the underlying expectations for genuine, operational control have never been higher. That tension runs through virtually every development we've covered, and understanding it is essential for anyone sitting in a compliance function at a wholesale bank or financial institution.
+
+The most prominent...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-04-26</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-04-26.mp3" length="3180096" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 17:18:46 +0000</pubDate>
     </item>
   </channel>
 </rss>
