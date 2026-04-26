@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 17:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 17:22:05 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -464,6 +464,13 @@ But the bigger story is what's underneath that number. Let me make it concrete. 
       <pubDate>Sat, 25 Apr 2026 17:09:29 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Apple's On-Device AI Gambit</title>
+      <description>Tim Cook has stepped down as Apple's CEO, and the coverage has focused on continuity — Apple lifer, smooth handoff. That's accurate, but it misses what the org chart is actually saying. The new CEO, John Turnis, is a hardware engineer. He ran the Mac's transition from Intel to Apple Silicon, arguably the most successful silicon transition any consumer company has pulled off. His second in command, John Suji, who's been running Apple's chip design for a decade, is being elevated to chief hardware...</description>
+      <guid isPermaLink="false">RaAFquzj5B8</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-26 - apples-on-device-ai-gambit.mp3" length="3330288" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 17:08:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -514,6 +521,15 @@ The overarching theme is that AI's hardest p...</description>
       <guid isPermaLink="false">weekly-tech-2026-04-19</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-04-19.mp3" length="4681152" type="audio/mpeg"/>
       <pubDate>Sun, 19 Apr 2026 17:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech traced a single underlying tension from almost every angle: the gap between what AI systems can produce and what they actually understand, and the organizational, economic, and architectural consequences of that gap.
+
+The week opened with a deep examination of world models, the idea that companies can build a living, always-updated model of everything happening in their organization, automating the information-routing work that fills most managers' calendars. Jack Dorsey's blue...</description>
+      <guid isPermaLink="false">weekly-tech-2026-04-26</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-04-26.mp3" length="4012128" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 17:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
