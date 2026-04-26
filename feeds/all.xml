@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Apr 2026 17:12:48 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2026 17:22:05 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -510,6 +510,13 @@ But the bigger story is what's underneath that number. Let me make it concrete. 
       <pubDate>Sat, 25 Apr 2026 17:09:29 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Apple's On-Device AI Gambit</title>
+      <description>Tim Cook has stepped down as Apple's CEO, and the coverage has focused on continuity — Apple lifer, smooth handoff. That's accurate, but it misses what the org chart is actually saying. The new CEO, John Turnis, is a hardware engineer. He ran the Mac's transition from Intel to Apple Silicon, arguably the most successful silicon transition any consumer company has pulled off. His second in command, John Suji, who's been running Apple's chip design for a decade, is being elevated to chief hardware...</description>
+      <guid isPermaLink="false">RaAFquzj5B8</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-26 - apples-on-device-ai-gambit.mp3" length="3330288" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 17:08:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -823,6 +830,15 @@ In t...</description>
       <guid isPermaLink="false">daily-compliance-20260425</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-25.mp3" length="1436544" type="audio/mpeg"/>
       <pubDate>Sat, 25 Apr 2026 17:12:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Market Sounding Review Findings</title>
+      <description>Good morning. The most significant development for compliance teams today is the FCA's publication of its multi-firm review into market sounding practices across UK equity capital markets. This is a substantive piece of supervisory work and carries direct implications for anyone overseeing ECM activity, syndicate desks, or inside information controls.
+
+The FCA examined data from five banks covering UK equity and equity-linked transactions over fifty million pounds — ninety percent of which were ...</description>
+      <guid isPermaLink="false">daily-compliance-20260426</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-26.mp3" length="2111040" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 17:12:04 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1195,6 +1211,13 @@ At Northwestern University's Inaugural Quantum Innovation Symposium, Illinois Go
       <pubDate>Sat, 25 Apr 2026 17:11:28 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Computing Investment Landscape 2026</title>
+      <description>Quantum computing is no longer a distant promise — it's making a real impact right now, and the investment landscape is shaping up around three key players. IonQ continues to build momentum with the world's most accurate quantum computing technology, built on its trapped-ion architecture. That accuracy advantage is precisely why DARPA selected the company for a contract pioneering quantum computing in military applications. The financial trajectory is striking: IonQ's revenue surged 429% year ov...</description>
+      <guid isPermaLink="false">daily-quantum-20260426</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-26.mp3" length="1247760" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 17:10:11 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -1254,6 +1277,15 @@ Let's start with the broades...</description>
       <guid isPermaLink="false">weekly-compliance-2026-04-19</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-04-19.mp3" length="2104992" type="audio/mpeg"/>
       <pubDate>Sun, 19 Apr 2026 17:19:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, the overarching story is one of a regulatory landscape in deliberate transition — a world where the formal apparatus of accountability is being streamlined and lightened even as the underlying expectations for genuine, operational control have never been higher. That tension runs through virtually every development we've covered, and understanding it is essential for anyone sitting in a compliance function at a wholesale bank or financial institution.
+
+The most prominent...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-04-26</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-04-26.mp3" length="3180096" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 17:18:46 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
@@ -1317,6 +1349,15 @@ The single most dominant theme is the relentless push toward solving quantum err
       <pubDate>Sun, 19 Apr 2026 17:23:16 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing has been one of those weeks where you can really feel the field shifting gears, moving from theoretical possibility toward tangible engineering and real strategic consequence. Several major themes emerged, and what's striking is how tightly they're all connected.
+
+The overarching story is distributed quantum computing arriving as a serious architectural paradigm. The week opened with Oxford researchers demonstrating two separate trapped-ion quantum computers operat...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-04-26</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-04-26.mp3" length="3468672" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 17:22:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -1367,6 +1408,15 @@ The overarching theme is that AI's hardest p...</description>
       <guid isPermaLink="false">weekly-tech-2026-04-19</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-04-19.mp3" length="4681152" type="audio/mpeg"/>
       <pubDate>Sun, 19 Apr 2026 17:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech traced a single underlying tension from almost every angle: the gap between what AI systems can produce and what they actually understand, and the organizational, economic, and architectural consequences of that gap.
+
+The week opened with a deep examination of world models, the idea that companies can build a living, always-updated model of everything happening in their organization, automating the information-routing work that fills most managers' calendars. Jack Dorsey's blue...</description>
+      <guid isPermaLink="false">weekly-tech-2026-04-26</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-04-26.mp3" length="4012128" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Apr 2026 17:16:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
