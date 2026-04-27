@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 17:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:12:52 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -386,6 +386,13 @@ At Northwestern University's Inaugural Quantum Innovation Symposium, Illinois Go
       <guid isPermaLink="false">daily-quantum-20260426</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-26.mp3" length="1247760" type="audio/mpeg"/>
       <pubDate>Sun, 26 Apr 2026 17:10:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Investment, Deployment, and Policy</title>
+      <description>The quantum computing sector is hitting notable milestones across investment, enterprise deployment, and policy. Starting with markets: Defiance ETFs announced that its Quantum Computing ETF, ticker QTUM, has surpassed four billion dollars in assets under management and earned a five-star Morningstar rating. Launched back in September 2018, the fund has delivered a cumulative total return of nearly 355 percent through March 2026, with a one-year return of almost 45 percent. CIO Sylvia Jablonski ...</description>
+      <guid isPermaLink="false">daily-quantum-20260427</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-27.mp3" length="1697904" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Apr 2026 17:09:45 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
