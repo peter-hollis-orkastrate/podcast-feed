@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 17:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:12:52 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -469,6 +469,15 @@ But the bigger story is what's underneath that number. Let me make it concrete. 
       <guid isPermaLink="false">RaAFquzj5B8</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-26 - apples-on-device-ai-gambit.mp3" length="3330288" type="audio/mpeg"/>
       <pubDate>Sun, 26 Apr 2026 17:08:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Workspace Agents Replace Lightweight Automation</title>
+      <description>OpenAI just launched Workspace Agents in ChatGPT, and after spending a week with teams actually trying the research preview, I think the headline is being underplayed. This is not custom GPTs with better connectors. This is a direct competitor to the lightweight automation layer companies have been stitching together with Zapier, Make, N8N, co-pilot Studio, and a lot of internal glue. And the first useful build is not a six-month transformation project — it's probably just an afternoon.
+
+Here's ...</description>
+      <guid isPermaLink="false">QrvVkm-8Jx4</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-27 - workspace-agents-replace-lightweight-automation.mp3" length="2938896" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Apr 2026 17:08:02 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
