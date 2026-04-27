@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Apr 2026 17:22:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Apr 2026 17:12:52 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -333,6 +333,15 @@ The FCA examined data from five banks covering UK equity and equity-linked trans
       <guid isPermaLink="false">daily-compliance-20260426</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-26.mp3" length="2111040" type="audio/mpeg"/>
       <pubDate>Sun, 26 Apr 2026 17:12:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SMCR Phase 1 Reforms Take Effect</title>
+      <description>Good morning. Today's briefing focuses on the most significant development for compliance teams in some time: the confirmed first wave of reforms to the Senior Managers and Certification Regime, which largely took effect on the 24th of April 2026.
+
+Let's start with the big picture. The FCA, PRA, and HM Treasury have all published their final positions following the July 2025 consultations that came out of the Leeds Reforms. The regulators received strong support and have implemented proposals la...</description>
+      <guid isPermaLink="false">daily-compliance-20260427</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-27.mp3" length="3160368" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Apr 2026 17:12:50 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
