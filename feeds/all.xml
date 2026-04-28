@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Apr 2026 17:12:52 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 28 Apr 2026 17:10:55 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -526,6 +526,15 @@ Here's ...</description>
       <pubDate>Mon, 27 Apr 2026 17:08:02 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Why the Best Model Still Matters</title>
+      <description>GPT 5.5 reset the bar. I think it's the strongest model in the world today, and the most important thing about this release isn't that it's better than 5.4 — it's that it changes what you can reasonably ask a model to do.
+
+The floor moved. That phrase matters because not every release moves the floor. A lot of recent progress has come from inference-time compute — more thinking, more search, more tool calls. That's useful, but it's not the same as the default model being bigger and smarter. 5.5 ...</description>
+      <guid isPermaLink="false">9aIYhjeYxzM</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-28 - why-the-best-model-still-matters.mp3" length="3179088" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Apr 2026 17:08:24 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -857,6 +866,15 @@ Let's start with the big picture. The FCA, PRA, and HM Treasury have all publish
       <guid isPermaLink="false">daily-compliance-20260427</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-27.mp3" length="3160368" type="audio/mpeg"/>
       <pubDate>Mon, 27 Apr 2026 17:12:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SMCR Streamlining Reforms Consultation Launched</title>
+      <description>Good morning. Today's briefing centres on a significant development for anyone operating under the Senior Managers and Certification Regime. The FCA and PRA have jointly published consultation papers proposing the first phase of SMCR reforms, with responses due by the 7th of October 2025. This sits alongside a separate government consultation on legislative changes that could prove even more consequential.
+
+Let's start with what matters most. The headline reform is the fix to the so-called 12-we...</description>
+      <guid isPermaLink="false">daily-compliance-20260428</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-28.mp3" length="2169504" type="audio/mpeg"/>
+      <pubDate>Tue, 28 Apr 2026 17:10:53 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
