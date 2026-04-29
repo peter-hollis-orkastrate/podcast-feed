@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 17:10:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 17:12:12 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -487,6 +487,15 @@ The floor moved. That phrase matters because not every release moves the floor. 
       <guid isPermaLink="false">9aIYhjeYxzM</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-28 - why-the-best-model-still-matters.mp3" length="3179088" type="audio/mpeg"/>
       <pubDate>Tue, 28 Apr 2026 17:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Filtering Agent Launches That Matter</title>
+      <description>Every week another AI agent launches. OpenAI shipped workspace agents, Anthropic put managed agents into beta, Salesforce turned the platform into Headless 360, Perplexity put personal computer on Mac, Moonshot dropped Kimmy K 2.6 with a 300-agent swarm. And if you're leading a team right now, the reaction I keep hearing isn't excitement — it's exhaustion. The question isn't what launched this week. It's which of these things actually deserves an afternoon of your team's attention.
+
+You need a f...</description>
+      <guid isPermaLink="false">dQK_pTXrGDk</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-29 - filtering-agent-launches-that-matter.mp3" length="3126960" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Apr 2026 17:08:18 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
