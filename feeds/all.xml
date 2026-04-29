@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 17:10:55 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 17:12:12 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -535,6 +535,15 @@ The floor moved. That phrase matters because not every release moves the floor. 
       <pubDate>Tue, 28 Apr 2026 17:08:24 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Filtering Agent Launches That Matter</title>
+      <description>Every week another AI agent launches. OpenAI shipped workspace agents, Anthropic put managed agents into beta, Salesforce turned the platform into Headless 360, Perplexity put personal computer on Mac, Moonshot dropped Kimmy K 2.6 with a 300-agent swarm. And if you're leading a team right now, the reaction I keep hearing isn't excitement — it's exhaustion. The question isn't what launched this week. It's which of these things actually deserves an afternoon of your team's attention.
+
+You need a f...</description>
+      <guid isPermaLink="false">dQK_pTXrGDk</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-29 - filtering-agent-launches-that-matter.mp3" length="3126960" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Apr 2026 17:08:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -875,6 +884,15 @@ Let's start with what matters most. The headline reform is the fix to the so-cal
       <guid isPermaLink="false">daily-compliance-20260428</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-28.mp3" length="2169504" type="audio/mpeg"/>
       <pubDate>Tue, 28 Apr 2026 17:10:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SMCR Phase 1 Reforms and Phase 2 Preview</title>
+      <description>The FCA's Policy Statement PS26/6 has now delivered the first wave of SMCR reforms, and if you're running compliance for a wholesale markets desk or a Global Banking and Markets division, there are immediate practical implications alongside some significant structural changes on the horizon.
+
+Let's start with what's already live. From 24 April 2026, the 12-week rule for senior management appointments has changed materially. Firms now have 12 weeks to submit an application rather than needing app...</description>
+      <guid isPermaLink="false">daily-compliance-20260429</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-29.mp3" length="2628720" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Apr 2026 17:12:10 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1259,6 +1277,13 @@ At Northwestern University's Inaugural Quantum Innovation Symposium, Illinois Go
       <guid isPermaLink="false">daily-quantum-20260427</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-27.mp3" length="1697904" type="audio/mpeg"/>
       <pubDate>Mon, 27 Apr 2026 17:09:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - IBM Expands Chicago Quantum Hub</title>
+      <description>The biggest quantum news today centers on IBM deepening its commitment to Chicago as a quantum and AI hub. The company announced plans to add 750 jobs over the next five years at the Illinois Quantum and Microelectronics Park, with roles focused on artificial intelligence, quantum computing, cybersecurity, and data science. In exchange, IBM will receive $19 million from a state tax-credit program. The announcement, made jointly with Illinois Governor JB Pritzker, also includes the establishment ...</description>
+      <guid isPermaLink="false">daily-quantum-20260429</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-29.mp3" length="724320" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Apr 2026 17:09:22 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
