@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 28 Apr 2026 17:10:54 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Apr 2026 17:12:12 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -351,6 +351,15 @@ Let's start with what matters most. The headline reform is the fix to the so-cal
       <guid isPermaLink="false">daily-compliance-20260428</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-28.mp3" length="2169504" type="audio/mpeg"/>
       <pubDate>Tue, 28 Apr 2026 17:10:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SMCR Phase 1 Reforms and Phase 2 Preview</title>
+      <description>The FCA's Policy Statement PS26/6 has now delivered the first wave of SMCR reforms, and if you're running compliance for a wholesale markets desk or a Global Banking and Markets division, there are immediate practical implications alongside some significant structural changes on the horizon.
+
+Let's start with what's already live. From 24 April 2026, the 12-week rule for senior management appointments has changed materially. Firms now have 12 weeks to submit an application rather than needing app...</description>
+      <guid isPermaLink="false">daily-compliance-20260429</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-29.mp3" length="2628720" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Apr 2026 17:12:10 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
