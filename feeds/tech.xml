@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 17:12:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 17:13:20 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -503,6 +503,13 @@ You need a f...</description>
       <guid isPermaLink="false">JvCtGjrn_N0</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-04-30 - breaking-corporate-ai-tool-inertia.mp3" length="3029328" type="audio/mpeg"/>
       <pubDate>Thu, 30 Apr 2026 17:08:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Owning Your Personal AI Stack</title>
+      <description>The strangest thing about AI right now is that it's making the computer on your desk important again. For fifteen years, personal computing was the story of the computer disappearing — files moved to the cloud, apps became browser tabs, your OS became a launcher for other people's infrastructure. But agents are changing the direction of travel because a useful agent doesn't just answer a question. It wants to touch the work — read the file, inspect the folder, run the test, edit the spreadsheet,...</description>
+      <guid isPermaLink="false">iUSdS-6uwr4</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-01 - owning-your-personal-ai-stack.mp3" length="3803616" type="audio/mpeg"/>
+      <pubDate>Fri, 01 May 2026 17:08:48 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
