@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Apr 2026 17:12:51 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 01 May 2026 17:13:20 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -551,6 +551,13 @@ You need a f...</description>
       <pubDate>Thu, 30 Apr 2026 17:08:22 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Owning Your Personal AI Stack</title>
+      <description>The strangest thing about AI right now is that it's making the computer on your desk important again. For fifteen years, personal computing was the story of the computer disappearing — files moved to the cloud, apps became browser tabs, your OS became a launcher for other people's infrastructure. But agents are changing the direction of travel because a useful agent doesn't just answer a question. It wants to touch the work — read the file, inspect the folder, run the test, edit the spreadsheet,...</description>
+      <guid isPermaLink="false">iUSdS-6uwr4</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-01 - owning-your-personal-ai-stack.mp3" length="3803616" type="audio/mpeg"/>
+      <pubDate>Fri, 01 May 2026 17:08:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -909,6 +916,15 @@ Let me start with what I think is the most consequential change: the new guidanc
       <guid isPermaLink="false">daily-compliance-20260430</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-04-30.mp3" length="1855728" type="audio/mpeg"/>
       <pubDate>Thu, 30 Apr 2026 17:12:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Priorities, AR Reform, SM&amp;CR Expansion</title>
+      <description>Good morning. Let's get into today's compliance briefing, which centres on several significant FCA and PRA developments that wholesale markets teams and compliance officers need to track carefully.
+
+The most consequential development for SM&amp;CR accountability is the Treasury's consultation on reforming the Appointed Representatives regime, published 12 February and closing 9 April 2026. The government is proposing to bring ARs within the scope of the Senior Managers and Certification Regime. Curr...</description>
+      <guid isPermaLink="false">daily-compliance-20260501</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-01.mp3" length="2455056" type="audio/mpeg"/>
+      <pubDate>Fri, 01 May 2026 17:13:18 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1307,6 +1323,13 @@ At Northwestern University's Inaugural Quantum Innovation Symposium, Illinois Go
       <guid isPermaLink="false">daily-quantum-20260430</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-04-30.mp3" length="1905552" type="audio/mpeg"/>
       <pubDate>Thu, 30 Apr 2026 17:11:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Photonic Breakthrough and Quantum Policy Moves</title>
+      <description>The biggest development today comes from QuiX Quantum, which has demonstrated a breakthrough in photonic quantum computing that could make scaling these light-powered machines far more viable. The technique, called photon distillation, tackles what's arguably the hardest problem in photonic quantum computing: the presence of rogue photons that refuse to interact properly with others, ruining computations before they even begin. As QuiX chief scientist Jelmer Renema explains, photons are constant...</description>
+      <guid isPermaLink="false">daily-quantum-20260501</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-01.mp3" length="1695888" type="audio/mpeg"/>
+      <pubDate>Fri, 01 May 2026 17:10:50 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
