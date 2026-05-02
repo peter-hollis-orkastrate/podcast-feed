@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 01 May 2026 17:13:20 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 17:10:51 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -510,6 +510,15 @@ You need a f...</description>
       <guid isPermaLink="false">iUSdS-6uwr4</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-01 - owning-your-personal-ai-stack.mp3" length="3803616" type="audio/mpeg"/>
       <pubDate>Fri, 01 May 2026 17:08:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Issue Trackers as Agent Infrastructure</title>
+      <description>This is one of the most surprising software stories of 2026. Issue trackers — the most boring software in the engineering stack, the thing everyone complains about — are quietly becoming one of the most important pieces of agent infrastructure. They weren't designed for AI. They became useful because they happened to encode something agents desperately need: durable state, ownership, permissions, history, and a clean idea of what should happen next.
+
+If you want agents to do real work, the hard ...</description>
+      <guid isPermaLink="false">FDkvRl1RlT0</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-02 - issue-trackers-as-agent-infrastructure.mp3" length="3353472" type="audio/mpeg"/>
+      <pubDate>Sat, 02 May 2026 17:08:19 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
