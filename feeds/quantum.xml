@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 17:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 17:20:19 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -423,6 +423,13 @@ At Northwestern University's Inaugural Quantum Innovation Symposium, Illinois Go
       <pubDate>Sat, 02 May 2026 17:09:41 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Race Intensifies Between Superpowers</title>
+      <description>The quantum computing race between the United States and China is tightening fast, and the implications stretch well beyond the laboratory. John Martinis, the 2025 Nobel Prize winner in Physics, has issued a stark warning that China's quantum capabilities are now so close to America's that the lead may be measured in nanoseconds. This isn't hyperbole from some commentator — this is coming from the man who led Google's landmark 2019 quantum supremacy experiment with the 54-qubit Sycamore processo...</description>
+      <guid isPermaLink="false">daily-quantum-20260503</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-03.mp3" length="1540368" type="audio/mpeg"/>
+      <pubDate>Sun, 03 May 2026 17:11:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Quantum</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-quantum-2026-03-08</guid>
@@ -491,6 +498,15 @@ The overarching story is distributed quantum computing arriving as a serious arc
       <guid isPermaLink="false">weekly-quantum-2026-04-26</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-04-26.mp3" length="3468672" type="audio/mpeg"/>
       <pubDate>Sun, 26 Apr 2026 17:22:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing paints a picture of a field that has decisively crossed from theoretical promise into commercial, strategic, and geopolitical reality. The overarching theme is acceleration — acceleration in investment, in technical breakthroughs, in workforce development, in policy responses, and in the intensifying competition between nations to own this technology.
+
+Let's start with the money, because that's where conviction becomes measurable. The Defiance Quantum ETF crossing ...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-05-03</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-05-03.mp3" length="3277296" type="audio/mpeg"/>
+      <pubDate>Sun, 03 May 2026 17:20:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
