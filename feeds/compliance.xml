@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 17:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 17:20:19 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -455,6 +455,15 @@ The most prominent...</description>
       <guid isPermaLink="false">weekly-compliance-2026-04-26</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-04-26.mp3" length="3180096" type="audio/mpeg"/>
       <pubDate>Sun, 26 Apr 2026 17:18:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance has been dominated by a single, unmistakable theme: the reshaping of individual accountability under the Senior Managers and Certification Regime. Across multiple episodes, we've tracked the SMCR reforms from consultation through to implementation, and the picture that emerges is one of a regime that is simultaneously loosening its administrative grip while sharpening its substantive teeth.
+
+The Phase 1 reforms that took effect on the 24th of April represent the most sign...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-05-03</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-03.mp3" length="2708640" type="audio/mpeg"/>
+      <pubDate>Sun, 03 May 2026 17:17:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
