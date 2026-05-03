@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 17:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 17:20:19 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -565,6 +565,15 @@ If you want agents to do real work, the hard ...</description>
       <guid isPermaLink="false">FDkvRl1RlT0</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-02 - issue-trackers-as-agent-infrastructure.mp3" length="3353472" type="audio/mpeg"/>
       <pubDate>Sat, 02 May 2026 17:08:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Buyer-Agent Economy Replaces Seller Funnels</title>
+      <description>Stripe announced a massive set of new agent commerce products, and everyone's buzzing about the demo where an AI agent buys you coffee. That's not the point. The point is that power in the entire internet economy is shifting from the seller to the buyer for the first time in decades. This is the biggest change in commerce patterns in twenty years.
+
+Let me walk through three shifts underneath this announcement. First, why the old funnel was really a machine for making human intent visible. Second...</description>
+      <guid isPermaLink="false">XGvDbeoSN3E</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-03 - buyer-agent-economy-replaces-seller-funnels.mp3" length="4037616" type="audio/mpeg"/>
+      <pubDate>Sun, 03 May 2026 17:09:56 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -1355,6 +1364,13 @@ At Northwestern University's Inaugural Quantum Innovation Symposium, Illinois Go
       <pubDate>Sat, 02 May 2026 17:09:41 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Race Intensifies Between Superpowers</title>
+      <description>The quantum computing race between the United States and China is tightening fast, and the implications stretch well beyond the laboratory. John Martinis, the 2025 Nobel Prize winner in Physics, has issued a stark warning that China's quantum capabilities are now so close to America's that the lead may be measured in nanoseconds. This isn't hyperbole from some commentator — this is coming from the man who led Google's landmark 2019 quantum supremacy experiment with the 54-qubit Sycamore processo...</description>
+      <guid isPermaLink="false">daily-quantum-20260503</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-03.mp3" length="1540368" type="audio/mpeg"/>
+      <pubDate>Sun, 03 May 2026 17:11:33 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -1423,6 +1439,15 @@ The most prominent...</description>
       <guid isPermaLink="false">weekly-compliance-2026-04-26</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-04-26.mp3" length="3180096" type="audio/mpeg"/>
       <pubDate>Sun, 26 Apr 2026 17:18:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance has been dominated by a single, unmistakable theme: the reshaping of individual accountability under the Senior Managers and Certification Regime. Across multiple episodes, we've tracked the SMCR reforms from consultation through to implementation, and the picture that emerges is one of a regime that is simultaneously loosening its administrative grip while sharpening its substantive teeth.
+
+The Phase 1 reforms that took effect on the 24th of April represent the most sign...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-05-03</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-03.mp3" length="2708640" type="audio/mpeg"/>
+      <pubDate>Sun, 03 May 2026 17:17:24 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
@@ -1495,6 +1520,15 @@ The overarching story is distributed quantum computing arriving as a serious arc
       <pubDate>Sun, 26 Apr 2026 17:22:05 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing paints a picture of a field that has decisively crossed from theoretical promise into commercial, strategic, and geopolitical reality. The overarching theme is acceleration — acceleration in investment, in technical breakthroughs, in workforce development, in policy responses, and in the intensifying competition between nations to own this technology.
+
+Let's start with the money, because that's where conviction becomes measurable. The Defiance Quantum ETF crossing ...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-05-03</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-05-03.mp3" length="3277296" type="audio/mpeg"/>
+      <pubDate>Sun, 03 May 2026 17:20:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -1554,6 +1588,15 @@ The week opened with a deep examination of world models, the idea that companies
       <guid isPermaLink="false">weekly-tech-2026-04-26</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-04-26.mp3" length="4012128" type="audio/mpeg"/>
       <pubDate>Sun, 26 Apr 2026 17:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech, a single thread runs through almost everything: the infrastructure beneath AI is shifting, and the interesting question is no longer whether AI works but who controls where it runs, where it remembers, and where it transacts. That's the overarching story, and it plays out across hardware strategy, enterprise tooling, personal computing, the nature of work coordination, and even how commerce itself is being restructured.
+
+The week opened with Apple's leadership transition, and ...</description>
+      <guid isPermaLink="false">weekly-tech-2026-05-03</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-03.mp3" length="3969936" type="audio/mpeg"/>
+      <pubDate>Sun, 03 May 2026 17:15:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
