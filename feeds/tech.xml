@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 02 May 2026 17:10:51 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 03 May 2026 17:20:18 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -521,6 +521,15 @@ If you want agents to do real work, the hard ...</description>
       <pubDate>Sat, 02 May 2026 17:08:19 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Buyer-Agent Economy Replaces Seller Funnels</title>
+      <description>Stripe announced a massive set of new agent commerce products, and everyone's buzzing about the demo where an AI agent buys you coffee. That's not the point. The point is that power in the entire internet economy is shifting from the seller to the buyer for the first time in decades. This is the biggest change in commerce patterns in twenty years.
+
+Let me walk through three shifts underneath this announcement. First, why the old funnel was really a machine for making human intent visible. Second...</description>
+      <guid isPermaLink="false">XGvDbeoSN3E</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-03 - buyer-agent-economy-replaces-seller-funnels.mp3" length="4037616" type="audio/mpeg"/>
+      <pubDate>Sun, 03 May 2026 17:09:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -580,6 +589,15 @@ The week opened with a deep examination of world models, the idea that companies
       <guid isPermaLink="false">weekly-tech-2026-04-26</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-04-26.mp3" length="4012128" type="audio/mpeg"/>
       <pubDate>Sun, 26 Apr 2026 17:16:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech, a single thread runs through almost everything: the infrastructure beneath AI is shifting, and the interesting question is no longer whether AI works but who controls where it runs, where it remembers, and where it transacts. That's the overarching story, and it plays out across hardware strategy, enterprise tooling, personal computing, the nature of work coordination, and even how commerce itself is being restructured.
+
+The week opened with Apple's leadership transition, and ...</description>
+      <guid isPermaLink="false">weekly-tech-2026-05-03</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-03.mp3" length="3969936" type="audio/mpeg"/>
+      <pubDate>Sun, 03 May 2026 17:15:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
