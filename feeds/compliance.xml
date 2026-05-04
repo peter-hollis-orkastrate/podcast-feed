@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 May 2026 17:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 17:13:26 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -385,6 +385,15 @@ The most consequential development for SM&amp;CR accountability is the Treasury'
       <guid isPermaLink="false">daily-compliance-20260502</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-02.mp3" length="1287504" type="audio/mpeg"/>
       <pubDate>Sat, 02 May 2026 17:10:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SM&amp;CR Phase 1 Reforms Now Live</title>
+      <description>Good morning. The headline for compliance teams today is that the FCA's SM&amp;CR Phase 1 reforms are now live following publication of PS26/6 on 22 April. Let me walk through what this means in practice, particularly for wholesale markets and Global Banking &amp; Markets divisions.
+
+First, the critical framing: this is not a deregulatory moment. The FCA has stripped out repetitive administrative requirements, but the underlying accountability expectations are unchanged or arguably sharpened. The regula...</description>
+      <guid isPermaLink="false">daily-compliance-20260504</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-04.mp3" length="2514096" type="audio/mpeg"/>
+      <pubDate>Mon, 04 May 2026 17:13:24 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
