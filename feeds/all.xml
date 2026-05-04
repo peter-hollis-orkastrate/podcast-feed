@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 May 2026 17:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 17:13:26 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -576,6 +576,13 @@ Let me walk through three shifts underneath this announcement. First, why the ol
       <pubDate>Sun, 03 May 2026 17:09:56 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Auditing Your Job for Durability</title>
+      <description>The first sign your job is on thin ice is often a full calendar and no clue what's actually happening. Your manager's happy, the work's getting done, but less and less of it truly needs you. That's exactly what happened to travel agents. Expedia didn't erase the profession overnight. Online booking changed the economics of routine work first, and nothing visibly changed. The real break came later when downturns forced the industry to admit what had already shifted. I think a lot of knowledge wor...</description>
+      <guid isPermaLink="false">rYqt6mMlv7o</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-04 - auditing-your-job-for-durability.mp3" length="2778912" type="audio/mpeg"/>
+      <pubDate>Mon, 04 May 2026 17:08:22 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -950,6 +957,15 @@ The most consequential development for SM&amp;CR accountability is the Treasury'
       <guid isPermaLink="false">daily-compliance-20260502</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-02.mp3" length="1287504" type="audio/mpeg"/>
       <pubDate>Sat, 02 May 2026 17:10:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SM&amp;CR Phase 1 Reforms Now Live</title>
+      <description>Good morning. The headline for compliance teams today is that the FCA's SM&amp;CR Phase 1 reforms are now live following publication of PS26/6 on 22 April. Let me walk through what this means in practice, particularly for wholesale markets and Global Banking &amp; Markets divisions.
+
+First, the critical framing: this is not a deregulatory moment. The FCA has stripped out repetitive administrative requirements, but the underlying accountability expectations are unchanged or arguably sharpened. The regula...</description>
+      <guid isPermaLink="false">daily-compliance-20260504</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-04.mp3" length="2514096" type="audio/mpeg"/>
+      <pubDate>Mon, 04 May 2026 17:13:24 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1369,6 +1385,15 @@ At Northwestern University's Inaugural Quantum Innovation Symposium, Illinois Go
       <guid isPermaLink="false">daily-quantum-20260503</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-03.mp3" length="1540368" type="audio/mpeg"/>
       <pubDate>Sun, 03 May 2026 17:11:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Security, Markets, and Milestones</title>
+      <description>Today's quantum landscape spans cybersecurity product launches, market volatility, corporate leadership shifts, and research breakthroughs that together paint a picture of an accelerating but still maturing field.
+
+Starting with security: Quantum eMotion has launched eShield-Q, a cybersecurity platform designed to protect cryptographic operations during application runtime. The core insight here is that encryption keys are vulnerable while actively in use in memory, and eShield-Q addresses this ...</description>
+      <guid isPermaLink="false">daily-quantum-20260504</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-04.mp3" length="1912032" type="audio/mpeg"/>
+      <pubDate>Mon, 04 May 2026 17:10:18 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
