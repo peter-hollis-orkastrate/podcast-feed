@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 03 May 2026 17:20:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 04 May 2026 17:13:26 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -428,6 +428,15 @@ At Northwestern University's Inaugural Quantum Innovation Symposium, Illinois Go
       <guid isPermaLink="false">daily-quantum-20260503</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-03.mp3" length="1540368" type="audio/mpeg"/>
       <pubDate>Sun, 03 May 2026 17:11:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Security, Markets, and Milestones</title>
+      <description>Today's quantum landscape spans cybersecurity product launches, market volatility, corporate leadership shifts, and research breakthroughs that together paint a picture of an accelerating but still maturing field.
+
+Starting with security: Quantum eMotion has launched eShield-Q, a cybersecurity platform designed to protect cryptographic operations during application runtime. The core insight here is that encryption keys are vulnerable while actively in use in memory, and eShield-Q addresses this ...</description>
+      <guid isPermaLink="false">daily-quantum-20260504</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-04.mp3" length="1912032" type="audio/mpeg"/>
+      <pubDate>Mon, 04 May 2026 17:10:18 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
