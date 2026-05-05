@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 17:13:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 17:12:32 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -55,6 +55,15 @@ So what is the state pension actually doing? Three things. It provides anti-pove
       <guid isPermaLink="false">dUAeh20P0Oo</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-04-15 - waless-fiscal-squeeze-and-service-crisis.mp3" length="3189888" type="audio/mpeg"/>
       <pubDate>Wed, 15 Apr 2026 17:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Educational Inequality Drivers and Levers</title>
+      <description>In the Deaton Review, we tried to bring structure to the sprawling topic of educational inequalities by distinguishing two things: inequalities by education — how your qualification level shapes your life — and inequalities in education — who actually reaches those levels.
+
+On the first: by their late 30s, graduates earn almost twice as much as those whose highest qualification is GCSE or below. And this isn't merely correlational. Education causally increases earnings, physical health, mental h...</description>
+      <guid isPermaLink="false">SBPFJUn7Lho</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-05 - uk-educational-inequality-drivers-and-levers.mp3" length="2476512" type="audio/mpeg"/>
+      <pubDate>Tue, 05 May 2026 17:10:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
