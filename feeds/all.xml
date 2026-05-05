@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 17:13:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 17:12:32 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -55,6 +55,15 @@ So what is the state pension actually doing? Three things. It provides anti-pove
       <guid isPermaLink="false">dUAeh20P0Oo</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-04-15 - waless-fiscal-squeeze-and-service-crisis.mp3" length="3189888" type="audio/mpeg"/>
       <pubDate>Wed, 15 Apr 2026 17:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Educational Inequality Drivers and Levers</title>
+      <description>In the Deaton Review, we tried to bring structure to the sprawling topic of educational inequalities by distinguishing two things: inequalities by education — how your qualification level shapes your life — and inequalities in education — who actually reaches those levels.
+
+On the first: by their late 30s, graduates earn almost twice as much as those whose highest qualification is GCSE or below. And this isn't merely correlational. Education causally increases earnings, physical health, mental h...</description>
+      <guid isPermaLink="false">SBPFJUn7Lho</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-05 - uk-educational-inequality-drivers-and-levers.mp3" length="2476512" type="audio/mpeg"/>
+      <pubDate>Tue, 05 May 2026 17:10:29 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -581,6 +590,15 @@ Let me walk through three shifts underneath this announcement. First, why the ol
       <guid isPermaLink="false">rYqt6mMlv7o</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-04 - auditing-your-job-for-durability.mp3" length="2778912" type="audio/mpeg"/>
       <pubDate>Mon, 04 May 2026 17:08:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - The Consumer AI Anticipation Gap</title>
+      <description>The main problem in AI right now is that software is finally capable enough to help, and somehow it has become one more thing to manage. I don't need another chatbot. I don't need another blank box waiting for me to invent the perfect prompt. I don't need another agent that says it can do anything and then sits there waiting for me to assign it work. And I definitely don't need my attention sucked into managing a fleet of agents. That's not what an assistant does. That's a new inbox.
+
+The fronti...</description>
+      <guid isPermaLink="false">Z0HizICooiw</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-05 - the-consumer-ai-anticipation-gap.mp3" length="2515248" type="audio/mpeg"/>
+      <pubDate>Tue, 05 May 2026 17:07:41 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -1394,6 +1412,15 @@ Starting with security: Quantum eMotion has launched eShield-Q, a cybersecurity 
       <guid isPermaLink="false">daily-quantum-20260504</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-04.mp3" length="1912032" type="audio/mpeg"/>
       <pubDate>Mon, 04 May 2026 17:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Simulates Largest Protein Yet</title>
+      <description>Today's major quantum computing news centers on a record-breaking molecular simulation. A collaboration between Cleveland Clinic, IBM, and Japan's RIKEN institute has used quantum computers to simulate a protein-ligand complex containing 12,635 atoms — the largest biologically meaningful molecule ever modeled with quantum hardware. This is roughly 40 times bigger than what the same method could handle just six months ago.
+
+The achievement relies on what IBM calls quantum-centric supercomputing —...</description>
+      <guid isPermaLink="false">daily-quantum-20260505</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-05.mp3" length="1572192" type="audio/mpeg"/>
+      <pubDate>Tue, 05 May 2026 17:12:29 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
