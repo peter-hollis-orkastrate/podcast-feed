@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 04 May 2026 17:13:26 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 05 May 2026 17:12:31 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -437,6 +437,15 @@ Starting with security: Quantum eMotion has launched eShield-Q, a cybersecurity 
       <guid isPermaLink="false">daily-quantum-20260504</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-04.mp3" length="1912032" type="audio/mpeg"/>
       <pubDate>Mon, 04 May 2026 17:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Simulates Largest Protein Yet</title>
+      <description>Today's major quantum computing news centers on a record-breaking molecular simulation. A collaboration between Cleveland Clinic, IBM, and Japan's RIKEN institute has used quantum computers to simulate a protein-ligand complex containing 12,635 atoms — the largest biologically meaningful molecule ever modeled with quantum hardware. This is roughly 40 times bigger than what the same method could handle just six months ago.
+
+The achievement relies on what IBM calls quantum-centric supercomputing —...</description>
+      <guid isPermaLink="false">daily-quantum-20260505</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-05.mp3" length="1572192" type="audio/mpeg"/>
+      <pubDate>Tue, 05 May 2026 17:12:29 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
