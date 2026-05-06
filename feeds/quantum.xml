@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 17:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 17:14:24 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -446,6 +446,13 @@ The achievement relies on what IBM calls quantum-centric supercomputing —...</
       <guid isPermaLink="false">daily-quantum-20260505</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-05.mp3" length="1572192" type="audio/mpeg"/>
       <pubDate>Tue, 05 May 2026 17:12:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Mobile Spin Qubits and Quantum Preparedness</title>
+      <description>The biggest development today comes from a Nature publication demonstrating two-qubit logic operations between mobile electron spins in silicon — a critical milestone for scalable semiconductor quantum processors. Researchers used conveyor-mode shuttling to bring two electron spins toward each other in separate travelling potential minima, achieving an average two-qubit gate fidelity of about 99% with a total displacement of 240 nanometers. They also implemented conditional quantum state telepor...</description>
+      <guid isPermaLink="false">daily-quantum-20260506</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-06.mp3" length="1694016" type="audio/mpeg"/>
+      <pubDate>Wed, 06 May 2026 17:13:15 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
