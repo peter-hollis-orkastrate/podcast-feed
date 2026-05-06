@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 17:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 17:14:24 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -64,6 +64,15 @@ On the first: by their late 30s, graduates earn almost twice as much as those wh
       <guid isPermaLink="false">SBPFJUn7Lho</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-05 - uk-educational-inequality-drivers-and-levers.mp3" length="2476512" type="audio/mpeg"/>
       <pubDate>Tue, 05 May 2026 17:10:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Labour Market Inequality Drivers</title>
+      <description>For most people, the labour market is their main source of income, so labour market inequalities are the primary driver of income inequalities. Let me give you an overview of major trends over the past half century.
+
+Starting with pay: reaching the 95th percentile takes about £90,000, but making the 99th requires doubling that. The 90th percentile is about six times the 10th in total earnings, and even controlling for hours worked, the 90th is roughly triple the 10th in hourly wages. How did we ...</description>
+      <guid isPermaLink="false">ZKjEv_Adt3Q</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-06 - uk-labour-market-inequality-drivers.mp3" length="2747520" type="audio/mpeg"/>
+      <pubDate>Wed, 06 May 2026 17:10:55 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -601,6 +610,15 @@ The fronti...</description>
       <pubDate>Tue, 05 May 2026 17:07:41 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Semantic Work Primitives for AI Agents</title>
+      <description>This is about the strategy we need as product leaders when thinking about where agents play best. I'm asserting that the work primitive is what really matters—not the agent's ability to use a computer. A lot of us assume that computer use levels the playing field, but there's a deeper strategy that needs to be more widely understood.
+
+When an AI agent opens a browser, clicks buttons, fills forms, checks your calendar—it feels like the model has crossed a line. But the visible work is distracting...</description>
+      <guid isPermaLink="false">b1fxYGPbHeo</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-06 - semantic-work-primitives-for-ai-agents.mp3" length="3222432" type="audio/mpeg"/>
+      <pubDate>Wed, 06 May 2026 17:08:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -984,6 +1002,13 @@ First, the critical framing: this is not a deregulatory moment. The FCA has stri
       <guid isPermaLink="false">daily-compliance-20260504</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-04.mp3" length="2514096" type="audio/mpeg"/>
       <pubDate>Mon, 04 May 2026 17:13:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - CMA Reform and Competition Policy Shifts</title>
+      <description>Today's focus is on the significant reshaping of UK competition enforcement and what it means for compliance teams in wholesale markets and banking. The CMA underwent dramatic change through 2025, beginning with the unexpected removal of chair Marcus Bokkerink and his replacement by former Amazon executive Doug Gurr, driven by the government's conclusion that CMA leadership wasn't sufficiently aligned with its economic growth agenda. The CMA then implemented its '4Ps' framework — pace, proportio...</description>
+      <guid isPermaLink="false">daily-compliance-20260506</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-06.mp3" length="1270080" type="audio/mpeg"/>
+      <pubDate>Wed, 06 May 2026 17:14:22 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1421,6 +1446,13 @@ The achievement relies on what IBM calls quantum-centric supercomputing —...</
       <guid isPermaLink="false">daily-quantum-20260505</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-05.mp3" length="1572192" type="audio/mpeg"/>
       <pubDate>Tue, 05 May 2026 17:12:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Mobile Spin Qubits and Quantum Preparedness</title>
+      <description>The biggest development today comes from a Nature publication demonstrating two-qubit logic operations between mobile electron spins in silicon — a critical milestone for scalable semiconductor quantum processors. Researchers used conveyor-mode shuttling to bring two electron spins toward each other in separate travelling potential minima, achieving an average two-qubit gate fidelity of about 99% with a total displacement of 240 nanometers. They also implemented conditional quantum state telepor...</description>
+      <guid isPermaLink="false">daily-quantum-20260506</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-06.mp3" length="1694016" type="audio/mpeg"/>
+      <pubDate>Wed, 06 May 2026 17:13:15 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
