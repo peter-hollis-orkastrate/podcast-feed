@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 17:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 17:14:24 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -544,6 +544,15 @@ The fronti...</description>
       <guid isPermaLink="false">Z0HizICooiw</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-05 - the-consumer-ai-anticipation-gap.mp3" length="2515248" type="audio/mpeg"/>
       <pubDate>Tue, 05 May 2026 17:07:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Semantic Work Primitives for AI Agents</title>
+      <description>This is about the strategy we need as product leaders when thinking about where agents play best. I'm asserting that the work primitive is what really matters—not the agent's ability to use a computer. A lot of us assume that computer use levels the playing field, but there's a deeper strategy that needs to be more widely understood.
+
+When an AI agent opens a browser, clicks buttons, fills forms, checks your calendar—it feels like the model has crossed a line. But the visible work is distracting...</description>
+      <guid isPermaLink="false">b1fxYGPbHeo</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-06 - semantic-work-primitives-for-ai-agents.mp3" length="3222432" type="audio/mpeg"/>
+      <pubDate>Wed, 06 May 2026 17:08:05 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
