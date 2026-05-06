@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 05 May 2026 17:12:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 06 May 2026 17:14:24 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -64,6 +64,15 @@ On the first: by their late 30s, graduates earn almost twice as much as those wh
       <guid isPermaLink="false">SBPFJUn7Lho</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-05 - uk-educational-inequality-drivers-and-levers.mp3" length="2476512" type="audio/mpeg"/>
       <pubDate>Tue, 05 May 2026 17:10:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Labour Market Inequality Drivers</title>
+      <description>For most people, the labour market is their main source of income, so labour market inequalities are the primary driver of income inequalities. Let me give you an overview of major trends over the past half century.
+
+Starting with pay: reaching the 95th percentile takes about £90,000, but making the 99th requires doubling that. The 90th percentile is about six times the 10th in total earnings, and even controlling for hours worked, the 90th is roughly triple the 10th in hourly wages. How did we ...</description>
+      <guid isPermaLink="false">ZKjEv_Adt3Q</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-06 - uk-labour-market-inequality-drivers.mp3" length="2747520" type="audio/mpeg"/>
+      <pubDate>Wed, 06 May 2026 17:10:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
