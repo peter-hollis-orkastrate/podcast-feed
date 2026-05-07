@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 06 May 2026 17:14:24 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 07 May 2026 17:12:07 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -73,6 +73,15 @@ Starting with pay: reaching the 95th percentile takes about £90,000, but making
       <guid isPermaLink="false">ZKjEv_Adt3Q</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-06 - uk-labour-market-inequality-drivers.mp3" length="2747520" type="audio/mpeg"/>
       <pubDate>Wed, 06 May 2026 17:10:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Wealth Inequality Policy Tradeoffs</title>
+      <description>About three quarters of UK household wealth is pensions and housing. Across most of the distribution it's more like 90%, though the bottom 10% are net debtors whose assets tend to be physical things like cars and furniture, while the top 10% hold more financial assets and the very wealthiest often have significant private business wealth.
+
+Wealth relative to income has more than doubled over the past 40 years, and much of that rise isn't from people saving more — it's asset prices increasing, pa...</description>
+      <guid isPermaLink="false">WA3hgib36-k</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-07 - uk-wealth-inequality-policy-tradeoffs.mp3" length="2421792" type="audio/mpeg"/>
+      <pubDate>Thu, 07 May 2026 17:09:37 +0000</pubDate>
     </item>
   </channel>
 </rss>
