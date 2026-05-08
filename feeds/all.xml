@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 17:12:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 17:12:45 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -82,6 +82,13 @@ Wealth relative to income has more than doubled over the past 40 years, and much
       <guid isPermaLink="false">WA3hgib36-k</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-07 - uk-wealth-inequality-policy-tradeoffs.mp3" length="2421792" type="audio/mpeg"/>
       <pubDate>Thu, 07 May 2026 17:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Geographic Inequality Persistence</title>
+      <description>When we polled people at the start of the Deaton Review, the form of inequality they considered most serious was inequality between places. That surprised us initially, but as the work developed it became clear that it's at the local level where multiple disadvantages in education, labor markets, and health cluster together and persist across generations. People experience the economy through their local areas, so large spatial inequalities create divergences in lived experience that challenge s...</description>
+      <guid isPermaLink="false">1uioTOBBzCU</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-08 - uk-geographic-inequality-persistence.mp3" length="2316096" type="audio/mpeg"/>
+      <pubDate>Fri, 08 May 2026 17:10:10 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -633,6 +640,15 @@ When an AI agent opens a browser, clicks buttons, fills forms, checks your calen
       <guid isPermaLink="false">85Q9htV2CBE</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-07 - durable-agent-workflows-beyond-model-lock-in.mp3" length="2315808" type="audio/mpeg"/>
       <pubDate>Thu, 07 May 2026 17:07:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - End of Trusted Human Code</title>
+      <description>The heart of this story is Mozilla's Mythos experiment and how it changes how we view human code. We've always assumed human code is the gold standard and AI code isn't great. But now in 2026, things are different. Some of the most respected engineers at the most respected institutions are suggesting AI code may become more trusted than human code.
+
+The most important thing about Mythos is not that AI found bugs in Firefox. It's that it makes the sentence 'a good human engineer wrote this' feel ...</description>
+      <guid isPermaLink="false">W79FW7iUkro</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-08 - end-of-trusted-human-code.mp3" length="2406960" type="audio/mpeg"/>
+      <pubDate>Fri, 08 May 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -1483,6 +1499,13 @@ The achievement relies on what IBM calls quantum-centric supercomputing —...</
       <guid isPermaLink="false">daily-quantum-20260507</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-07.mp3" length="638496" type="audio/mpeg"/>
       <pubDate>Thu, 07 May 2026 17:10:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Computing's Governance and Geopolitical Challenges</title>
+      <description>The most consequential quantum computing story right now isn't about the hardware — it's about governance. Bitcoin is facing what may be its first real existential test: how does a decentralized network with no central authority migrate hundreds of millions of addresses to a post-quantum cryptographic standard before an external deadline it doesn't control arrives? Earlier this month, StarkWare's Avihu Levy published Quantum Safe Bitcoin, a clever proposal that lets individual holders make quant...</description>
+      <guid isPermaLink="false">daily-quantum-20260508</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-08.mp3" length="2108448" type="audio/mpeg"/>
+      <pubDate>Fri, 08 May 2026 17:12:41 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
