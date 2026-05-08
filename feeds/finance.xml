@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 17:12:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 17:12:45 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -82,6 +82,13 @@ Wealth relative to income has more than doubled over the past 40 years, and much
       <guid isPermaLink="false">WA3hgib36-k</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-07 - uk-wealth-inequality-policy-tradeoffs.mp3" length="2421792" type="audio/mpeg"/>
       <pubDate>Thu, 07 May 2026 17:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Geographic Inequality Persistence</title>
+      <description>When we polled people at the start of the Deaton Review, the form of inequality they considered most serious was inequality between places. That surprised us initially, but as the work developed it became clear that it's at the local level where multiple disadvantages in education, labor markets, and health cluster together and persist across generations. People experience the economy through their local areas, so large spatial inequalities create divergences in lived experience that challenge s...</description>
+      <guid isPermaLink="false">1uioTOBBzCU</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-08 - uk-geographic-inequality-persistence.mp3" length="2316096" type="audio/mpeg"/>
+      <pubDate>Fri, 08 May 2026 17:10:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
