@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 07 May 2026 17:12:07 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 08 May 2026 17:12:44 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -560,6 +560,15 @@ When an AI agent opens a browser, clicks buttons, fills forms, checks your calen
       <guid isPermaLink="false">85Q9htV2CBE</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-07 - durable-agent-workflows-beyond-model-lock-in.mp3" length="2315808" type="audio/mpeg"/>
       <pubDate>Thu, 07 May 2026 17:07:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - End of Trusted Human Code</title>
+      <description>The heart of this story is Mozilla's Mythos experiment and how it changes how we view human code. We've always assumed human code is the gold standard and AI code isn't great. But now in 2026, things are different. Some of the most respected engineers at the most respected institutions are suggesting AI code may become more trusted than human code.
+
+The most important thing about Mythos is not that AI found bugs in Firefox. It's that it makes the sentence 'a good human engineer wrote this' feel ...</description>
+      <guid isPermaLink="false">W79FW7iUkro</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-08 - end-of-trusted-human-code.mp3" length="2406960" type="audio/mpeg"/>
+      <pubDate>Fri, 08 May 2026 17:07:28 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
