@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 May 2026 17:12:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 May 2026 17:09:19 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -467,6 +467,13 @@ The achievement relies on what IBM calls quantum-centric supercomputing —...</
       <guid isPermaLink="false">daily-quantum-20260508</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-08.mp3" length="2108448" type="audio/mpeg"/>
       <pubDate>Fri, 08 May 2026 17:12:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Photonics and Molecular Energy Breakthroughs</title>
+      <description>Today we have two developments at the intersection of quantum physics and photonics. First, a significant advance in single-photon source technology. A team led by Lennart Jehle at the University of Vienna, working with collaborators at the University of Stuttgart, has published in Nature Communications a study on the asymmetric two-photon response of incoherently driven quantum emitters. The core problem they address is that even ideal quantum emitters sometimes emit two photons instead of one ...</description>
+      <guid isPermaLink="false">daily-quantum-20260509</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-09.mp3" length="1542960" type="audio/mpeg"/>
+      <pubDate>Sat, 09 May 2026 17:08:41 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
