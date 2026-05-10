@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 17:09:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 17:16:28 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -417,6 +417,15 @@ First, the critical framing: this is not a deregulatory moment. The FCA has stri
       <pubDate>Sat, 09 May 2026 17:09:17 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - SMCR Phase 1 Reform: Process Not Substance</title>
+      <description>Today's briefing centres on the FCA's SMCR Phase 1 reforms, which are now confirmed through Policy Statements PS24/3 and PS25/1, with implementation staggered across 2025 and 2026. The critical message for compliance teams at wholesale banks and Global Banking &amp; Markets divisions is this: these reforms are process improvements, not governance relaxations. The FCA's enforcement posture on individual accountability has not softened.
+
+Let me walk through what actually changes. The most operationall...</description>
+      <guid isPermaLink="false">daily-compliance-20260510</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-10.mp3" length="2218464" type="audio/mpeg"/>
+      <pubDate>Sun, 10 May 2026 17:08:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -494,6 +503,13 @@ The Phase 1 reforms that took effect on the 24th of April represent the most sig
       <guid isPermaLink="false">weekly-compliance-2026-05-03</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-03.mp3" length="2708640" type="audio/mpeg"/>
       <pubDate>Sun, 03 May 2026 17:17:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, one theme dominated above all others: the evolving shape of individual accountability under the Senior Managers and Certification Regime. Two separate episodes addressed the FCA's Phase 1 reforms in considerable depth, and when read together they deliver a message that every compliance officer in wholesale banking needs to internalize. These reforms are real, they are live, and they are emphatically not a relaxation of the accountability framework. They are an administra...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-05-10</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-10.mp3" length="2719296" type="audio/mpeg"/>
+      <pubDate>Sun, 10 May 2026 17:13:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
