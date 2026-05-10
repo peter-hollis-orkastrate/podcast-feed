@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 17:09:19 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 17:16:28 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -648,6 +648,15 @@ The week opened with Apple's leadership transition, and ...</description>
       <guid isPermaLink="false">weekly-tech-2026-05-03</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-03.mp3" length="3969936" type="audio/mpeg"/>
       <pubDate>Sun, 03 May 2026 17:15:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech traced a single, sweeping transformation from multiple angles, and the thread connecting every episode was unmistakable: the relationship between humans, software, and work is being fundamentally renegotiated, and the question is no longer whether AI can do things but who controls the meaning, the trust, and the structure around what gets done.
+
+The week opened with arguably the biggest macro claim: that the entire internet economy is flipping from seller-controlled to buyer-co...</description>
+      <guid isPermaLink="false">weekly-tech-2026-05-10</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-10.mp3" length="3469824" type="audio/mpeg"/>
+      <pubDate>Sun, 10 May 2026 17:11:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
