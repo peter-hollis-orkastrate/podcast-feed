@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 09 May 2026 17:09:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 May 2026 17:16:28 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1066,6 +1066,15 @@ First, the critical framing: this is not a deregulatory moment. The FCA has stri
       <pubDate>Sat, 09 May 2026 17:09:17 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - SMCR Phase 1 Reform: Process Not Substance</title>
+      <description>Today's briefing centres on the FCA's SMCR Phase 1 reforms, which are now confirmed through Policy Statements PS24/3 and PS25/1, with implementation staggered across 2025 and 2026. The critical message for compliance teams at wholesale banks and Global Banking &amp; Markets divisions is this: these reforms are process improvements, not governance relaxations. The FCA's enforcement posture on individual accountability has not softened.
+
+Let me walk through what actually changes. The most operationall...</description>
+      <guid isPermaLink="false">daily-compliance-20260510</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-10.mp3" length="2218464" type="audio/mpeg"/>
+      <pubDate>Sun, 10 May 2026 17:08:46 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -1531,6 +1540,13 @@ The achievement relies on what IBM calls quantum-centric supercomputing —...</
       <pubDate>Sat, 09 May 2026 17:08:41 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Dual-Core Quantum Claims and Market Moves</title>
+      <description>Today's quantum briefing centers on a notable but controversial claim out of China. CAS Cold Atom Technology, a Wuhan-based firm affiliated with the Chinese Academy of Sciences, has unveiled what it calls the world's first dual-core quantum computer. The system, named Hanyuan-2, pairs two independent neutral atom arrays inside a single cabinet-sized machine, totaling 200 qubits built from 100 rubidium-85 and 100 rubidium-87 atoms. According to the company, the twin cores can either run in parall...</description>
+      <guid isPermaLink="false">daily-quantum-20260510</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-10.mp3" length="1528272" type="audio/mpeg"/>
+      <pubDate>Sun, 10 May 2026 17:06:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -1608,6 +1624,13 @@ The Phase 1 reforms that took effect on the 24th of April represent the most sig
       <guid isPermaLink="false">weekly-compliance-2026-05-03</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-03.mp3" length="2708640" type="audio/mpeg"/>
       <pubDate>Sun, 03 May 2026 17:17:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, one theme dominated above all others: the evolving shape of individual accountability under the Senior Managers and Certification Regime. Two separate episodes addressed the FCA's Phase 1 reforms in considerable depth, and when read together they deliver a message that every compliance officer in wholesale banking needs to internalize. These reforms are real, they are live, and they are emphatically not a relaxation of the accountability framework. They are an administra...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-05-10</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-10.mp3" length="2719296" type="audio/mpeg"/>
+      <pubDate>Sun, 10 May 2026 17:13:49 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
@@ -1689,6 +1712,13 @@ Let's start with the money, because that's where conviction becomes measurable. 
       <pubDate>Sun, 03 May 2026 17:20:18 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing, the overarching narrative is one of acceleration across every dimension — geopolitical competition, hardware milestones, commercial investment, and the growing urgency of preparing institutions and infrastructure for a quantum-capable world. What ties these threads together is a clear shift: the field is no longer debating whether quantum computing will matter, but rather who will get there first, who will be ready when it arrives, and what "there" even means when...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-05-10</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-05-10.mp3" length="2679264" type="audio/mpeg"/>
+      <pubDate>Sun, 10 May 2026 17:16:27 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -1757,6 +1787,15 @@ The week opened with Apple's leadership transition, and ...</description>
       <guid isPermaLink="false">weekly-tech-2026-05-03</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-03.mp3" length="3969936" type="audio/mpeg"/>
       <pubDate>Sun, 03 May 2026 17:15:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech traced a single, sweeping transformation from multiple angles, and the thread connecting every episode was unmistakable: the relationship between humans, software, and work is being fundamentally renegotiated, and the question is no longer whether AI can do things but who controls the meaning, the trust, and the structure around what gets done.
+
+The week opened with arguably the biggest macro claim: that the entire internet economy is flipping from seller-controlled to buyer-co...</description>
+      <guid isPermaLink="false">weekly-tech-2026-05-10</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-10.mp3" length="3469824" type="audio/mpeg"/>
+      <pubDate>Sun, 10 May 2026 17:11:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
