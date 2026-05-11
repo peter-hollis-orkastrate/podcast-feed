@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 17:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 17:15:12 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -424,6 +424,15 @@ Let me walk through what actually changes. The most operationall...</description
       <guid isPermaLink="false">daily-compliance-20260510</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-10.mp3" length="2218464" type="audio/mpeg"/>
       <pubDate>Sun, 10 May 2026 17:08:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Market Abuse Surveillance Gaps Widen</title>
+      <description>Today's briefing centres on a stark finding from eflow Global's survey of 300 senior finance executives across the UK, US, Europe, and APAC: while 63% of regulatory leaders feel confident keeping up with general regulatory change, nearly half identify market abuse regulations as a significant compliance challenge. For UK-based firms, this figure jumps to 65%, making it the most pressing jurisdiction-specific concern.
+
+The backdrop here is critical. Market abuse-related enforcement actions have i...</description>
+      <guid isPermaLink="false">daily-compliance-20260511</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-11.mp3" length="1687824" type="audio/mpeg"/>
+      <pubDate>Mon, 11 May 2026 17:15:09 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
