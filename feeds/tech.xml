@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 May 2026 17:16:28 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 11 May 2026 17:15:11 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -578,6 +578,22 @@ A prompt is what you use when you want to do something once. It's temporary, mom
       <guid isPermaLink="false">647pSnX5H_Y</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-09 - packaging-work-beyond-prompts.mp3" length="1843632" type="audio/mpeg"/>
       <pubDate>Sat, 09 May 2026 17:07:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Agents Break Enterprise Procurement</title>
+      <description>Twenty dollars and two hours. That's what it took an autonomous agent with no credentials and zero insider help to get full read and write access to Lily, the AI platform used daily by 70% of McKinsey's 40,000 consultants. Access to tens of millions of chat messages, tens of thousands of user accounts, every system prompt governing how the platform reasons—all writable. An attacker could have silently rewritten how the AI advises consultants who advise the largest firms in the world. The startup...</description>
+      <guid isPermaLink="false">EpJ0CjTJSag</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-10 - agents-break-enterprise-procurement.mp3" length="3306384" type="audio/mpeg"/>
+      <pubDate>Mon, 11 May 2026 17:10:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - LLM-as-Judge for Agent Control</title>
+      <description>I've told you stories about agents deleting production data, sending unauthorized emails, spending money they shouldn't have. These are real incidents. What we aren't talking about is the pattern that's emerged in the last couple of months that actually prevents this. Consider this a PSA.
+
+I'm not talking about jailbreaks or hallucinations. I'm talking about the agent doing what you trained it to do — but going past where it had permission. Inferring authorization from a thread that didn't grant...</description>
+      <guid isPermaLink="false">SX1myuPEDFg</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-11 - llm-as-judge-for-agent-control.mp3" length="2505456" type="audio/mpeg"/>
+      <pubDate>Mon, 11 May 2026 17:07:34 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
