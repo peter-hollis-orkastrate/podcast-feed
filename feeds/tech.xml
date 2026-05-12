@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 17:15:11 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 17:11:36 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -594,6 +594,15 @@ I'm not talking about jailbreaks or hallucinations. I'm talking about the agent 
       <guid isPermaLink="false">SX1myuPEDFg</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-11 - llm-as-judge-for-agent-control.mp3" length="2505456" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 17:07:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Agentic Commerce Responsibility Wars</title>
+      <description>Your agent is about to spend your money — your card, your company's, your customers'. Real money is going into agents' hands in 2026 without a human present. And when it moves to the wrong place, somebody's going to be left holding the bag. Right now, six protocol camps are fighting over who that somebody is.
+
+There are six layers to an agentic purchase: who decides where the agent shops, what counts as proof it was allowed to act, who owns the credential when payment fires, which rails carry th...</description>
+      <guid isPermaLink="false">j5_wcDifNko</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-12 - agentic-commerce-responsibility-wars.mp3" length="2789712" type="audio/mpeg"/>
+      <pubDate>Tue, 12 May 2026 17:08:54 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
