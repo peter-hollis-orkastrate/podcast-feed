@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 11 May 2026 17:15:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 12 May 2026 17:11:36 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -433,6 +433,13 @@ The backdrop here is critical. Market abuse-related enforcement actions have i..
       <guid isPermaLink="false">daily-compliance-20260511</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-11.mp3" length="1687824" type="audio/mpeg"/>
       <pubDate>Mon, 11 May 2026 17:15:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Remuneration Reform and SMCR Obligations</title>
+      <description>The most significant development today concerns the PRA and FCA jointly publishing Policy Statement PS25/15 on remuneration reform, with changes set to take effect on 15 October 2025. This follows the consultation paper CP23/24 which closed in March this year, so we're now looking at confirmed final rules. These changes apply to banks, building societies, and PRA-designated investment firms, which means this lands squarely on the desks of wholesale markets and Global Banking &amp; Markets compliance...</description>
+      <guid isPermaLink="false">daily-compliance-20260512</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-12.mp3" length="1328400" type="audio/mpeg"/>
+      <pubDate>Tue, 12 May 2026 17:11:33 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
