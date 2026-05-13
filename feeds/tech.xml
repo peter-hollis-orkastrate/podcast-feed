@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 17:11:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 17:12:50 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -603,6 +603,13 @@ There are six layers to an agentic purchase: who decides where the agent shops, 
       <guid isPermaLink="false">j5_wcDifNko</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-12 - agentic-commerce-responsibility-wars.mp3" length="2789712" type="audio/mpeg"/>
       <pubDate>Tue, 12 May 2026 17:08:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Agent Memory Beyond Vector Search</title>
+      <description>Pinecone is a vector database company, and last month they shipped a product that basically says vector search is not enough on its own. That's a strange thing for a vector database company to say. And they're not alone. SAP spent over a billion euros on AI infrastructure — none of it for chatbots or language models. Google made knowledge architecture the headline at Cloud Next. Cloudflare shipped a memory product for agents. Microsoft keeps pushing graphs for AI. Every serious infrastructure ve...</description>
+      <guid isPermaLink="false">lqiwQiDglGk</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-13 - agent-memory-beyond-vector-search.mp3" length="3270816" type="audio/mpeg"/>
+      <pubDate>Wed, 13 May 2026 17:08:29 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
