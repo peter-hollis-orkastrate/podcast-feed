@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 17:11:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 17:12:51 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -440,6 +440,15 @@ The backdrop here is critical. Market abuse-related enforcement actions have i..
       <guid isPermaLink="false">daily-compliance-20260512</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-12.mp3" length="1328400" type="audio/mpeg"/>
       <pubDate>Tue, 12 May 2026 17:11:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SMCR Reforms and FCA Enforcement Updates</title>
+      <description>Let's start with enforcement. The FCA has fined Dinosaur Merchant Bank Limited three hundred and thirty-eight thousand pounds. Details on the specific breach remain limited at this stage, but the action is a clear reminder that the FCA's enforcement apparatus continues to reach smaller firms in the merchant banking space. Compliance teams across wholesale markets should take note—no firm is too small to attract regulatory scrutiny.
+
+Now to the most operationally significant development this peri...</description>
+      <guid isPermaLink="false">daily-compliance-20260513</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-13.mp3" length="2738880" type="audio/mpeg"/>
+      <pubDate>Wed, 13 May 2026 17:12:47 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
