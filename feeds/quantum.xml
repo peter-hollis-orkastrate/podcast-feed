@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 12 May 2026 17:11:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 13 May 2026 17:12:50 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -499,6 +499,13 @@ CEO Yuping highlighted meaningful progress on strategic initiatives, most notabl
       <guid isPermaLink="false">daily-quantum-20260512</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-12.mp3" length="1508256" type="audio/mpeg"/>
       <pubDate>Tue, 12 May 2026 17:10:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Jiuzhang 4.0 Shatters Photonic Quantum Records</title>
+      <description>The headline story today comes from the photonic quantum computing world. A team led by Jian-Wei Pan and Chao-Yang Lu at the University of Science and Technology of China has published in Nature their latest machine: Jiuzhang 4.0. This programmable photonic quantum processor represents a massive leap in Gaussian boson sampling, incorporating 1,024 high-efficiency squeezed states into a hybrid spatial-temporal encoded circuit spanning 8,176 modes. The numbers are striking — 92% source efficiency,...</description>
+      <guid isPermaLink="false">daily-quantum-20260513</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-13.mp3" length="1494288" type="audio/mpeg"/>
+      <pubDate>Wed, 13 May 2026 17:10:07 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
