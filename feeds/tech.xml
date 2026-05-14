@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 13 May 2026 17:12:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 May 2026 17:13:19 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -610,6 +610,15 @@ There are six layers to an agentic purchase: who decides where the agent shops, 
       <guid isPermaLink="false">lqiwQiDglGk</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-13 - agent-memory-beyond-vector-search.mp3" length="3270816" type="audio/mpeg"/>
       <pubDate>Wed, 13 May 2026 17:08:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Implementation Layer Wars in Enterprise AI</title>
+      <description>Let me tell you why I'm excited about the implementation challenge for agents. People think this is an agent story. It's actually three stories converging: finance changing what it believes about the future of software, hyperscalers discovering what doesn't work, and companies figuring out where the disproportionate value in AI actually lives. All these forces are converging on a private equity-driven services deployment model.
+
+Private equity has long had this saying — SaaS companies all taste ...</description>
+      <guid isPermaLink="false">jwtpMSRAPAQ</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-14 - implementation-layer-wars-in-enterprise-ai.mp3" length="3137472" type="audio/mpeg"/>
+      <pubDate>Thu, 14 May 2026 17:08:21 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
