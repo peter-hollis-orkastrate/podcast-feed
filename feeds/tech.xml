@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 17:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 17:11:16 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -619,6 +619,13 @@ Private equity has long had this saying — SaaS companies all taste ...</descri
       <guid isPermaLink="false">jwtpMSRAPAQ</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-14 - implementation-layer-wars-in-enterprise-ai.mp3" length="3137472" type="audio/mpeg"/>
       <pubDate>Thu, 14 May 2026 17:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Agentic Pricing Replaces SaaS Seats</title>
+      <description>Salesforce just reported AgentForce hit $800 million run rate in ARR, up 169% year-over-year, with 2.4 billion agentic work units processed. Not tokens — work units. They're counting the actions agents complete inside the platform and billing accordingly. Same week, Microsoft Agent 365 went generally available at $15 per user per month with a governance license that manages how agents act inside your Microsoft environment. If you're building agents that touch Salesforce or Microsoft systems, the...</description>
+      <guid isPermaLink="false">adNErrz2aA0</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-15 - agentic-pricing-replaces-saas-seats.mp3" length="2940624" type="audio/mpeg"/>
+      <pubDate>Fri, 15 May 2026 17:07:46 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
