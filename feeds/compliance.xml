@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 14 May 2026 17:13:19 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 15 May 2026 17:11:17 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -449,6 +449,15 @@ Now to the most operationally significant development this peri...</description>
       <guid isPermaLink="false">daily-compliance-20260513</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-13.mp3" length="2738880" type="audio/mpeg"/>
       <pubDate>Wed, 13 May 2026 17:12:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SMCR Reform and MAR Developments</title>
+      <description>Good morning. Today's compliance briefing touches on two developments worth keeping on your radar, though we should note that full detail on both was limited in the source material available.
+
+First, on the Senior Managers and Certification Regime — SMCR reform is anticipated in 2026, and Kingsley Napley has flagged this as a significant upcoming shift. While the granular details of the proposed changes weren't fully available in today's source, the signal is clear: compliance officers and senio...</description>
+      <guid isPermaLink="false">daily-compliance-20260515</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-15.mp3" length="961344" type="audio/mpeg"/>
+      <pubDate>Fri, 15 May 2026 17:11:13 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
