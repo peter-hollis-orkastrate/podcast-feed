@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 17:11:16 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 17:12:36 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -626,6 +626,13 @@ Private equity has long had this saying — SaaS companies all taste ...</descri
       <guid isPermaLink="false">adNErrz2aA0</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-15 - agentic-pricing-replaces-saas-seats.mp3" length="2940624" type="audio/mpeg"/>
       <pubDate>Fri, 15 May 2026 17:07:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - AI Agents Reshaping Real Work</title>
+      <description>A guy recovered five Bitcoin — about $400,000 — from a wallet he'd locked himself out of eleven years ago. Not with a better password cracker, but with Claude. He uploaded files from his old college hard drive, Claude sorted through a decade of forgotten folders, found an older wallet.dat file from before the password change, matched it with a mnemonic recovery phrase he still had, and the wallet opened. That's illustrative of where we are. The model launches keep happening, but the interesting ...</description>
+      <guid isPermaLink="false">dm3_Z-5PYnQ</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-16 - ai-agents-reshaping-real-work.mp3" length="2606688" type="audio/mpeg"/>
+      <pubDate>Sat, 16 May 2026 17:07:59 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
