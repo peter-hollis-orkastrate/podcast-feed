@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 17:11:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 17:12:36 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -717,6 +717,13 @@ Private equity has long had this saying — SaaS companies all taste ...</descri
       <pubDate>Fri, 15 May 2026 17:07:46 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - AI Agents Reshaping Real Work</title>
+      <description>A guy recovered five Bitcoin — about $400,000 — from a wallet he'd locked himself out of eleven years ago. Not with a better password cracker, but with Claude. He uploaded files from his old college hard drive, Claude sorted through a decade of forgotten folders, found an older wallet.dat file from before the password change, matched it with a mnemonic recovery phrase he still had, and the wallet opened. That's illustrative of where we are. The model launches keep happening, but the interesting ...</description>
+      <guid isPermaLink="false">dm3_Z-5PYnQ</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-16 - ai-agents-reshaping-real-work.mp3" length="2606688" type="audio/mpeg"/>
+      <pubDate>Sat, 16 May 2026 17:07:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1164,6 +1171,15 @@ First, on the Senior Managers and Certification Regime — SMCR reform is antici
       <guid isPermaLink="false">daily-compliance-20260515</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-15.mp3" length="961344" type="audio/mpeg"/>
       <pubDate>Fri, 15 May 2026 17:11:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SMCR Phase 1 Reform Implementation Guide</title>
+      <description>Here's your SMCR compliance briefing for today. The big story is the FCA, PRA, and Treasury's joint publication of the SMCR Phase 1 reforms under PS26/6, and what they mean practically for firms preparing to implement changes across three staggered effective dates this year.
+
+Let's start with what matters most. The FCA's stated goal is increasing the efficiency and effectiveness of SMCR while reducing unnecessary regulatory burden. Phase 1 is characterised as a procedural clean-up — helpful but ...</description>
+      <guid isPermaLink="false">daily-compliance-20260516</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-16.mp3" length="2820528" type="audio/mpeg"/>
+      <pubDate>Sat, 16 May 2026 17:12:34 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1679,6 +1695,13 @@ Let's start with a breakthrough from the University of Pennsylvania. Physicists 
       <guid isPermaLink="false">daily-quantum-20260515</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-15.mp3" length="2220192" type="audio/mpeg"/>
       <pubDate>Fri, 15 May 2026 17:09:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Commerce, Risk, and Crypto Threats</title>
+      <description>Let's start with the commercial quantum hardware space. Rigetti Computing posted Q1 2026 results that look impressive on the surface — revenue tripled year-over-year to four point four million dollars from one point four seven million, and the company booked net income of thirty-three million. But that net income figure is misleading — it was largely boosted by fair-value gains on warrant liabilities, not actual operating performance. Despite the revenue surge and several notable milestones, the...</description>
+      <guid isPermaLink="false">daily-quantum-20260516</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-16.mp3" length="1940400" type="audio/mpeg"/>
+      <pubDate>Sat, 16 May 2026 17:09:55 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
