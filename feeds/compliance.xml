@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 15 May 2026 17:11:17 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 May 2026 17:12:36 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -458,6 +458,15 @@ First, on the Senior Managers and Certification Regime — SMCR reform is antici
       <guid isPermaLink="false">daily-compliance-20260515</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-15.mp3" length="961344" type="audio/mpeg"/>
       <pubDate>Fri, 15 May 2026 17:11:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SMCR Phase 1 Reform Implementation Guide</title>
+      <description>Here's your SMCR compliance briefing for today. The big story is the FCA, PRA, and Treasury's joint publication of the SMCR Phase 1 reforms under PS26/6, and what they mean practically for firms preparing to implement changes across three staggered effective dates this year.
+
+Let's start with what matters most. The FCA's stated goal is increasing the efficiency and effectiveness of SMCR while reducing unnecessary regulatory burden. Phase 1 is characterised as a procedural clean-up — helpful but ...</description>
+      <guid isPermaLink="false">daily-compliance-20260516</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-16.mp3" length="2820528" type="audio/mpeg"/>
+      <pubDate>Sat, 16 May 2026 17:12:34 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
