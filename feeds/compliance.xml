@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 17:12:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 17:20:57 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -469,6 +469,15 @@ Let's start with what matters most. The FCA's stated goal is increasing the effi
       <pubDate>Sat, 16 May 2026 17:12:34 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - MAR Compliance Obligations and Enforcement</title>
+      <description>Good morning. Today's briefing focuses on the UK Market Abuse Regulation framework and its practical compliance implications, which remain central to every wholesale markets and Global Banking &amp; Markets operation.
+
+Let's start with what matters most: enforcement exposure. UK MAR, which was on-shored from EU legislation on 31 December 2020 via the European Union Withdrawal Act, gives the FCA sweeping investigative and enforcement powers. The penalties for breach are severe and deliberately design...</description>
+      <guid isPermaLink="false">daily-compliance-20260517</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-17.mp3" length="2107728" type="audio/mpeg"/>
+      <pubDate>Sun, 17 May 2026 17:09:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -553,6 +562,13 @@ The Phase 1 reforms that took effect on the 24th of April represent the most sig
       <guid isPermaLink="false">weekly-compliance-2026-05-10</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-10.mp3" length="2719296" type="audio/mpeg"/>
       <pubDate>Sun, 10 May 2026 17:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, one theme towers above everything else: the Senior Managers and Certification Regime is undergoing its most significant reform since inception, and the message from regulators is unmistakable — the process is getting simpler, but the accountability is not getting softer. Across virtually every episode this week, SMCR reform appeared in some form, making it the dominant thread running through the entire digest. Alongside it, market abuse surveillance emerged as a second m...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-05-17</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-17.mp3" length="3910608" type="audio/mpeg"/>
+      <pubDate>Sun, 17 May 2026 17:17:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
