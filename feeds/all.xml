@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 16 May 2026 17:12:36 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 May 2026 17:20:57 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1182,6 +1182,15 @@ Let's start with what matters most. The FCA's stated goal is increasing the effi
       <pubDate>Sat, 16 May 2026 17:12:34 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - MAR Compliance Obligations and Enforcement</title>
+      <description>Good morning. Today's briefing focuses on the UK Market Abuse Regulation framework and its practical compliance implications, which remain central to every wholesale markets and Global Banking &amp; Markets operation.
+
+Let's start with what matters most: enforcement exposure. UK MAR, which was on-shored from EU legislation on 31 December 2020 via the European Union Withdrawal Act, gives the FCA sweeping investigative and enforcement powers. The penalties for breach are severe and deliberately design...</description>
+      <guid isPermaLink="false">daily-compliance-20260517</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-17.mp3" length="2107728" type="audio/mpeg"/>
+      <pubDate>Sun, 17 May 2026 17:09:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -1704,6 +1713,13 @@ Let's start with a breakthrough from the University of Pennsylvania. Physicists 
       <pubDate>Sat, 16 May 2026 17:09:55 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Q-Day Looms, Quantum Markets Volatile</title>
+      <description>The biggest story in quantum today sits at the intersection of progress and peril. Let's start with cybersecurity, because the timeline just got a lot tighter. Google recently warned that quantum computers could break some commonly used encryption as early as 2029 — a dramatic acceleration from what many experts had previously forecasted. This date, sometimes called Q-Day, is the moment a quantum machine gains enough power and stability to crack the encryption underpinning financial transactions...</description>
+      <guid isPermaLink="false">daily-quantum-20260517</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-17.mp3" length="2029248" type="audio/mpeg"/>
+      <pubDate>Sun, 17 May 2026 17:07:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -1788,6 +1804,13 @@ The Phase 1 reforms that took effect on the 24th of April represent the most sig
       <guid isPermaLink="false">weekly-compliance-2026-05-10</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-10.mp3" length="2719296" type="audio/mpeg"/>
       <pubDate>Sun, 10 May 2026 17:13:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, one theme towers above everything else: the Senior Managers and Certification Regime is undergoing its most significant reform since inception, and the message from regulators is unmistakable — the process is getting simpler, but the accountability is not getting softer. Across virtually every episode this week, SMCR reform appeared in some form, making it the dominant thread running through the entire digest. Alongside it, market abuse surveillance emerged as a second m...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-05-17</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-17.mp3" length="3910608" type="audio/mpeg"/>
+      <pubDate>Sun, 17 May 2026 17:17:16 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
@@ -1876,6 +1899,15 @@ Let's start with the money, because that's where conviction becomes measurable. 
       <pubDate>Sun, 10 May 2026 17:16:27 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing has been one of those weeks where the sheer breadth of activity makes it clear the field is no longer in its infancy — it's entering an adolescence marked by growing pains, genuine milestones, and increasingly urgent real-world consequences.
+
+The overarching theme tying everything together is the tension between acceleration and readiness. The technology is moving faster than almost anyone predicted, but the world — commercially, financially, and especially from a ...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-05-17</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-05-17.mp3" length="4211856" type="audio/mpeg"/>
+      <pubDate>Sun, 17 May 2026 17:20:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -1953,6 +1985,13 @@ The week opened with arguably the biggest macro claim: that the entire internet 
       <guid isPermaLink="false">weekly-tech-2026-05-10</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-10.mp3" length="3469824" type="audio/mpeg"/>
       <pubDate>Sun, 10 May 2026 17:11:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech delivered a remarkably cohesive story, even though the individual episodes ranged from security breaches to pricing models to Bitcoin recovery. The thread running through all of it is this: the age of the AI agent has arrived in earnest, and almost none of the infrastructure around it — procurement, security, memory, payments, pricing, governance — was built for what agents actually do. Every major player in enterprise technology is now scrambling to catch up, and the resulting...</description>
+      <guid isPermaLink="false">weekly-tech-2026-05-17</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-17.mp3" length="4407696" type="audio/mpeg"/>
+      <pubDate>Sun, 17 May 2026 17:13:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
