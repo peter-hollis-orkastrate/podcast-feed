@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 17 May 2026 17:20:57 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2026 17:15:06 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -633,6 +633,24 @@ Private equity has long had this saying — SaaS companies all taste ...</descri
       <guid isPermaLink="false">dm3_Z-5PYnQ</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-16 - ai-agents-reshaping-real-work.mp3" length="2606688" type="audio/mpeg"/>
       <pubDate>Sat, 16 May 2026 17:07:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Workflow-First AI Investment Logic</title>
+      <description>Gartner says more than 40% of agentic AI projects will get killed by 2027 — cost, unclear business value, inadequate risk controls. I've seen all of these firsthand. But the issue is not the agentic tech. The issue is how people are making investment decisions.
+
+Here's the first thing going wrong. AI investment is not an AI question. It's a question about the shape of your work. The model question is downstream of that. The vendor question is downstream of that. What sits at the root is how the ...</description>
+      <guid isPermaLink="false">LIkYVsxMpS8</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-17 - workflow-first-ai-investment-logic.mp3" length="2899152" type="audio/mpeg"/>
+      <pubDate>Mon, 18 May 2026 17:10:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Marketing in the Interpretation Economy</title>
+      <description>The internet economy is fundamentally changing, and we're not paying enough attention. For 25 years, everything has been built on attention — get eyeballs, get clicks, sell ads, push people through the funnel. That era is ending. We're moving into what I call the interpretation economy, where the entire web is filtered through what an AI thinks about you.
+
+Someone is going to ask about you — not your company, you individually — whether they should trust you. And they won't ask you. They'll ask a...</description>
+      <guid isPermaLink="false">725QE_LNXT4</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-18 - marketing-in-the-interpretation-economy.mp3" length="2261520" type="audio/mpeg"/>
+      <pubDate>Mon, 18 May 2026 17:07:22 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
