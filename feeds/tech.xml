@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 May 2026 17:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 May 2026 17:13:07 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -658,6 +658,15 @@ Someone is going to ask about you — not your company, you individually — whe
       <guid isPermaLink="false">zP6TnEiueEc</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-19 - agent-protocol-stack-explained.mp3" length="2512944" type="audio/mpeg"/>
       <pubDate>Tue, 19 May 2026 17:07:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Infrastructure Layer Controls AI Agents</title>
+      <description>The companies that get to decide whether your agent actually ships are probably not the ones you're thinking of. Not OpenAI, not Anthropic. I'm talking about Cloudflare, Stripe, Auth0, Okta, Snowflake, Datadog. None of these companies build models. None are on most teams' AI stack roadmaps. But all of them are going to decide whether your AI agent gets deployed in production.
+
+The model is one piece of the agent economy. The infrastructure companies — the ones that determine where the agent runs...</description>
+      <guid isPermaLink="false">woGB2vr5wTg</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-20 - infrastructure-layer-controls-ai-agents.mp3" length="2968848" type="audio/mpeg"/>
+      <pubDate>Wed, 20 May 2026 17:08:41 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
