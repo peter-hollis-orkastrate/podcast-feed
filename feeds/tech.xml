@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 17:13:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:17:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -667,6 +667,15 @@ The model is one piece of the agent economy. The infrastructure companies — th
       <guid isPermaLink="false">woGB2vr5wTg</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-20 - infrastructure-layer-controls-ai-agents.mp3" length="2968848" type="audio/mpeg"/>
       <pubDate>Wed, 20 May 2026 17:08:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Prompting AI as Senior Partner</title>
+      <description>Prompt engineering is dead as a differentiator. It's table stakes now. You need it, but you don't get credit for it. What matters in 2026, especially after Opus 4.7 and OpenAI 5.5, is what comes on top of prompt engineering. And most people haven't made this transition.
+
+The labs will tell you to just ask AI for what you want. That's only true if people know what they want. And the more complex the agentic workflow, the harder it is to articulate that. These agents are a hundred times more power...</description>
+      <guid isPermaLink="false">ogTLWGBc3cE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-21 - prompting-ai-as-senior-partner.mp3" length="2196144" type="audio/mpeg"/>
+      <pubDate>Thu, 21 May 2026 17:07:59 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
