@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 17:13:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:17:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -561,6 +561,13 @@ The biggest theme is commercialization. BTQ Technologies provided its Q1 2026 up
       <guid isPermaLink="false">daily-quantum-20260520</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-20.mp3" length="2042208" type="audio/mpeg"/>
       <pubDate>Wed, 20 May 2026 17:11:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - CHIPS Act Fuels Quantum R&amp;D Push</title>
+      <description>Today in quantum computing, the big headline is a fresh round of federal research awards from the CHIPS Research and Development Office, specifically aimed at advancing quantum computing technology. The recipients include IBM and GlobalFoundries, both members of the Semiconductor Industry Association. SIA President John Neuffer praised the Commerce Department's move, calling it a meaningful step toward promoting U.S. strength in transformative future technologies. He urged the Administration to ...</description>
+      <guid isPermaLink="false">daily-quantum-20260521</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-21.mp3" length="856944" type="audio/mpeg"/>
+      <pubDate>Thu, 21 May 2026 17:15:03 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
