@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 17:13:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:17:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -98,6 +98,15 @@ Let's start with what councils actually do. People think bins...</description>
       <guid isPermaLink="false">kLVQfJ8TNxw</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-14 - local-governments-invisible-financial-crisis.mp3" length="3114576" type="audio/mpeg"/>
       <pubDate>Thu, 14 May 2026 17:11:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Electricity's Structural Cost Crisis</title>
+      <description>The UK gets about 70 to 75% of its energy from oil and gas, roughly 35% each. Electricity is only about 20% of the energy mix, and nearly half of that still comes from gas. So fossil fuels are absolutely central to our economy and will be for the next 10, 20, 30, even 40 years.
+
+Now here's a paradox. We took just 4% of our gas from Russia, and we take very little oil from the Gulf, yet the gas price shocks from both the Russia-Ukraine war and the Middle East conflict hit us harder than almost an...</description>
+      <guid isPermaLink="false">QMMsEmknmco</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-21 - uk-electricitys-structural-cost-crisis.mp3" length="2558880" type="audio/mpeg"/>
+      <pubDate>Thu, 21 May 2026 17:13:14 +0000</pubDate>
     </item>
   </channel>
 </rss>
