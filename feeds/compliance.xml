@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 17:13:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:17:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -503,6 +503,13 @@ Let me start with what matters most for enforcement and individual accountabilit
       <guid isPermaLink="false">daily-compliance-20260520</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-20.mp3" length="2118528" type="audio/mpeg"/>
       <pubDate>Wed, 20 May 2026 17:13:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SM&amp;CR Phase 1 Reforms Announced</title>
+      <description>Good morning. Today's briefing centres on the most consequential development for SM&amp;CR compliance in some time. On the 22nd of April 2026, the FCA and PRA jointly announced the first phase of reforms to the Senior Managers and Certification Regime. We're now seeing the first detailed analyses from major law firms, with both Fox Williams and Sidley publishing guidance in the last couple of days — Fox Williams on the 18th of May and Sidley on the 19th — which tells you the market is taking this se...</description>
+      <guid isPermaLink="false">daily-compliance-20260521</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-21.mp3" length="1402560" type="audio/mpeg"/>
+      <pubDate>Thu, 21 May 2026 17:17:26 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
