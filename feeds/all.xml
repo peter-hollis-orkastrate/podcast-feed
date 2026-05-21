@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 20 May 2026 17:13:07 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 21 May 2026 17:17:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -98,6 +98,15 @@ Let's start with what councils actually do. People think bins...</description>
       <guid isPermaLink="false">kLVQfJ8TNxw</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-14 - local-governments-invisible-financial-crisis.mp3" length="3114576" type="audio/mpeg"/>
       <pubDate>Thu, 14 May 2026 17:11:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Electricity's Structural Cost Crisis</title>
+      <description>The UK gets about 70 to 75% of its energy from oil and gas, roughly 35% each. Electricity is only about 20% of the energy mix, and nearly half of that still comes from gas. So fossil fuels are absolutely central to our economy and will be for the next 10, 20, 30, even 40 years.
+
+Now here's a paradox. We took just 4% of our gas from Russia, and we take very little oil from the Gulf, yet the gas price shocks from both the Russia-Ukraine war and the Middle East conflict hit us harder than almost an...</description>
+      <guid isPermaLink="false">QMMsEmknmco</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-21 - uk-electricitys-structural-cost-crisis.mp3" length="2558880" type="audio/mpeg"/>
+      <pubDate>Thu, 21 May 2026 17:13:14 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -758,6 +767,15 @@ The model is one piece of the agent economy. The infrastructure companies — th
       <pubDate>Wed, 20 May 2026 17:08:41 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Prompting AI as Senior Partner</title>
+      <description>Prompt engineering is dead as a differentiator. It's table stakes now. You need it, but you don't get credit for it. What matters in 2026, especially after Opus 4.7 and OpenAI 5.5, is what comes on top of prompt engineering. And most people haven't made this transition.
+
+The labs will tell you to just ask AI for what you want. That's only true if people know what they want. And the more complex the agentic workflow, the harder it is to articulate that. These agents are a hundred times more power...</description>
+      <guid isPermaLink="false">ogTLWGBc3cE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-21 - prompting-ai-as-senior-partner.mp3" length="2196144" type="audio/mpeg"/>
+      <pubDate>Thu, 21 May 2026 17:07:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1250,6 +1268,13 @@ Let me start with what matters most for enforcement and individual accountabilit
       <guid isPermaLink="false">daily-compliance-20260520</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-20.mp3" length="2118528" type="audio/mpeg"/>
       <pubDate>Wed, 20 May 2026 17:13:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SM&amp;CR Phase 1 Reforms Announced</title>
+      <description>Good morning. Today's briefing centres on the most consequential development for SM&amp;CR compliance in some time. On the 22nd of April 2026, the FCA and PRA jointly announced the first phase of reforms to the Senior Managers and Certification Regime. We're now seeing the first detailed analyses from major law firms, with both Fox Williams and Sidley publishing guidance in the last couple of days — Fox Williams on the 18th of May and Sidley on the 19th — which tells you the market is taking this se...</description>
+      <guid isPermaLink="false">daily-compliance-20260521</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-21.mp3" length="1402560" type="audio/mpeg"/>
+      <pubDate>Thu, 21 May 2026 17:17:26 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1802,6 +1827,13 @@ The biggest theme is commercialization. BTQ Technologies provided its Q1 2026 up
       <guid isPermaLink="false">daily-quantum-20260520</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-20.mp3" length="2042208" type="audio/mpeg"/>
       <pubDate>Wed, 20 May 2026 17:11:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - CHIPS Act Fuels Quantum R&amp;D Push</title>
+      <description>Today in quantum computing, the big headline is a fresh round of federal research awards from the CHIPS Research and Development Office, specifically aimed at advancing quantum computing technology. The recipients include IBM and GlobalFoundries, both members of the Semiconductor Industry Association. SIA President John Neuffer praised the Commerce Department's move, calling it a meaningful step toward promoting U.S. strength in transformative future technologies. He urged the Administration to ...</description>
+      <guid isPermaLink="false">daily-quantum-20260521</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-21.mp3" length="856944" type="audio/mpeg"/>
+      <pubDate>Thu, 21 May 2026 17:15:03 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
