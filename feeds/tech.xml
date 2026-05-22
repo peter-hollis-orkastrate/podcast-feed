@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 17:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 17:12:42 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -676,6 +676,15 @@ The labs will tell you to just ask AI for what you want. That's only true if peo
       <guid isPermaLink="false">ogTLWGBc3cE</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-21 - prompting-ai-as-senior-partner.mp3" length="2196144" type="audio/mpeg"/>
       <pubDate>Thu, 21 May 2026 17:07:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Data Rooms Prevent AI Hallucinations</title>
+      <description>A few weeks ago, Sullivan and Cromwell — one of the most prestigious law firms on the planet — had to write an apology letter to a federal bankruptcy judge. Their emergency motion had been filed with dozens of fabricated or misquoted citations. AI hallucinations. The other side's lawyers caught them. Sullivan and Cromwell's own review did not. The partner who signed the apology is the co-head of the firm's restructuring practice.
+
+This is the failure mode I want you to think about. I'm not talki...</description>
+      <guid isPermaLink="false">ltbzgzZZmgI</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-22 - data-rooms-prevent-ai-hallucinations.mp3" length="2497536" type="audio/mpeg"/>
+      <pubDate>Fri, 22 May 2026 17:08:10 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
