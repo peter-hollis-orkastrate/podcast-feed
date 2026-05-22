@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 21 May 2026 17:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 22 May 2026 17:12:42 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -510,6 +510,15 @@ Let me start with what matters most for enforcement and individual accountabilit
       <guid isPermaLink="false">daily-compliance-20260521</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-21.mp3" length="1402560" type="audio/mpeg"/>
       <pubDate>Thu, 21 May 2026 17:17:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Regulatory Structure and Data Enforcement Trends</title>
+      <description>Good morning. Today's briefing covers two areas relevant to compliance teams: a reminder of the UK's regulatory architecture and its implications for supervised firms, and the rapidly escalating GDPR enforcement landscape that affects data handling across wholesale markets operations.
+
+Starting with the more immediately actionable topic: GDPR enforcement has reached a new intensity. European regulators issued €1.2 billion in penalties in 2025 alone, and breach notifications surged 22% year-over-...</description>
+      <guid isPermaLink="false">daily-compliance-20260522</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-22.mp3" length="2889216" type="audio/mpeg"/>
+      <pubDate>Fri, 22 May 2026 17:12:39 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
