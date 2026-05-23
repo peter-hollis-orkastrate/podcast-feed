@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 22 May 2026 17:12:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 23 May 2026 17:08:04 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -519,6 +519,13 @@ Starting with the more immediately actionable topic: GDPR enforcement has reache
       <guid isPermaLink="false">daily-compliance-20260522</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-22.mp3" length="2889216" type="audio/mpeg"/>
       <pubDate>Fri, 22 May 2026 17:12:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - No Relevant Compliance Updates Today</title>
+      <description>This is your daily compliance briefing. Unfortunately, today's source materials did not contain any substantive content relevant to UK investment bank compliance teams. The feeds tagged under UK Market Abuse Regulation and SMCR Compliance Updates returned only a retail investment platform advertisement and unrelated video content — neither of which contained any regulatory developments, enforcement actions, surveillance guidance, or Senior Managers and Certification Regime updates. There are no ...</description>
+      <guid isPermaLink="false">daily-compliance-20260523</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-23.mp3" length="620784" type="audio/mpeg"/>
+      <pubDate>Sat, 23 May 2026 17:08:01 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
