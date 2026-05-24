@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 17:08:03 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 17:24:42 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -694,6 +694,13 @@ This is the failure mode I want you to think about. I'm not talki...</descriptio
       <pubDate>Sat, 23 May 2026 17:07:05 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - AI Supply Chain Changes Everything</title>
+      <description>On Microsoft's Q3 earnings call, Satya Nadella told investors the company will spend $190 billion on capex this calendar year and still expects to be capacity constrained through year end. The most valuable software company on the planet cannot get enough capacity to meet its own demand. And when he says capacity constrained, he doesn't mean Microsoft ran out of GPUs. The supply problem is a layer below — it's whether you can manufacture enough chips packaged with the memory they need for modern...</description>
+      <guid isPermaLink="false">Poyi6X7rOwY</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-24 - ai-supply-chain-changes-everything.mp3" length="2713824" type="audio/mpeg"/>
+      <pubDate>Sun, 24 May 2026 17:07:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -778,6 +785,13 @@ The week opened with arguably the biggest macro claim: that the entire internet 
       <guid isPermaLink="false">weekly-tech-2026-05-17</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-17.mp3" length="4407696" type="audio/mpeg"/>
       <pubDate>Sun, 17 May 2026 17:13:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week's tech coverage painted a remarkably cohesive picture of what it means to build, deploy, and invest in AI systems in mid-2026 — and the overarching message is that the hard problems have migrated away from the models themselves and into everything surrounding them. The model is no longer the main character. The workflow is. The infrastructure is. The supply chain is. The data room is. The harness around the agent is. Across seven episodes, this point was made from almost every conceiva...</description>
+      <guid isPermaLink="false">weekly-tech-2026-05-24</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-24.mp3" length="4364784" type="audio/mpeg"/>
+      <pubDate>Sun, 24 May 2026 17:16:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
