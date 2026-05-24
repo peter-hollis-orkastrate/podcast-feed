@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 23 May 2026 17:08:04 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 24 May 2026 17:24:42 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -792,6 +792,13 @@ This is the failure mode I want you to think about. I'm not talki...</descriptio
       <pubDate>Sat, 23 May 2026 17:07:05 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - AI Supply Chain Changes Everything</title>
+      <description>On Microsoft's Q3 earnings call, Satya Nadella told investors the company will spend $190 billion on capex this calendar year and still expects to be capacity constrained through year end. The most valuable software company on the planet cannot get enough capacity to meet its own demand. And when he says capacity constrained, he doesn't mean Microsoft ran out of GPUs. The supply problem is a layer below — it's whether you can manufacture enough chips packaged with the memory they need for modern...</description>
+      <guid isPermaLink="false">Poyi6X7rOwY</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-24 - ai-supply-chain-changes-everything.mp3" length="2713824" type="audio/mpeg"/>
+      <pubDate>Sun, 24 May 2026 17:07:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1307,6 +1314,15 @@ Starting with the more immediately actionable topic: GDPR enforcement has reache
       <guid isPermaLink="false">daily-compliance-20260523</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-23.mp3" length="620784" type="audio/mpeg"/>
       <pubDate>Sat, 23 May 2026 17:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - PRA Prudential Framework Recalibration Roadmap</title>
+      <description>Good morning. Today's briefing is dominated by a significant speech from PRA Executive Director David Bailey, delivered on 28 April, laying out the most comprehensive roadmap we've seen for reforming the UK banking prudential framework. This matters enormously for wholesale markets and Global Banking &amp; Markets divisions, so let's unpack what's most relevant.
+
+The headline number is this: the Financial Policy Committee has reduced its benchmark for Tier 1 capital requirements from 14% to 13% of r...</description>
+      <guid isPermaLink="false">daily-compliance-20260524</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-24.mp3" length="3049200" type="audio/mpeg"/>
+      <pubDate>Sun, 24 May 2026 17:12:26 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1877,6 +1893,13 @@ IBM is the clear headline winner, receiving one billion dollars to build what it
       <pubDate>Fri, 22 May 2026 17:10:05 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Batteries, Bitcoin Security, and D-Wave's Surge</title>
+      <description>The biggest quantum news today spans energy storage, commercial computing, and cryptocurrency security. Let's start with a genuine breakthrough: researchers have built the first working quantum battery prototype, and it completed a full charge-store-discharge cycle — making the leap from pure theory to physical reality. Published in Light: Science and Applications, the study describes a battery charged by laser in just femtoseconds — that's a millionth of a billionth of a second. The prototype h...</description>
+      <guid isPermaLink="false">daily-quantum-20260524</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-24.mp3" length="1969200" type="audio/mpeg"/>
+      <pubDate>Sun, 24 May 2026 17:09:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -1968,6 +1991,13 @@ The Phase 1 reforms that took effect on the 24th of April represent the most sig
       <guid isPermaLink="false">weekly-compliance-2026-05-17</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-17.mp3" length="3910608" type="audio/mpeg"/>
       <pubDate>Sun, 17 May 2026 17:17:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance has been remarkably dense, and what emerges when you step back and look across all the briefings is a single, unifying narrative: the UK regulatory landscape is being fundamentally recalibrated, not relaxed. Every major development this week, from legislative announcements to prudential roadmaps to enforcement actions, carries the same underlying message — less prescriptive process, more substantive accountability, and regulators who are actively testing whether firms can...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-05-24</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-24.mp3" length="3424464" type="audio/mpeg"/>
+      <pubDate>Sun, 24 May 2026 17:20:21 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
@@ -2065,6 +2095,15 @@ The overarching theme tying everything together is the tension between accelerat
       <pubDate>Sun, 17 May 2026 17:20:56 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing delivered a remarkably cohesive narrative, one where the field's transition from laboratory curiosity to strategic national priority became unmistakably clear across every dimension — funding, hardware, security, talent, and even energy storage.
+
+The dominant story was undoubtedly the massive federal commitment. The Trump administration announced over two billion dollars in CHIPS Act funding directed at nine quantum computing companies, with the government taking m...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-05-24</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-05-24.mp3" length="3892464" type="audio/mpeg"/>
+      <pubDate>Sun, 24 May 2026 17:24:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -2149,6 +2188,13 @@ The week opened with arguably the biggest macro claim: that the entire internet 
       <guid isPermaLink="false">weekly-tech-2026-05-17</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-17.mp3" length="4407696" type="audio/mpeg"/>
       <pubDate>Sun, 17 May 2026 17:13:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week's tech coverage painted a remarkably cohesive picture of what it means to build, deploy, and invest in AI systems in mid-2026 — and the overarching message is that the hard problems have migrated away from the models themselves and into everything surrounding them. The model is no longer the main character. The workflow is. The infrastructure is. The supply chain is. The data room is. The harness around the agent is. Across seven episodes, this point was made from almost every conceiva...</description>
+      <guid isPermaLink="false">weekly-tech-2026-05-24</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-24.mp3" length="4364784" type="audio/mpeg"/>
+      <pubDate>Sun, 24 May 2026 17:16:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
