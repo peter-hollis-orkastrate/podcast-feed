@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 17:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 17:12:47 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -584,6 +584,13 @@ IBM is the clear headline winner, receiving one billion dollars to build what it
       <guid isPermaLink="false">daily-quantum-20260524</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-24.mp3" length="1969200" type="audio/mpeg"/>
       <pubDate>Sun, 24 May 2026 17:09:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Investment, Security, and Phase Transitions</title>
+      <description>The biggest quantum news today centers on the U.S. government committing over two billion dollars to the quantum computing sector under the CHIPS and Science Act. The largest allocation — one billion dollars in government incentives matched by another billion from IBM — goes to Anderon, a new IBM spinoff positioned to become the country's first pure-play quantum foundry. GlobalFoundries signed a letter of intent for 375 million dollars to expand domestic quantum manufacturing through its new Qua...</description>
+      <guid isPermaLink="false">daily-quantum-20260525</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-25.mp3" length="2585952" type="audio/mpeg"/>
+      <pubDate>Mon, 25 May 2026 17:11:32 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
