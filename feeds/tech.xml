@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 17:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 17:12:47 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -699,6 +699,15 @@ This is the failure mode I want you to think about. I'm not talki...</descriptio
       <guid isPermaLink="false">Poyi6X7rOwY</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-24 - ai-supply-chain-changes-everything.mp3" length="2713824" type="audio/mpeg"/>
       <pubDate>Sun, 24 May 2026 17:07:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Platform Teams Under Agentic Pressure</title>
+      <description>My name is Emma. I joined OpenAI in 2023 to lead the data platform infrastructure engineering group. We handle everything underneath — big data, streaming, ML infra, feature stores, training data pipelines, eval data. Every team in the company sits on top of us, from product to research to finance to HR.
+
+In the last six months, things have really accelerated. A year ago it wasn't that different from traditional software engineering. Now with Codex and rapidly improving models, we're seeing radi...</description>
+      <guid isPermaLink="false">z3pbrFKVyQE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-25 - platform-teams-under-agentic-pressure.mp3" length="2915424" type="audio/mpeg"/>
+      <pubDate>Mon, 25 May 2026 17:08:36 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
