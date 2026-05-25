@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 24 May 2026 17:24:42 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2026 17:12:47 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -535,6 +535,15 @@ The headline number is this: the Financial Policy Committee has reduced its benc
       <guid isPermaLink="false">daily-compliance-20260524</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-24.mp3" length="3049200" type="audio/mpeg"/>
       <pubDate>Sun, 24 May 2026 17:12:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Operational Incident Reporting Rules</title>
+      <description>Good morning. Today's key development for compliance teams concerns the FCA's forthcoming operational incident reporting rules and what they mean for enhanced SMCR firms. TLT has published guidance flagging the essential points firms need to be across.
+
+The FCA is formalising expectations around how firms report material operational incidents — and this has direct implications for senior manager accountability. Under the SMCR framework, the individuals holding prescribed responsibilities for ope...</description>
+      <guid isPermaLink="false">daily-compliance-20260525</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-25.mp3" length="1331856" type="audio/mpeg"/>
+      <pubDate>Mon, 25 May 2026 17:12:45 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
