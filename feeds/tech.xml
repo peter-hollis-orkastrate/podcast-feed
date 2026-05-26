@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 17:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 17:11:31 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -708,6 +708,13 @@ In the last six months, things have really accelerated. A year ago it wasn't tha
       <guid isPermaLink="false">z3pbrFKVyQE</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-25 - platform-teams-under-agentic-pressure.mp3" length="2915424" type="audio/mpeg"/>
       <pubDate>Mon, 25 May 2026 17:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Public AI Work Closes Apprenticeship Gap</title>
+      <description>Shopify's internal coding agent is named River. In one 30-day stretch this spring, nearly 6,000 employees used it across more than 4,400 Slack channels. In a single week, River opened 1,800 pull requests in Shopify's main monorepo. About one in every eight merged pull requests at Shopify now comes from River. Those are big numbers, and they're what most people grabbed onto when Toby Lütke posted about this. But underneath those numbers is a design choice that is actually the story: River doesn't...</description>
+      <guid isPermaLink="false">NRBQmwlILjk</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-26 - public-ai-work-closes-apprenticeship-gap.mp3" length="2973600" type="audio/mpeg"/>
+      <pubDate>Tue, 26 May 2026 17:08:10 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
