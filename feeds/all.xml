@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 May 2026 17:12:47 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 26 May 2026 17:11:31 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -808,6 +808,13 @@ In the last six months, things have really accelerated. A year ago it wasn't tha
       <pubDate>Mon, 25 May 2026 17:08:36 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Public AI Work Closes Apprenticeship Gap</title>
+      <description>Shopify's internal coding agent is named River. In one 30-day stretch this spring, nearly 6,000 employees used it across more than 4,400 Slack channels. In a single week, River opened 1,800 pull requests in Shopify's main monorepo. About one in every eight merged pull requests at Shopify now comes from River. Those are big numbers, and they're what most people grabbed onto when Toby Lütke posted about this. But underneath those numbers is a design choice that is actually the story: River doesn't...</description>
+      <guid isPermaLink="false">NRBQmwlILjk</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-26 - public-ai-work-closes-apprenticeship-gap.mp3" length="2973600" type="audio/mpeg"/>
+      <pubDate>Tue, 26 May 2026 17:08:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1341,6 +1348,15 @@ The FCA is formalising expectations around how firms report material operational
       <guid isPermaLink="false">daily-compliance-20260525</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-25.mp3" length="1331856" type="audio/mpeg"/>
       <pubDate>Mon, 25 May 2026 17:12:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Operational Incident Reporting Rules</title>
+      <description>Today's key development for compliance teams concerns the FCA's new operational incident reporting rules and what they mean in practice for firms operating under the core or limited SMCR framework. TLT has flagged the essentials, and the message is clear: firms need to act now rather than wait for implementation deadlines to approach.
+
+The FCA is broadening the scope of mandatory incident reporting, which means a wider range of operational disruptions — including technology failures and third-pa...</description>
+      <guid isPermaLink="false">daily-compliance-20260526</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-26.mp3" length="1187280" type="audio/mpeg"/>
+      <pubDate>Tue, 26 May 2026 17:11:29 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1923,6 +1939,13 @@ IBM is the clear headline winner, receiving one billion dollars to build what it
       <guid isPermaLink="false">daily-quantum-20260525</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-25.mp3" length="2585952" type="audio/mpeg"/>
       <pubDate>Mon, 25 May 2026 17:11:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantinuum IPO and Quantum AI Leadership</title>
+      <description>The biggest story in quantum computing right now is Quantinuum's planned IPO. The company is seeking to raise $1.05 billion at a valuation near $12 billion, which would instantly make it the second-largest publicly traded pure-play quantum computing company behind IonQ, currently valued around $23 billion, and just ahead of D-Wave Quantum at $10 billion. What sets Quantinuum apart from most quantum startups is its pedigree: it was formed in 2021 through the merger of Honeywell Quantum Solutions ...</description>
+      <guid isPermaLink="false">daily-quantum-20260526</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-26.mp3" length="1870992" type="audio/mpeg"/>
+      <pubDate>Tue, 26 May 2026 17:10:25 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
