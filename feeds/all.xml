@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 26 May 2026 17:11:31 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 May 2026 17:10:13 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -813,6 +813,15 @@ In the last six months, things have really accelerated. A year ago it wasn't tha
       <guid isPermaLink="false">NRBQmwlILjk</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-26 - public-ai-work-closes-apprenticeship-gap.mp3" length="2973600" type="audio/mpeg"/>
       <pubDate>Tue, 26 May 2026 17:08:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Building Trustworthy AI Office Documents</title>
+      <description>Every tool can now build you a PowerPoint or Excel file in minutes. Claude builds them, ChatGPT analyzes them, Copilot for Office hit general availability in April. What none of them give you is a way to know the file is correct, accurate, and complete.
+
+I lived this last quarter. I opened an Excel financial model — assumption inputs at the top, revenue projections, valuation outputs rolling up cleanly. A written guide said it had been validated. Then I opened the revenue growth row and the form...</description>
+      <guid isPermaLink="false">MFzxIT88zfg</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-27 - building-trustworthy-ai-office-documents.mp3" length="2662848" type="audio/mpeg"/>
+      <pubDate>Wed, 27 May 2026 17:07:58 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -1946,6 +1955,13 @@ IBM is the clear headline winner, receiving one billion dollars to build what it
       <guid isPermaLink="false">daily-quantum-20260526</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-26.mp3" length="1870992" type="audio/mpeg"/>
       <pubDate>Tue, 26 May 2026 17:10:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Milestones: Awards, Labs, and Lunar Ambitions</title>
+      <description>Today's quantum news spans from foundational honors to frontier infrastructure and some rather ambitious lunar plans. Let's start with the most significant recognition in computing: Charles H. Bennett, a physicist at IBM Research, and Gilles Brassard, a computer scientist at the University of Montreal, have been awarded the A.M. Turing Award — often called the Nobel Prize of computing — for their essential role in establishing the foundations of quantum information science. The award, worth one ...</description>
+      <guid isPermaLink="false">daily-quantum-20260527</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-27.mp3" length="2004624" type="audio/mpeg"/>
+      <pubDate>Wed, 27 May 2026 17:10:10 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
