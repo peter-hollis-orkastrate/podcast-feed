@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 17:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 17:16:16 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -724,6 +724,15 @@ I lived this last quarter. I opened an Excel financial model — assumption inpu
       <guid isPermaLink="false">MFzxIT88zfg</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-27 - building-trustworthy-ai-office-documents.mp3" length="2662848" type="audio/mpeg"/>
       <pubDate>Wed, 27 May 2026 17:07:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Agent Analytics as Product Rudder</title>
+      <description>We've never had the chance to observe the impact of our decisions in real time the way we can with agents. And instead of seeing this as an opportunity, we treat it as a burden — more evals, more telemetry, more observability. But this isn't a technical problem. It's the chance to shape and steer agents running at full speed, if we get good signal back.
+
+When I tell people I've had the equivalent of 55,000 developer years of code production in the last year — about 10 billion tokens — maybe you ...</description>
+      <guid isPermaLink="false">n0nC1kmztSk</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-28 - agent-analytics-as-product-rudder.mp3" length="2834496" type="audio/mpeg"/>
+      <pubDate>Thu, 28 May 2026 17:07:51 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
