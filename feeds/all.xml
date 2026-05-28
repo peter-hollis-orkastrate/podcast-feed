@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 17:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 17:16:16 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -107,6 +107,15 @@ Now here's a paradox. We took just 4% of our gas from Russia, and we take very l
       <guid isPermaLink="false">QMMsEmknmco</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-21 - uk-electricitys-structural-cost-crisis.mp3" length="2558880" type="audio/mpeg"/>
       <pubDate>Thu, 21 May 2026 17:13:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Fiscal Reality Check</title>
+      <description>Everything the government does — pensions, benefits, health, education, policing — depends on the public finances being in reasonable order. The money doesn't grow on trees. So let's walk through where we actually stand.
+
+This year the government is set to spend about £1.4 trillion and receive about £1.2 trillion, leaving a deficit of roughly £130 billion. Of that, about £80 billion is for investment and about £50 billion is for day-to-day spending — paying teacher salaries, benefits, normal ope...</description>
+      <guid isPermaLink="false">D6OU1uvN-Uo</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-28 - uk-fiscal-reality-check.mp3" length="3236688" type="audio/mpeg"/>
+      <pubDate>Thu, 28 May 2026 17:11:53 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -824,6 +833,15 @@ I lived this last quarter. I opened an Excel financial model — assumption inpu
       <pubDate>Wed, 27 May 2026 17:07:58 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Agent Analytics as Product Rudder</title>
+      <description>We've never had the chance to observe the impact of our decisions in real time the way we can with agents. And instead of seeing this as an opportunity, we treat it as a burden — more evals, more telemetry, more observability. But this isn't a technical problem. It's the chance to shape and steer agents running at full speed, if we get good signal back.
+
+When I tell people I've had the equivalent of 55,000 developer years of code production in the last year — about 10 billion tokens — maybe you ...</description>
+      <guid isPermaLink="false">n0nC1kmztSk</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-28 - agent-analytics-as-product-rudder.mp3" length="2834496" type="audio/mpeg"/>
+      <pubDate>Thu, 28 May 2026 17:07:51 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1366,6 +1384,15 @@ The FCA is broadening the scope of mandatory incident reporting, which means a w
       <guid isPermaLink="false">daily-compliance-20260526</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-26.mp3" length="1187280" type="audio/mpeg"/>
       <pubDate>Tue, 26 May 2026 17:11:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Algorithmic Collusion and Market Abuse Gaps</title>
+      <description>Today's briefing centres on a significant new academic paper published in ERA Forum by Ian Gauci of GTG Legal, examining what the author calls 'unilateral parallel algorithmic behaviour' in EU financial services law — and its direct relevance to how UK regulators and compliance teams should be thinking about algorithmic trading risk.
+
+The core argument is this: competing firms deploying independent pricing algorithms can converge on supra-competitive prices without any agreement, communication, ...</description>
+      <guid isPermaLink="false">daily-compliance-20260528</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-28.mp3" length="2711376" type="audio/mpeg"/>
+      <pubDate>Thu, 28 May 2026 17:16:14 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1962,6 +1989,13 @@ IBM is the clear headline winner, receiving one billion dollars to build what it
       <guid isPermaLink="false">daily-quantum-20260527</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-27.mp3" length="2004624" type="audio/mpeg"/>
       <pubDate>Wed, 27 May 2026 17:10:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Computing Investment Race Intensifies</title>
+      <description>The race among U.S. states to become the center of quantum computing is heating up significantly. Massachusetts Governor Maura Healey announced up to $25 million in state matching funds for MIT's new Quantum Systems Laboratory, which breaks ground this summer and will serve as the home of the MIT Quantum Initiative. According to MIT President Sally Kornbluth, QSL is expected to be the first facility in the world to bring quantum computers together with quantum sensors and peripherals through phy...</description>
+      <guid isPermaLink="false">daily-quantum-20260528</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-28.mp3" length="2092464" type="audio/mpeg"/>
+      <pubDate>Thu, 28 May 2026 17:14:00 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
