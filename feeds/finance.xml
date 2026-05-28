@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 17:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 17:16:16 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -107,6 +107,15 @@ Now here's a paradox. We took just 4% of our gas from Russia, and we take very l
       <guid isPermaLink="false">QMMsEmknmco</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-21 - uk-electricitys-structural-cost-crisis.mp3" length="2558880" type="audio/mpeg"/>
       <pubDate>Thu, 21 May 2026 17:13:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Fiscal Reality Check</title>
+      <description>Everything the government does — pensions, benefits, health, education, policing — depends on the public finances being in reasonable order. The money doesn't grow on trees. So let's walk through where we actually stand.
+
+This year the government is set to spend about £1.4 trillion and receive about £1.2 trillion, leaving a deficit of roughly £130 billion. Of that, about £80 billion is for investment and about £50 billion is for day-to-day spending — paying teacher salaries, benefits, normal ope...</description>
+      <guid isPermaLink="false">D6OU1uvN-Uo</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-28 - uk-fiscal-reality-check.mp3" length="3236688" type="audio/mpeg"/>
+      <pubDate>Thu, 28 May 2026 17:11:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
