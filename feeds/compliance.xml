@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 27 May 2026 17:10:13 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 28 May 2026 17:16:16 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -553,6 +553,15 @@ The FCA is broadening the scope of mandatory incident reporting, which means a w
       <guid isPermaLink="false">daily-compliance-20260526</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-26.mp3" length="1187280" type="audio/mpeg"/>
       <pubDate>Tue, 26 May 2026 17:11:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Algorithmic Collusion and Market Abuse Gaps</title>
+      <description>Today's briefing centres on a significant new academic paper published in ERA Forum by Ian Gauci of GTG Legal, examining what the author calls 'unilateral parallel algorithmic behaviour' in EU financial services law — and its direct relevance to how UK regulators and compliance teams should be thinking about algorithmic trading risk.
+
+The core argument is this: competing firms deploying independent pricing algorithms can converge on supra-competitive prices without any agreement, communication, ...</description>
+      <guid isPermaLink="false">daily-compliance-20260528</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-28.mp3" length="2711376" type="audio/mpeg"/>
+      <pubDate>Thu, 28 May 2026 17:16:14 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
