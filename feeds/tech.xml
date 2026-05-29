@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 17:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 17:11:25 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -733,6 +733,15 @@ When I tell people I've had the equivalent of 55,000 developer years of code pro
       <guid isPermaLink="false">n0nC1kmztSk</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-28 - agent-analytics-as-product-rudder.mp3" length="2834496" type="audio/mpeg"/>
       <pubDate>Thu, 28 May 2026 17:07:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Post-Prototype Product Management</title>
+      <description>So much of what I see in PM training right now is around prototyping — PMs using Lovable, Claude Code, Codex. That's fine, but it's table stakes. It is not the heart of where product is going. AI makes generation easier, which moves the bottleneck, and we need to be very intentional about where we apply scarce human judgment from here.
+
+Here's the real picture. Microsoft has built more than one million Power Platform assets internally — 18,000 agent environments, 170,000 Power Apps, 50,000 autom...</description>
+      <guid isPermaLink="false">b6J387xJvHg</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-29 - post-prototype-product-management.mp3" length="2389824" type="audio/mpeg"/>
+      <pubDate>Fri, 29 May 2026 17:07:36 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
