@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 17:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 17:11:25 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -842,6 +842,15 @@ When I tell people I've had the equivalent of 55,000 developer years of code pro
       <pubDate>Thu, 28 May 2026 17:07:51 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Post-Prototype Product Management</title>
+      <description>So much of what I see in PM training right now is around prototyping — PMs using Lovable, Claude Code, Codex. That's fine, but it's table stakes. It is not the heart of where product is going. AI makes generation easier, which moves the bottleneck, and we need to be very intentional about where we apply scarce human judgment from here.
+
+Here's the real picture. Microsoft has built more than one million Power Platform assets internally — 18,000 agent environments, 170,000 Power Apps, 50,000 autom...</description>
+      <guid isPermaLink="false">b6J387xJvHg</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-29 - post-prototype-product-management.mp3" length="2389824" type="audio/mpeg"/>
+      <pubDate>Fri, 29 May 2026 17:07:36 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1393,6 +1402,13 @@ The core argument is this: competing firms deploying independent pricing algorit
       <guid isPermaLink="false">daily-compliance-20260528</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-28.mp3" length="2711376" type="audio/mpeg"/>
       <pubDate>Thu, 28 May 2026 17:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Regulatory Updates: UK and US Developments</title>
+      <description>Today's briefing is a lighter one, but there are a couple of cross-border regulatory developments worth flagging for compliance teams. Starting with the US side, on April 28th the SEC issued an order adjusting the dollar-amount thresholds for 'qualified client' status under Rule 205-3 of the Investment Advisers Act. These inflation-adjusted thresholds take effect in June 2026, so if your firm has US-facing operations or advisory arrangements involving performance fees, now is the time to review ...</description>
+      <guid isPermaLink="false">daily-compliance-20260529</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-29.mp3" length="1110240" type="audio/mpeg"/>
+      <pubDate>Fri, 29 May 2026 17:11:23 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -1996,6 +2012,13 @@ IBM is the clear headline winner, receiving one billion dollars to build what it
       <guid isPermaLink="false">daily-quantum-20260528</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-28.mp3" length="2092464" type="audio/mpeg"/>
       <pubDate>Thu, 28 May 2026 17:14:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Classical Chemistry, Quantum Threats, New Labs</title>
+      <description>The biggest story in quantum today is actually a classical computing triumph. Garnet Chan and five colleagues at Caltech have solved the ground-state energy of nitrogenase's active site — the iron-molybdenum cluster called FeMo-co — using entirely classical methods. This matters enormously because nitrogenase, the enzyme that converts atmospheric nitrogen into ammonia and essentially makes life on Earth possible, had been held up since a 2017 Microsoft paper as a compelling benchmark problem tha...</description>
+      <guid isPermaLink="false">daily-quantum-20260529</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-29.mp3" length="2474784" type="audio/mpeg"/>
+      <pubDate>Fri, 29 May 2026 17:10:18 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
