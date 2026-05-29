@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 May 2026 17:16:16 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 29 May 2026 17:11:25 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -562,6 +562,13 @@ The core argument is this: competing firms deploying independent pricing algorit
       <guid isPermaLink="false">daily-compliance-20260528</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-28.mp3" length="2711376" type="audio/mpeg"/>
       <pubDate>Thu, 28 May 2026 17:16:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Regulatory Updates: UK and US Developments</title>
+      <description>Today's briefing is a lighter one, but there are a couple of cross-border regulatory developments worth flagging for compliance teams. Starting with the US side, on April 28th the SEC issued an order adjusting the dollar-amount thresholds for 'qualified client' status under Rule 205-3 of the Investment Advisers Act. These inflation-adjusted thresholds take effect in June 2026, so if your firm has US-facing operations or advisory arrangements involving performance fees, now is the time to review ...</description>
+      <guid isPermaLink="false">daily-compliance-20260529</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-29.mp3" length="1110240" type="audio/mpeg"/>
+      <pubDate>Fri, 29 May 2026 17:11:23 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
