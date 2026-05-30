@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 17:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 17:09:37 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -742,6 +742,15 @@ Here's the real picture. Microsoft has built more than one million Power Platfor
       <guid isPermaLink="false">b6J387xJvHg</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-29 - post-prototype-product-management.mp3" length="2389824" type="audio/mpeg"/>
       <pubDate>Fri, 29 May 2026 17:07:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Assembling Context Windows Locally</title>
+      <description>People keep asking how I use AI, so I'm going to start sharing what's surprising or interesting each week. This week, the big thing is assembling context windows on your local file system with Codex — and I mean Codex specifically, not Claude Code or Claude Co-worker. I've tried this same workflow with both. It doesn't work.
+
+What I do now for serious work is tell Codex to look at my file system and find files using natural language. I don't name the file or reference a specific title — I descri...</description>
+      <guid isPermaLink="false">rqVzTX8w_w0</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-30 - assembling-context-windows-locally.mp3" length="1437120" type="audio/mpeg"/>
+      <pubDate>Sat, 30 May 2026 17:06:40 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
