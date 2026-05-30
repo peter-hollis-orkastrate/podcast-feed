@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 17:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 17:09:37 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -619,6 +619,13 @@ IBM is the clear headline winner, receiving one billion dollars to build what it
       <guid isPermaLink="false">daily-quantum-20260529</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-29.mp3" length="2474784" type="audio/mpeg"/>
       <pubDate>Fri, 29 May 2026 17:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Startups and Ultrafast Processing</title>
+      <description>Two developments today highlight efforts to push past the biggest barriers in both quantum and classical computing. First, in the quantum world, a Dutch startup called MagiQware has secured a half-million euro pre-seed investment led by LUMO Labs to tackle one of the most resource-intensive challenges in fault-tolerant quantum computing: magic state factories. These are essential building blocks for running useful quantum algorithms at scale, but they come with enormous overhead in terms of cost...</description>
+      <guid isPermaLink="false">daily-quantum-20260530</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-30.mp3" length="1393200" type="audio/mpeg"/>
+      <pubDate>Sat, 30 May 2026 17:08:31 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
