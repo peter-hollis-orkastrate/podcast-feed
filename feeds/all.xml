@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 May 2026 17:11:25 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 17:09:37 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -851,6 +851,15 @@ Here's the real picture. Microsoft has built more than one million Power Platfor
       <pubDate>Fri, 29 May 2026 17:07:36 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Assembling Context Windows Locally</title>
+      <description>People keep asking how I use AI, so I'm going to start sharing what's surprising or interesting each week. This week, the big thing is assembling context windows on your local file system with Codex — and I mean Codex specifically, not Claude Code or Claude Co-worker. I've tried this same workflow with both. It doesn't work.
+
+What I do now for serious work is tell Codex to look at my file system and find files using natural language. I don't name the file or reference a specific title — I descri...</description>
+      <guid isPermaLink="false">rqVzTX8w_w0</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-30 - assembling-context-windows-locally.mp3" length="1437120" type="audio/mpeg"/>
+      <pubDate>Sat, 30 May 2026 17:06:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1409,6 +1418,15 @@ The core argument is this: competing firms deploying independent pricing algorit
       <guid isPermaLink="false">daily-compliance-20260529</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-29.mp3" length="1110240" type="audio/mpeg"/>
       <pubDate>Fri, 29 May 2026 17:11:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Evidencing Reasonable Steps Under SMCR</title>
+      <description>Good morning. Today's briefing focuses on a critical and perennial theme under the Senior Managers and Certification Regime: how SMF holders can practically evidence that they have taken reasonable steps to prevent or detect regulatory breaches within their areas of responsibility.
+
+The key message from updated guidance published by Lee Werrell at Compliant Business Management is blunt but important — when the FCA comes knocking after a regulatory breach, saying 'I didn't know' will not protect ...</description>
+      <guid isPermaLink="false">daily-compliance-20260530</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-30.mp3" length="1160928" type="audio/mpeg"/>
+      <pubDate>Sat, 30 May 2026 17:09:35 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -2019,6 +2037,13 @@ IBM is the clear headline winner, receiving one billion dollars to build what it
       <guid isPermaLink="false">daily-quantum-20260529</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-29.mp3" length="2474784" type="audio/mpeg"/>
       <pubDate>Fri, 29 May 2026 17:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Startups and Ultrafast Processing</title>
+      <description>Two developments today highlight efforts to push past the biggest barriers in both quantum and classical computing. First, in the quantum world, a Dutch startup called MagiQware has secured a half-million euro pre-seed investment led by LUMO Labs to tackle one of the most resource-intensive challenges in fault-tolerant quantum computing: magic state factories. These are essential building blocks for running useful quantum algorithms at scale, but they come with enormous overhead in terms of cost...</description>
+      <guid isPermaLink="false">daily-quantum-20260530</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-30.mp3" length="1393200" type="audio/mpeg"/>
+      <pubDate>Sat, 30 May 2026 17:08:31 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
