@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 17:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 17:20:39 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -858,6 +858,15 @@ What I do now for serious work is tell Codex to look at my file system and find 
       <guid isPermaLink="false">rqVzTX8w_w0</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-30 - assembling-context-windows-locally.mp3" length="1437120" type="audio/mpeg"/>
       <pubDate>Sat, 30 May 2026 17:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Proving Judgment in the AI Age</title>
+      <description>Microsoft says 86% of us treat AI output as a starting point, not a final answer. Good — that's what we should be doing. They also say 58% of AI users are producing work they couldn't have produced a year ago, rising to over 80% among advanced users. The obvious story is that AI makes people more productive. That's true, but it's not the real problem. The deeper problem is AI makes more people *look* productive, and the old evidence no longer carries the same signal.
+
+A memo can be polished, a p...</description>
+      <guid isPermaLink="false">UsCgEuIAclE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-31 - proving-judgment-in-the-ai-age.mp3" length="2123712" type="audio/mpeg"/>
+      <pubDate>Sun, 31 May 2026 17:07:13 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -2046,6 +2055,15 @@ IBM is the clear headline winner, receiving one billion dollars to build what it
       <pubDate>Sat, 30 May 2026 17:08:31 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Threats, Investments, and Lab Breakthroughs</title>
+      <description>The quantum computing story has taken a sharp turn from theoretical future concern to urgent present-day planning, and today's developments span security, investment, and infrastructure.
+
+Let's start with the most consequential finding. Coin Metrics has published a State of the Network report warning that quantum computing is advancing faster than expected, compressing the timeline for breaking the cryptographic foundations securing Bitcoin and Ethereum. No quantum machine today can crack ellipt...</description>
+      <guid isPermaLink="false">daily-quantum-20260531</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-31.mp3" length="2234880" type="audio/mpeg"/>
+      <pubDate>Sun, 31 May 2026 17:09:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -2144,6 +2162,15 @@ The Phase 1 reforms that took effect on the 24th of April represent the most sig
       <guid isPermaLink="false">weekly-compliance-2026-05-24</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-24.mp3" length="3424464" type="audio/mpeg"/>
       <pubDate>Sun, 24 May 2026 17:20:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, one overarching theme dominates everything else: regulators on both sides of the Atlantic are simultaneously recalibrating their frameworks, and the message to firms is clear — engage now, don't wait for final rules.
+
+The most substantial development came from PRA Executive Director David Bailey's speech laying out what is genuinely the most comprehensive roadmap we've seen for reforming the UK banking prudential framework. The Financial Policy Committee has reduced its ...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-05-31</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-31.mp3" length="2542032" type="audio/mpeg"/>
+      <pubDate>Sun, 31 May 2026 17:16:18 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
@@ -2250,6 +2277,13 @@ The dominant story was undoubtedly the massive federal commitment. The Trump adm
       <pubDate>Sun, 24 May 2026 17:24:41 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing painted a remarkably vivid picture of a field that is simultaneously maturing, commercializing, and confronting some very uncomfortable realities. What emerged across the full sweep of episodes was a technology ecosystem in transition — moving from the realm of pure research into one where governments are writing billion-dollar checks, companies are preparing IPOs, and security experts are debating not whether quantum will break existing cryptography, but exactly w...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-05-31</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-05-31.mp3" length="4320288" type="audio/mpeg"/>
+      <pubDate>Sun, 31 May 2026 17:20:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -2341,6 +2375,15 @@ The week opened with arguably the biggest macro claim: that the entire internet 
       <guid isPermaLink="false">weekly-tech-2026-05-24</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-24.mp3" length="4364784" type="audio/mpeg"/>
       <pubDate>Sun, 24 May 2026 17:16:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week's episodes paint a remarkably cohesive picture of what happens when AI stops being a tool you use and starts becoming infrastructure you depend on. The overarching theme is a shift from abstraction to physicality, from generation to judgment, and from individual productivity to organizational learning. Every episode this week, in its own way, is asking the same fundamental question: now that AI can produce at scale, what exactly are humans responsible for?
+
+The week opens with a stark ...</description>
+      <guid isPermaLink="false">weekly-tech-2026-05-31</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-31.mp3" length="4390992" type="audio/mpeg"/>
+      <pubDate>Sun, 31 May 2026 17:13:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
