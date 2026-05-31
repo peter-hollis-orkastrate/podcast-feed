@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 30 May 2026 17:09:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 31 May 2026 17:20:39 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -753,6 +753,15 @@ What I do now for serious work is tell Codex to look at my file system and find 
       <pubDate>Sat, 30 May 2026 17:06:40 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Proving Judgment in the AI Age</title>
+      <description>Microsoft says 86% of us treat AI output as a starting point, not a final answer. Good — that's what we should be doing. They also say 58% of AI users are producing work they couldn't have produced a year ago, rising to over 80% among advanced users. The obvious story is that AI makes people more productive. That's true, but it's not the real problem. The deeper problem is AI makes more people *look* productive, and the old evidence no longer carries the same signal.
+
+A memo can be polished, a p...</description>
+      <guid isPermaLink="false">UsCgEuIAclE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-31 - proving-judgment-in-the-ai-age.mp3" length="2123712" type="audio/mpeg"/>
+      <pubDate>Sun, 31 May 2026 17:07:13 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -844,6 +853,15 @@ The week opened with arguably the biggest macro claim: that the entire internet 
       <guid isPermaLink="false">weekly-tech-2026-05-24</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-24.mp3" length="4364784" type="audio/mpeg"/>
       <pubDate>Sun, 24 May 2026 17:16:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week's episodes paint a remarkably cohesive picture of what happens when AI stops being a tool you use and starts becoming infrastructure you depend on. The overarching theme is a shift from abstraction to physicality, from generation to judgment, and from individual productivity to organizational learning. Every episode this week, in its own way, is asking the same fundamental question: now that AI can produce at scale, what exactly are humans responsible for?
+
+The week opens with a stark ...</description>
+      <guid isPermaLink="false">weekly-tech-2026-05-31</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-31.mp3" length="4390992" type="audio/mpeg"/>
+      <pubDate>Sun, 31 May 2026 17:13:56 +0000</pubDate>
     </item>
   </channel>
 </rss>
