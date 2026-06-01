@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 17:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:11:28 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1438,6 +1438,15 @@ The key message from updated guidance published by Lee Werrell at Compliant Busi
       <pubDate>Sat, 30 May 2026 17:09:35 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - SMCR Phase 1 Reforms Take Effect</title>
+      <description>Good morning. Today's compliance briefing focuses almost entirely on the SMCR Phase 1 reforms, which represent the most significant practical changes to individual accountability requirements that compliance teams in wholesale markets and Global Banking &amp; Markets divisions have had to implement in some time.
+
+The FCA's PS26/6 and the PRA's PS12/26 are now both live, with the majority of Phase 1 changes effective since 24 April 2026. Two further implementation dates follow — 10 July and 1 Septemb...</description>
+      <guid isPermaLink="false">daily-compliance-20260601</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-01.mp3" length="3309696" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Jun 2026 17:11:25 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -2062,6 +2071,13 @@ Let's start with the most consequential finding. Coin Metrics has published a St
       <guid isPermaLink="false">daily-quantum-20260531</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-05-31.mp3" length="2234880" type="audio/mpeg"/>
       <pubDate>Sun, 31 May 2026 17:09:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Hardware Scaling Takes Center Stage</title>
+      <description>The quantum computing industry is entering a decisive engineering phase, and today's developments make that abundantly clear. The biggest news comes from D-Wave, which announced its first gate-model roadmap at its inaugural Investor Day. The company is targeting 100 logical qubits capable of performing over one million operations by 2032, built on a superconducting dual-rail architecture. What makes this distinctive is D-Wave's approach to error correction. Their dual-rail qubits embed error det...</description>
+      <guid isPermaLink="false">daily-quantum-20260601</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-01.mp3" length="2455632" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Jun 2026 17:08:08 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
