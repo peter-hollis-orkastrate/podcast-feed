@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 31 May 2026 17:20:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jun 2026 17:11:28 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -578,6 +578,15 @@ The key message from updated guidance published by Lee Werrell at Compliant Busi
       <guid isPermaLink="false">daily-compliance-20260530</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-05-30.mp3" length="1160928" type="audio/mpeg"/>
       <pubDate>Sat, 30 May 2026 17:09:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SMCR Phase 1 Reforms Take Effect</title>
+      <description>Good morning. Today's compliance briefing focuses almost entirely on the SMCR Phase 1 reforms, which represent the most significant practical changes to individual accountability requirements that compliance teams in wholesale markets and Global Banking &amp; Markets divisions have had to implement in some time.
+
+The FCA's PS26/6 and the PRA's PS12/26 are now both live, with the majority of Phase 1 changes effective since 24 April 2026. Two further implementation dates follow — 10 July and 1 Septemb...</description>
+      <guid isPermaLink="false">daily-compliance-20260601</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-01.mp3" length="3309696" type="audio/mpeg"/>
+      <pubDate>Mon, 01 Jun 2026 17:11:25 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
