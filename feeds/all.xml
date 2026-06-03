@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 17:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 17:13:22 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -869,6 +869,15 @@ A memo can be polished, a p...</description>
       <pubDate>Sun, 31 May 2026 17:07:13 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Harnesses Matter More Than Models</title>
+      <description>Everyone is getting the Opus 4.8 story wrong. We're used to the 2025 playbook — new model drops, new high bar, talk about what it unlocks. We're in a different stage of the race now. 4.8 is by some measures the strongest model out there, but that no longer means it's the most useful model for you.
+
+First, let's get the elephant out of the room. 4.8 is not the big model drop everyone's waiting for from Anthropic. Everyone's waiting for Mythos. The real reason 4.8 dropped on May 28th is that Anthr...</description>
+      <guid isPermaLink="false">z73yuF14udI</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-03 - harnesses-matter-more-than-models.mp3" length="2375856" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Jun 2026 17:08:29 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1445,6 +1454,13 @@ The FCA's PS26/6 and the PRA's PS12/26 are now both live, with the majority of P
       <guid isPermaLink="false">daily-compliance-20260601</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-01.mp3" length="3309696" type="audio/mpeg"/>
       <pubDate>Mon, 01 Jun 2026 17:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Sector Priorities and AI Act Enforcement</title>
+      <description>Here's your compliance briefing for today. The most significant development for wholesale markets teams is the FCA's new approach to communicating regulatory expectations. The regulator has formally replaced its portfolio letters with nine annual Regulatory Priorities reports, each tailored to a specific sector. Critically for those of us in Global Banking and Markets, the Wholesale Markets report and the Wholesale Buy Side report were both published on 19 March 2026 and are now live. These are ...</description>
+      <guid isPermaLink="false">daily-compliance-20260603</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-03.mp3" length="1952064" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Jun 2026 17:13:19 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -2078,6 +2094,13 @@ Let's start with the most consequential finding. Coin Metrics has published a St
       <guid isPermaLink="false">daily-quantum-20260601</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-01.mp3" length="2455632" type="audio/mpeg"/>
       <pubDate>Mon, 01 Jun 2026 17:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Magic, Money, and Quantum Manufacturing</title>
+      <description>The quantum computing world is buzzing today with major developments on the industrial, financial, and theoretical fronts. Let's start with the biggest hardware commitment: IBM has announced a plan exceeding $10 billion over five years to build the world's first large-scale fault-tolerant quantum computer by 2029. Their near-term milestone is Quantum Starling, a system capable of executing 100 million quantum operations on 200 qubits with real-time error detection and correction. That's a signif...</description>
+      <guid isPermaLink="false">daily-quantum-20260603</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-03.mp3" length="2172528" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Jun 2026 17:11:08 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
