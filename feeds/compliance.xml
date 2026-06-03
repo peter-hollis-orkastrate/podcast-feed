@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 17:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 17:13:22 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -587,6 +587,13 @@ The FCA's PS26/6 and the PRA's PS12/26 are now both live, with the majority of P
       <guid isPermaLink="false">daily-compliance-20260601</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-01.mp3" length="3309696" type="audio/mpeg"/>
       <pubDate>Mon, 01 Jun 2026 17:11:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Sector Priorities and AI Act Enforcement</title>
+      <description>Here's your compliance briefing for today. The most significant development for wholesale markets teams is the FCA's new approach to communicating regulatory expectations. The regulator has formally replaced its portfolio letters with nine annual Regulatory Priorities reports, each tailored to a specific sector. Critically for those of us in Global Banking and Markets, the Wholesale Markets report and the Wholesale Buy Side report were both published on 19 March 2026 and are now live. These are ...</description>
+      <guid isPermaLink="false">daily-compliance-20260603</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-03.mp3" length="1952064" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Jun 2026 17:13:19 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
