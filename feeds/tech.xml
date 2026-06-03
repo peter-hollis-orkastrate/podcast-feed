@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 01 Jun 2026 17:11:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Jun 2026 17:13:21 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -760,6 +760,15 @@ A memo can be polished, a p...</description>
       <guid isPermaLink="false">UsCgEuIAclE</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-05-31 - proving-judgment-in-the-ai-age.mp3" length="2123712" type="audio/mpeg"/>
       <pubDate>Sun, 31 May 2026 17:07:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Harnesses Matter More Than Models</title>
+      <description>Everyone is getting the Opus 4.8 story wrong. We're used to the 2025 playbook — new model drops, new high bar, talk about what it unlocks. We're in a different stage of the race now. 4.8 is by some measures the strongest model out there, but that no longer means it's the most useful model for you.
+
+First, let's get the elephant out of the room. 4.8 is not the big model drop everyone's waiting for from Anthropic. Everyone's waiting for Mythos. The real reason 4.8 dropped on May 28th is that Anthr...</description>
+      <guid isPermaLink="false">z73yuF14udI</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-03 - harnesses-matter-more-than-models.mp3" length="2375856" type="audio/mpeg"/>
+      <pubDate>Wed, 03 Jun 2026 17:08:29 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
