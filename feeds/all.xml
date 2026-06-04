@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 03 Jun 2026 17:13:22 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 04 Jun 2026 17:10:39 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -116,6 +116,13 @@ This year the government is set to spend about £1.4 trillion and receive about 
       <guid isPermaLink="false">D6OU1uvN-Uo</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-05-28 - uk-fiscal-reality-check.mp3" length="3236688" type="audio/mpeg"/>
       <pubDate>Thu, 28 May 2026 17:11:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Inequality Beyond Tax Policy</title>
+      <description>The UK has mid-to-high income inequality by international standards — well below the US but above most rich countries — and that level has been remarkably stable for about 35 years. Wealth inequality, measured by the share held by the top 10 or top 1%, has also been flat since the 1980s. So far, nothing to see here. But what has changed dramatically is that total wealth has gone from about three times GDP in the 1960s to about seven times GDP, driven largely by a property boom from the mid-90s t...</description>
+      <guid isPermaLink="false">7kwnBz9fkVg</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-06-04 - uk-inequality-beyond-tax-policy.mp3" length="3067776" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Jun 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -2101,6 +2108,13 @@ Let's start with the most consequential finding. Coin Metrics has published a St
       <guid isPermaLink="false">daily-quantum-20260603</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-03.mp3" length="2172528" type="audio/mpeg"/>
       <pubDate>Wed, 03 Jun 2026 17:11:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantinuum's Landmark Quantum Computing IPO</title>
+      <description>The biggest story in quantum computing right now is Quantinuum's IPO. The company, spun out of Honeywell's quantum division and a UK startup about four years ago, began trading on the Nasdaq Thursday under the ticker QNT. It priced its upsized offering at $60 a share, raising $1.68 billion — one of the highest-profile tech listings of the year. This is notable because Quantinuum is the first quantum computing company to go through a traditional, fully regulated IPO process, unlike competitors th...</description>
+      <guid isPermaLink="false">daily-quantum-20260604</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-04.mp3" length="1981584" type="audio/mpeg"/>
+      <pubDate>Thu, 04 Jun 2026 17:10:36 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
