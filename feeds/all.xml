@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 04 Jun 2026 17:10:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jun 2026 17:08:42 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -883,6 +883,15 @@ First, let's get the elephant out of the room. 4.8 is not the big model drop eve
       <guid isPermaLink="false">z73yuF14udI</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-03 - harnesses-matter-more-than-models.mp3" length="2375856" type="audio/mpeg"/>
       <pubDate>Wed, 03 Jun 2026 17:08:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Token Dashboards as Intelligence Compasses</title>
+      <description>I built a token burn dashboard, and yes, I burned about 800 million tokens last Thursday. But the point isn't the number — it's what the dashboard reveals about how you use AI and where your imagination falls short.
+
+The core idea is simple: if you don't have a feedback loop showing how you deploy AI, you can't improve. Token burn is the best proxy we have because it's easy to measure and it's correlated with intelligence and successful outcomes. Study after study from the major labs shows that ...</description>
+      <guid isPermaLink="false">l8BloTSLK6M</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-05 - token-dashboards-as-intelligence-compasses.mp3" length="1874592" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Jun 2026 17:07:03 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -2115,6 +2124,13 @@ Let's start with the most consequential finding. Coin Metrics has published a St
       <guid isPermaLink="false">daily-quantum-20260604</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-04.mp3" length="1981584" type="audio/mpeg"/>
       <pubDate>Thu, 04 Jun 2026 17:10:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Texas Quantum Push and Post-Quantum Security</title>
+      <description>Today in quantum news, the big story is Texas making a deliberate push to position itself as a global hub for quantum innovation. Governor Greg Abbott has appointed Jeff Prevost, executive director of UT San Antonio's Open Cloud Institute, to the newly established Texas Quantum Initiative Advisory Committee. This five-member body brings together experts from academia, industry, and government to develop a strategic plan for growing the state's quantum economy — covering research, technology deve...</description>
+      <guid isPermaLink="false">daily-quantum-20260605</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-05.mp3" length="1249488" type="audio/mpeg"/>
+      <pubDate>Fri, 05 Jun 2026 17:08:40 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
