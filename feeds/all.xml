@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 17:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:09:20 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1479,6 +1479,13 @@ The FCA's PS26/6 and the PRA's PS12/26 are now both live, with the majority of P
       <pubDate>Wed, 03 Jun 2026 17:13:19 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - PRA May 2026 Regulatory Digest</title>
+      <description>Good morning. A brief but important note today: the PRA has published its May 2026 Regulatory Digest on the Bank of England website. Unfortunately, the full substantive content of the digest was not available in the material we received — only the page shell and cookie notice came through. That said, the fact that it has been published means compliance teams, particularly those supporting wholesale markets and Global Banking &amp; Markets divisions, need to go directly to the Bank of England site an...</description>
+      <guid isPermaLink="false">daily-compliance-20260606</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-06.mp3" length="879696" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Jun 2026 17:09:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -2131,6 +2138,13 @@ Let's start with the most consequential finding. Coin Metrics has published a St
       <guid isPermaLink="false">daily-quantum-20260605</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-05.mp3" length="1249488" type="audio/mpeg"/>
       <pubDate>Fri, 05 Jun 2026 17:08:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - IonQ Surges, Quantum Infrastructure Expands</title>
+      <description>The biggest quantum story today is the widening gap between IonQ and Rigetti Computing as investment propositions. Rigetti has grabbed retail attention after a 53.6% run in a month on excitement around its 108-qubit system, but the financials tell a different story. Full-year 2025 revenue actually declined 34% to just $7.09 million, and Q1 2026's apparent $33.1 million net income was almost entirely an accounting artifact from a $53.7 million swing in derivative warrant liabilities. The real ope...</description>
+      <guid isPermaLink="false">daily-quantum-20260606</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-06.mp3" length="1702512" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Jun 2026 17:07:36 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
