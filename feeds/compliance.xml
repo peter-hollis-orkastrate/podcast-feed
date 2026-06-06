@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Jun 2026 17:08:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 17:09:20 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -594,6 +594,13 @@ The FCA's PS26/6 and the PRA's PS12/26 are now both live, with the majority of P
       <guid isPermaLink="false">daily-compliance-20260603</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-03.mp3" length="1952064" type="audio/mpeg"/>
       <pubDate>Wed, 03 Jun 2026 17:13:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - PRA May 2026 Regulatory Digest</title>
+      <description>Good morning. A brief but important note today: the PRA has published its May 2026 Regulatory Digest on the Bank of England website. Unfortunately, the full substantive content of the digest was not available in the material we received — only the page shell and cookie notice came through. That said, the fact that it has been published means compliance teams, particularly those supporting wholesale markets and Global Banking &amp; Markets divisions, need to go directly to the Bank of England site an...</description>
+      <guid isPermaLink="false">daily-compliance-20260606</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-06.mp3" length="879696" type="audio/mpeg"/>
+      <pubDate>Sat, 06 Jun 2026 17:09:17 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
