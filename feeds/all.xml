@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 06 Jun 2026 17:09:20 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jun 2026 17:13:42 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -2147,6 +2147,13 @@ Let's start with the most consequential finding. Coin Metrics has published a St
       <pubDate>Sat, 06 Jun 2026 17:07:36 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Neutral-Atom Quantum Computing Gains Ground</title>
+      <description>The biggest quantum computing development this week is a milestone from Atom Computing, where Ben Bloom and his team demonstrated repeatable error correction on a neutral-atom quantum computer — a first that positions this technology as a genuine competitor to the superconducting circuits that Google and IBM have dominated for the past decade. The team successfully scaled their qubit groupings from 16 to 32 while maintaining — and actually improving — error rates, and they sustained error checki...</description>
+      <guid isPermaLink="false">daily-quantum-20260607</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-07.mp3" length="1333296" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Jun 2026 17:06:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -2254,6 +2261,15 @@ The most substantial development came from PRA Executive Director David Bailey's
       <guid isPermaLink="false">weekly-compliance-2026-05-31</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-05-31.mp3" length="2542032" type="audio/mpeg"/>
       <pubDate>Sun, 31 May 2026 17:16:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, one theme dominates above all others: the architecture of individual accountability in UK financial services is being actively rebuilt, and the transition demands real operational attention right now, even as the destination promises to be simpler.
+
+The centerpiece is the SMCR Phase 1 reforms, which are now live following the FCA's PS26/6 and the PRA's PS12/26. These represent the most consequential set of practical changes to individual accountability in some time, and ...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-06-07</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-06-07.mp3" length="2051712" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Jun 2026 17:10:33 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
@@ -2367,6 +2383,15 @@ The dominant story was undoubtedly the massive federal commitment. The Trump adm
       <pubDate>Sun, 31 May 2026 17:20:38 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing delivered a remarkable concentration of developments that, taken together, paint a picture of an industry crossing from speculative promise into something far more concrete — and far more consequential.
+
+The overarching theme is convergence. We're seeing simultaneous acceleration across hardware engineering, financial markets, government policy, and fundamental science, and these threads are no longer running in parallel — they're feeding into each other in ways th...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-06-07</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-06-07.mp3" length="3160944" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Jun 2026 17:13:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -2467,6 +2492,15 @@ The week opens with a stark ...</description>
       <guid isPermaLink="false">weekly-tech-2026-05-31</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-05-31.mp3" length="4390992" type="audio/mpeg"/>
       <pubDate>Sun, 31 May 2026 17:13:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week's episodes from Nate B Jones form a remarkably cohesive argument, each piece building on the last to paint a picture of what it really means to work well in the current AI landscape. The overarching theme is this: as AI gets more powerful, the things that matter most are shifting — away from raw output, away from which model has the highest benchmark score, and toward human judgment, system design, and the discipline to actually deploy these tools at scale.
+
+The week opens with a funda...</description>
+      <guid isPermaLink="false">weekly-tech-2026-06-07</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-06-07.mp3" length="1723392" type="audio/mpeg"/>
+      <pubDate>Sun, 07 Jun 2026 17:08:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
