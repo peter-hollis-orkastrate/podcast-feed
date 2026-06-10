@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 17:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 17:10:11 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -901,6 +901,15 @@ The core idea is simple: if you don't have a feedback loop showing how you deplo
       <pubDate>Mon, 08 Jun 2026 17:07:36 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Agent Literacy Beyond Code</title>
+      <description>Everyone's asking whether Claude Code or Codex is better. Wrong question. The better question is: what does each tool make you better at doing with agents? Because the skill of 2026 is agent literacy. Here's my shorthand: Claude makes steering agents feel natural. Codex makes dispatching agents feel natural. That difference may matter more than which model wins a benchmark this month, because it teaches you a habit.
+
+This is like the Mac versus Windows fight of the agent age — not because one ma...</description>
+      <guid isPermaLink="false">R2-Y1Hjwx2U</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-10 - agent-literacy-beyond-code.mp3" length="2442096" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Jun 2026 17:07:23 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1491,6 +1500,13 @@ The FCA's PS26/6 and the PRA's PS12/26 are now both live, with the majority of P
       <guid isPermaLink="false">daily-compliance-20260606</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-06.mp3" length="879696" type="audio/mpeg"/>
       <pubDate>Sat, 06 Jun 2026 17:09:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - GDPR Enforcement Tracker Update Overview</title>
+      <description>Today's briefing touches on a development that sits at the intersection of data protection and financial services compliance — the GDPR Enforcement Tracker, which now records 3,194 enforcement actions across EU and EEA jurisdictions, with total fines reaching €6.31 billion. That is a staggering figure, and the pace is not slowing down. In 2026 alone, 149 new cases have already been logged, and 176 have appeared in just the last six months. Importantly for us, UK GDPR fines are included in this d...</description>
+      <guid isPermaLink="false">daily-compliance-20260610</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-10.mp3" length="1327104" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Jun 2026 17:10:09 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -2177,6 +2193,13 @@ In India, Bengaluru-based startup QpiAI has unveiled Kaveri, a 64-qubit supercon
       <guid isPermaLink="false">daily-quantum-20260609</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-09.mp3" length="2714256" type="audio/mpeg"/>
       <pubDate>Tue, 09 Jun 2026 17:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Security and Noise Modeling</title>
+      <description>Today in quantum computing, the dominant story is the accelerating urgency around post-quantum cryptography. 01 Quantum, a Toronto-based cybersecurity company trading on the TSX Venture Exchange, has announced a strategic engineering partnership with what it describes as a leading Canadian global IT and business consulting firm and premier systems integrator. The deal positions 01 Quantum as a core subject matter expert for deploying quantum-safe architectures across enterprise and government en...</description>
+      <guid isPermaLink="false">daily-quantum-20260610</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-10.mp3" length="1163376" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Jun 2026 17:08:36 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
