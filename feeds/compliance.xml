@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 17:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 17:10:11 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -601,6 +601,13 @@ The FCA's PS26/6 and the PRA's PS12/26 are now both live, with the majority of P
       <guid isPermaLink="false">daily-compliance-20260606</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-06.mp3" length="879696" type="audio/mpeg"/>
       <pubDate>Sat, 06 Jun 2026 17:09:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - GDPR Enforcement Tracker Update Overview</title>
+      <description>Today's briefing touches on a development that sits at the intersection of data protection and financial services compliance — the GDPR Enforcement Tracker, which now records 3,194 enforcement actions across EU and EEA jurisdictions, with total fines reaching €6.31 billion. That is a staggering figure, and the pace is not slowing down. In 2026 alone, 149 new cases have already been logged, and 176 have appeared in just the last six months. Importantly for us, UK GDPR fines are included in this d...</description>
+      <guid isPermaLink="false">daily-compliance-20260610</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-10.mp3" length="1327104" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Jun 2026 17:10:09 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
