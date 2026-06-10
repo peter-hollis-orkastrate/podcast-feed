@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 Jun 2026 17:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jun 2026 17:10:11 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -695,6 +695,13 @@ In India, Bengaluru-based startup QpiAI has unveiled Kaveri, a 64-qubit supercon
       <guid isPermaLink="false">daily-quantum-20260609</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-09.mp3" length="2714256" type="audio/mpeg"/>
       <pubDate>Tue, 09 Jun 2026 17:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Security and Noise Modeling</title>
+      <description>Today in quantum computing, the dominant story is the accelerating urgency around post-quantum cryptography. 01 Quantum, a Toronto-based cybersecurity company trading on the TSX Venture Exchange, has announced a strategic engineering partnership with what it describes as a leading Canadian global IT and business consulting firm and premier systems integrator. The deal positions 01 Quantum as a core subject matter expert for deploying quantum-safe architectures across enterprise and government en...</description>
+      <guid isPermaLink="false">daily-quantum-20260610</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-10.mp3" length="1163376" type="audio/mpeg"/>
+      <pubDate>Wed, 10 Jun 2026 17:08:36 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
