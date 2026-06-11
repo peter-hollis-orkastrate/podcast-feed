@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 17:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 17:13:28 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -794,6 +794,13 @@ This is like the Mac versus Windows fight of the agent age — not because one m
       <guid isPermaLink="false">R2-Y1Hjwx2U</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-10 - agent-literacy-beyond-code.mp3" length="2442096" type="audio/mpeg"/>
       <pubDate>Wed, 10 Jun 2026 17:07:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Apple's AI Surface vs GPU Cloud</title>
+      <description>Apple used WWDC to show Siri AI, confirm the Google Gemini collaboration, and expand private cloud compute into Google Cloud using Nvidia GPUs. Those sound like three separate headlines, but they're really Apple answering one question: when AI starts doing real work for you all day long, where does that work run? In a chatbot tab? In a giant cloud service burning tokens and GPU time? Or inside the computer you already bought — the iPhone, the Mac, the apps, the files, the photos, the messages — ...</description>
+      <guid isPermaLink="false">t7L6-fMpxFc</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-11 - apples-ai-surface-vs-gpu-cloud.mp3" length="2168640" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jun 2026 17:07:29 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
