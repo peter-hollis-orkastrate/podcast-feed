@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 17:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 17:13:28 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -123,6 +123,15 @@ This year the government is set to spend about £1.4 trillion and receive about 
       <guid isPermaLink="false">7kwnBz9fkVg</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-06-04 - uk-inequality-beyond-tax-policy.mp3" length="3067776" type="audio/mpeg"/>
       <pubDate>Thu, 04 Jun 2026 17:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - Britain's Conflicted Views on Inequality</title>
+      <description>The UK sits in a mid-Atlantic position on individualism and meritocracy — not as extreme as the US, but notably closer to it than most of continental Europe. That shapes everything about how the British public thinks about inequality.
+
+Let's start with the paradox at the heart of this. Around 80% of people consistently say the gap between high and low incomes is too big. That number is completely flat over time. But only about 40% say the government should redistribute from rich to poor. And her...</description>
+      <guid isPermaLink="false">J-2_AX14Qs4</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-06-11 - britains-conflicted-views-on-inequality.mp3" length="3246624" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jun 2026 17:11:02 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -908,6 +917,13 @@ This is like the Mac versus Windows fight of the agent age — not because one m
       <guid isPermaLink="false">R2-Y1Hjwx2U</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-10 - agent-literacy-beyond-code.mp3" length="2442096" type="audio/mpeg"/>
       <pubDate>Wed, 10 Jun 2026 17:07:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Apple's AI Surface vs GPU Cloud</title>
+      <description>Apple used WWDC to show Siri AI, confirm the Google Gemini collaboration, and expand private cloud compute into Google Cloud using Nvidia GPUs. Those sound like three separate headlines, but they're really Apple answering one question: when AI starts doing real work for you all day long, where does that work run? In a chatbot tab? In a giant cloud service burning tokens and GPU time? Or inside the computer you already bought — the iPhone, the Mac, the apps, the files, the photos, the messages — ...</description>
+      <guid isPermaLink="false">t7L6-fMpxFc</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-11 - apples-ai-surface-vs-gpu-cloud.mp3" length="2168640" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jun 2026 17:07:29 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -2200,6 +2216,15 @@ In India, Bengaluru-based startup QpiAI has unveiled Kaveri, a 64-qubit supercon
       <guid isPermaLink="false">daily-quantum-20260610</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-10.mp3" length="1163376" type="audio/mpeg"/>
       <pubDate>Wed, 10 Jun 2026 17:08:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Distributed Fault Tolerance and Quantum Manufacturing</title>
+      <description>Today's quantum news spans three major themes: distributed fault-tolerant architectures, the surprisingly accessible world of quantum chip manufacturing, and a broader look at where the field stands heading into mid-2026.
+
+Let's start with Nu Quantum, the UK-based distributed quantum hardware developer, which has published research demonstrating something genuinely significant — an architecture that can tolerate the complete failure of individual quantum processing units without losing quantum d...</description>
+      <guid isPermaLink="false">daily-quantum-20260611</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-11.mp3" length="2445120" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jun 2026 17:13:25 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
