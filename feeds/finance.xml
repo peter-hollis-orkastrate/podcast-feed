@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Jun 2026 17:10:11 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 11 Jun 2026 17:13:28 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -123,6 +123,15 @@ This year the government is set to spend about £1.4 trillion and receive about 
       <guid isPermaLink="false">7kwnBz9fkVg</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-06-04 - uk-inequality-beyond-tax-policy.mp3" length="3067776" type="audio/mpeg"/>
       <pubDate>Thu, 04 Jun 2026 17:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - Britain's Conflicted Views on Inequality</title>
+      <description>The UK sits in a mid-Atlantic position on individualism and meritocracy — not as extreme as the US, but notably closer to it than most of continental Europe. That shapes everything about how the British public thinks about inequality.
+
+Let's start with the paradox at the heart of this. Around 80% of people consistently say the gap between high and low incomes is too big. That number is completely flat over time. But only about 40% say the government should redistribute from rich to poor. And her...</description>
+      <guid isPermaLink="false">J-2_AX14Qs4</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-06-11 - britains-conflicted-views-on-inequality.mp3" length="3246624" type="audio/mpeg"/>
+      <pubDate>Thu, 11 Jun 2026 17:11:02 +0000</pubDate>
     </item>
   </channel>
 </rss>
