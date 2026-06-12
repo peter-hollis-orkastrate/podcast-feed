@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 11 Jun 2026 17:13:28 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 17:11:37 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -608,6 +608,15 @@ The FCA's PS26/6 and the PRA's PS12/26 are now both live, with the majority of P
       <guid isPermaLink="false">daily-compliance-20260610</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-10.mp3" length="1327104" type="audio/mpeg"/>
       <pubDate>Wed, 10 Jun 2026 17:10:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - MAR Listing Act Reforms Take Effect</title>
+      <description>Good morning. Today's compliance briefing focuses on the most significant changes to the Market Abuse Regulation framework in years, driven by the EU Listing Act that completed its phased implementation on the fifth of June 2026.
+
+Let's start with what matters most operationally. The reformed Article 17 of MAR introduces what's being called the two-step approach to inside information disclosure in protracted processes. Under the old regime, intermediate steps in a deal process — think board appr...</description>
+      <guid isPermaLink="false">daily-compliance-20260612</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-12.mp3" length="2951136" type="audio/mpeg"/>
+      <pubDate>Fri, 12 Jun 2026 17:11:34 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
