@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 12 Jun 2026 17:11:37 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 17:09:44 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -808,6 +808,13 @@ This is like the Mac versus Windows fight of the agent age — not because one m
       <guid isPermaLink="false">xqGCbEDbny8</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-12 - codex-as-computing-paradigm-shift.mp3" length="2248848" type="audio/mpeg"/>
       <pubDate>Fri, 12 Jun 2026 17:07:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Frontier AI as National Security Asset</title>
+      <description>This is unprecedented. The US government just ordered Anthropic to take Fable 5 offline, blocking access for foreign governments, foreign companies, foreign individuals, and even foreign nationals inside the United States. That last part is what makes this much stranger than a normal export control story, because for a modern AI company that sells globally, employs globally, and runs through international cloud infrastructure, the practical way to comply is to shut off the models for everyone. A...</description>
+      <guid isPermaLink="false">b3jlsjOIOzs</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-13 - frontier-ai-as-national-security-asset.mp3" length="2118672" type="audio/mpeg"/>
+      <pubDate>Sat, 13 Jun 2026 17:07:04 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
