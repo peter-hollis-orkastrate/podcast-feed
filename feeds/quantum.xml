@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 13 Jun 2026 17:09:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jun 2026 17:22:11 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -727,6 +727,13 @@ Let's start with Nu Quantum, the UK-based distributed quantum hardware developer
       <pubDate>Sat, 13 Jun 2026 17:09:42 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Goes Public and Post-Quantum</title>
+      <description>The biggest story in quantum today is IQM Quantum Computers edging closer to what would be the first Nasdaq listing by a European quantum computing company. The Finnish firm, which builds superconducting quantum systems, has appointed Barbara Venneman — a current Vanguard board member and former global head of Deloitte Digital — to its board, clearly stacking governance expertise ahead of a shareholder vote on June 25. That vote determines whether IQM completes its merger with the SPAC Real Asse...</description>
+      <guid isPermaLink="false">daily-quantum-20260614</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-14.mp3" length="1776960" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Jun 2026 17:10:07 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Quantum</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-quantum-2026-03-08</guid>
@@ -845,6 +852,15 @@ The overarching theme is convergence. We're seeing simultaneous acceleration acr
       <guid isPermaLink="false">weekly-quantum-2026-06-07</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-06-07.mp3" length="3160944" type="audio/mpeg"/>
       <pubDate>Sun, 07 Jun 2026 17:13:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing has been nothing short of extraordinary, marking what feels like a genuine inflection point where the field is transitioning from physics experiment to engineering discipline, from laboratory curiosity to commercial and even political reality. Several overarching themes emerge when you step back and look at the full sweep of developments.
+
+The first and perhaps most dominant theme is the sheer breadth of the hardware race. We are no longer watching a two-horse cont...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-06-14</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-06-14.mp3" length="2920608" type="audio/mpeg"/>
+      <pubDate>Sun, 14 Jun 2026 17:22:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
