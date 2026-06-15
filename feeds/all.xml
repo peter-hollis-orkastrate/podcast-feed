@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 14 Jun 2026 17:22:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 17:11:12 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -949,6 +949,13 @@ The answer is pretty simple. They're being asked to believe these companies can 
       <pubDate>Sun, 14 Jun 2026 17:07:57 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - AI Buildout Versus Bubble Sorting</title>
+      <description>AI stocks are correcting and the story is evolving in real time. Big names are selling off, Broadcom reports record AI revenue and still gets punished, and the market keeps asking: was this whole AI trade just a bubble? The hyperscalers are on pace to spend around $700 billion this year on AI infrastructure. Some are raising debt, power is tight, memory is expensive, and inside most companies the clean ROI story isn't fully there yet. So if you want to say this looks like a bubble, I get it. But...</description>
+      <guid isPermaLink="false">mn4XBSBIuag</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-15 - ai-buildout-versus-bubble-sorting.mp3" length="2817504" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Jun 2026 17:07:32 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1564,6 +1571,15 @@ The biggest development this fortnight is the FCA's publication of its 2026 regu
       <guid isPermaLink="false">daily-compliance-20260614</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-14.mp3" length="2683152" type="audio/mpeg"/>
       <pubDate>Sun, 14 Jun 2026 17:12:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Strategy and SMCR Conduct Rules</title>
+      <description>Good morning. Two items to cover today that are relevant for compliance teams across wholesale markets and broader regulated firms.
+
+First, the more significant development: the FCA has published what it describes as a strict three-year regulatory strategy. While the full detail of the strategy document warrants close reading, the signal here is clear — the FCA is laying down a marker on intensified oversight, and trade surveillance is squarely in the frame. For those of you in Global Banking an...</description>
+      <guid isPermaLink="false">daily-compliance-20260615</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-15.mp3" length="1099872" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Jun 2026 17:11:09 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -2287,6 +2303,13 @@ Let's start with Nu Quantum, the UK-based distributed quantum hardware developer
       <guid isPermaLink="false">daily-quantum-20260614</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-14.mp3" length="1776960" type="audio/mpeg"/>
       <pubDate>Sun, 14 Jun 2026 17:10:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - IBM's $10B Bet and Quantum Market Surge</title>
+      <description>The biggest story in quantum this week is IBM going all-in with a $10 billion commitment over five years to advance and commercialize quantum computing. CEO Arvind Krishna declared that the quantum era has started, and the money will flow into R&amp;D, capital expenses, manufacturing, partnerships, and acquisitions. Analysts are taking notice — Citi raised its IBM price target to $375, calling the company underappreciated with potential exposure to an $850 billion federally supported quantum market....</description>
+      <guid isPermaLink="false">daily-quantum-20260615</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-15.mp3" length="2341296" type="audio/mpeg"/>
+      <pubDate>Mon, 15 Jun 2026 17:10:13 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
