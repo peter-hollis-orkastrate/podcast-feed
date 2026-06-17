@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 17:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 17:12:54 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -642,6 +642,15 @@ First, the more significant development: the FCA has published what it describes
       <guid isPermaLink="false">daily-compliance-20260616</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-16.mp3" length="1030752" type="audio/mpeg"/>
       <pubDate>Tue, 16 Jun 2026 17:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Authorisation and SMCR Readiness</title>
+      <description>Today's briefing touches on the FCA's evolving expectations around authorisation and governance readiness, with several regulatory developments worth flagging for compliance teams.
+
+First, the overarching message from advisory practice is clear: the FCA is scrutinising applications with increasing rigour, and firms seeking authorisation or expanding permissions need to anticipate supervisory concerns well before submission. This isn't just about document compilation — it's about ensuring governa...</description>
+      <guid isPermaLink="false">daily-compliance-20260617</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-17.mp3" length="1307664" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Jun 2026 17:12:51 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
