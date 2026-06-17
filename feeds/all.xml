@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 16 Jun 2026 17:08:28 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 17:12:55 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -956,6 +956,15 @@ The answer is pretty simple. They're being asked to believe these companies can 
       <pubDate>Mon, 15 Jun 2026 17:07:32 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Agent Maintenance Over Agent Building</title>
+      <description>Vercel made its sales agent better by deleting 80% of its tools. That sentence sounds wrong if you've been following the hype, where agents supposedly get better as you give them more stuff — more context, more memory, more integrations, more autonomy. Vercel's example is a healthy counterexample.
+
+What they did was study one of their best reps. They watched the actual workflow — what did the rep ignore, what made a lead real, what research happened before a reply, when was a message actually a ...</description>
+      <guid isPermaLink="false">BOXK2XFLA-E</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-17 - agent-maintenance-over-agent-building.mp3" length="2863440" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Jun 2026 17:08:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1587,6 +1596,15 @@ First, the more significant development: the FCA has published what it describes
       <guid isPermaLink="false">daily-compliance-20260616</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-16.mp3" length="1030752" type="audio/mpeg"/>
       <pubDate>Tue, 16 Jun 2026 17:08:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Authorisation and SMCR Readiness</title>
+      <description>Today's briefing touches on the FCA's evolving expectations around authorisation and governance readiness, with several regulatory developments worth flagging for compliance teams.
+
+First, the overarching message from advisory practice is clear: the FCA is scrutinising applications with increasing rigour, and firms seeking authorisation or expanding permissions need to anticipate supervisory concerns well before submission. This isn't just about document compilation — it's about ensuring governa...</description>
+      <guid isPermaLink="false">daily-compliance-20260617</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-17.mp3" length="1307664" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Jun 2026 17:12:51 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -2324,6 +2342,15 @@ Let's start with Nu Quantum, the UK-based distributed quantum hardware developer
       <guid isPermaLink="false">daily-quantum-20260616</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-16.mp3" length="1923264" type="audio/mpeg"/>
       <pubDate>Tue, 16 Jun 2026 17:07:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Infrastructure and Security Accelerate</title>
+      <description>The quantum industry is hitting a series of major infrastructure and investment milestones this week, with governments and private companies racing to build out the foundations for a commercially viable quantum ecosystem.
+
+The biggest government moves come from the UK and the United States. The UK's Department for Science, Innovation and Technology has officially launched the National Quantum Standards Network, backed by £10 million and led by the National Physical Laboratory. This is about turn...</description>
+      <guid isPermaLink="false">daily-quantum-20260617</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-17.mp3" length="2281392" type="audio/mpeg"/>
+      <pubDate>Wed, 17 Jun 2026 17:11:31 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
