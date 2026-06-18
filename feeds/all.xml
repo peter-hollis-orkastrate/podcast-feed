@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 17 Jun 2026 17:12:55 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 17:09:27 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -132,6 +132,13 @@ Let's start with the paradox at the heart of this. Around 80% of people consiste
       <guid isPermaLink="false">J-2_AX14Qs4</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-06-11 - britains-conflicted-views-on-inequality.mp3" length="3246624" type="audio/mpeg"/>
       <pubDate>Thu, 11 Jun 2026 17:11:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Geographic Inequality Crisis</title>
+      <description>The UK is one of the most geographically unequal countries in the developed world, and it's not just about incomes. Workers in London earn £31 per hour on average. In Hartlepool, County Durham, it's £18. Half of working-age adults in London have a degree; in Hartlepool it's one in five. Healthy life expectancy in London is 63 years compared to 57 in the northeast — six years of good health just gone. And what really makes the UK stand out internationally isn't that poor areas trail London. It's ...</description>
+      <guid isPermaLink="false">Aj8xD35ZBNY</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-06-18 - uk-geographic-inequality-crisis.mp3" length="3043584" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Jun 2026 17:08:11 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -2351,6 +2358,13 @@ The biggest government moves come from the UK and the United States. The UK's De
       <guid isPermaLink="false">daily-quantum-20260617</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-17.mp3" length="2281392" type="audio/mpeg"/>
       <pubDate>Wed, 17 Jun 2026 17:11:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - ORNL's Quantum Leap and Industry Progress</title>
+      <description>The biggest quantum news today comes out of Oak Ridge, Tennessee, where the Oak Ridge National Laboratory has unveiled its new 20-qubit IQM Pathfinder quantum computer. This is significant for a couple of reasons. First, it's ORNL's first commercially procured quantum system, and second, it marks IQM's first quantum computer installation anywhere in the United States. The machine is designed to multitask and perform multiple calculations simultaneously, helping researchers tackle complex equatio...</description>
+      <guid isPermaLink="false">daily-quantum-20260618</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-18.mp3" length="1091088" type="audio/mpeg"/>
+      <pubDate>Thu, 18 Jun 2026 17:09:23 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
