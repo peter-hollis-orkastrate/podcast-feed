@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 17:09:26 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 17:09:42 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -840,6 +840,13 @@ What they did was study one of their best reps. They watched the actual workflow
       <guid isPermaLink="false">BOXK2XFLA-E</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-17 - agent-maintenance-over-agent-building.mp3" length="2863440" type="audio/mpeg"/>
       <pubDate>Wed, 17 Jun 2026 17:08:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Portable Procedures for AI Agents</title>
+      <description>A few weeks ago I made the Open Brain video arguing that agents need access to your context — your projects, decisions, people, prior work — in a way that's not trapped inside one app. That struck a chord. But there's a second problem that shows up the moment you solve memory: even if the agent knows what you know, it still doesn't know how you work. You still have to say 'when you research, don't trust stale model memory.' You still have to say 'when you write, don't sound like a generic AI new...</description>
+      <guid isPermaLink="false">9PUaEj0pMYE</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-19 - portable-procedures-for-ai-agents.mp3" length="2346192" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Jun 2026 17:07:47 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
