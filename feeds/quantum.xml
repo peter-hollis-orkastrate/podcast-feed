@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 18 Jun 2026 17:09:27 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 17:09:42 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -762,6 +762,13 @@ The biggest government moves come from the UK and the United States. The UK's De
       <guid isPermaLink="false">daily-quantum-20260618</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-18.mp3" length="1091088" type="audio/mpeg"/>
       <pubDate>Thu, 18 Jun 2026 17:09:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Funding, Hybrid Architectures Advance</title>
+      <description>Two major developments today signal that quantum computing is entering a new phase of serious investment and architectural definition. First, Atom Computing announced a $100 million Series C round led by Third Point Ventures, with participation from DCVC and Cisco Investments. Combined with a signed Letter of Intent for another $100 million from the US Department of Commerce, the company's total funding now exceeds $300 million. Atom Computing, founded in 2018, builds neutral-atom quantum comput...</description>
+      <guid isPermaLink="false">daily-quantum-20260619</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-19.mp3" length="1825632" type="audio/mpeg"/>
+      <pubDate>Fri, 19 Jun 2026 17:09:38 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
