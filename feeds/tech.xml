@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 17:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 17:10:37 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -847,6 +847,17 @@ What they did was study one of their best reps. They watched the actual workflow
       <guid isPermaLink="false">9PUaEj0pMYE</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-19 - portable-procedures-for-ai-agents.mp3" length="2346192" type="audio/mpeg"/>
       <pubDate>Fri, 19 Jun 2026 17:07:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Trust Stacks for Synthetic Media</title>
+      <description>Someone could clone my voice today. Not in some speculative future — today. There's enough clean audio of me talking about AI infrastructure and enterprise data out there that the tools could produce something convincing. And I know because people have tried.
+
+So let me do three things here. First, I played a synthetic clone of my voice, clearly labeled. It was impressive and frankly a little creepy. And that tension is the whole point.
+
+Voice cloning is already very good if you have clean sourc...</description>
+      <guid isPermaLink="false">lWbtvC0Hn18</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-20 - trust-stacks-for-synthetic-media.mp3" length="2264544" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 17:08:12 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
