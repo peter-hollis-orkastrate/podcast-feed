@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 19 Jun 2026 17:09:42 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 17:10:37 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -979,6 +979,17 @@ What they did was study one of their best reps. They watched the actual workflow
       <pubDate>Fri, 19 Jun 2026 17:07:47 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Trust Stacks for Synthetic Media</title>
+      <description>Someone could clone my voice today. Not in some speculative future — today. There's enough clean audio of me talking about AI infrastructure and enterprise data out there that the tools could produce something convincing. And I know because people have tried.
+
+So let me do three things here. First, I played a synthetic clone of my voice, clearly labeled. It was impressive and frankly a little creepy. And that tension is the whole point.
+
+Voice cloning is already very good if you have clean sourc...</description>
+      <guid isPermaLink="false">lWbtvC0Hn18</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-20 - trust-stacks-for-synthetic-media.mp3" length="2264544" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 17:08:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1619,6 +1630,13 @@ First, the overarching message from advisory practice is clear: the FCA is scrut
       <guid isPermaLink="false">daily-compliance-20260617</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-17.mp3" length="1307664" type="audio/mpeg"/>
       <pubDate>Wed, 17 Jun 2026 17:12:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Surveillance Standards and MAR Compliance</title>
+      <description>Today's focus is squarely on the FCA's sharpening expectations around market abuse surveillance, driven by the publication of MarketWatch 79. The central message from the regulator is a direct challenge to firms: is your surveillance model genuinely fit for purpose, and are your systems actually effective at catching abuse? This isn't rhetorical. The FCA is signalling that it will be testing firms on the specifics — how alert parameters are set, how often calibration is reviewed, and whether sur...</description>
+      <guid isPermaLink="false">daily-compliance-20260620</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-20.mp3" length="1314144" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 17:10:34 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -2379,6 +2397,15 @@ The biggest government moves come from the UK and the United States. The UK's De
       <guid isPermaLink="false">daily-quantum-20260619</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-19.mp3" length="1825632" type="audio/mpeg"/>
       <pubDate>Fri, 19 Jun 2026 17:09:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Bitcoin's Quantum Defense Debate Heats Up</title>
+      <description>Today's key development in the quantum space comes from Changpeng Zhao, the former Binance CEO, who shared an interview on X laying out the existential question facing Bitcoin: what happens when quantum computers can break the cryptographic framework that secures the network?
+
+CZ specifically raised the vulnerability of early Bitcoin addresses, including Satoshi Nakamoto's holdings, and outlined three paths the community could take. The first is simply doing nothing — letting quantum attackers c...</description>
+      <guid isPermaLink="false">daily-quantum-20260620</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-20.mp3" length="1094544" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 17:09:26 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
