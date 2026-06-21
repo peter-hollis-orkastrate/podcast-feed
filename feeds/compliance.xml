@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 17:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 17:30:23 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -660,6 +660,15 @@ First, the overarching message from advisory practice is clear: the FCA is scrut
       <pubDate>Sat, 20 Jun 2026 17:10:34 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - MAR 2026 Changes: Enforcement and Readiness</title>
+      <description>The most important development for compliance teams today concerns the Listing Act's overhaul of the Market Abuse Regulation, which entered into force on the fifth of June 2026 — the biggest set of MAR changes since the regulation was introduced in 2016. Let me walk you through what matters most for wholesale markets and trading desk compliance.
+
+The headline change is how protracted processes are now handled. MAR now formally distinguishes intermediate steps from the final event in a multi-stag...</description>
+      <guid isPermaLink="false">daily-compliance-20260621</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-21.mp3" length="2388960" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jun 2026 17:15:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -785,6 +794,15 @@ The overarching theme is accountability — accountability for data, for market 
       <guid isPermaLink="false">weekly-compliance-2026-06-14</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-06-14.mp3" length="3300912" type="audio/mpeg"/>
       <pubDate>Sun, 14 Jun 2026 17:19:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance has been dominated by one unmistakable signal: the UK regulatory framework is entering a phase of simultaneous tightening and modernization, and the pace is accelerating. Across every episode this week, whether the topic was operational resilience, market abuse surveillance, or individual accountability, the same underlying message came through — regulators are moving from principles to practice, and they expect firms to do the same.
+
+The single biggest theme running thro...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-06-21</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-06-21.mp3" length="2432016" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jun 2026 17:22:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
