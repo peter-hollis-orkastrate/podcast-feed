@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 17:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 17:30:23 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -780,6 +780,15 @@ CZ specifically raised the vulnerability of early Bitcoin addresses, including S
       <pubDate>Sat, 20 Jun 2026 17:09:26 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Talent, Investment, and Regional Competition</title>
+      <description>Today in quantum computing, the big themes are talent scarcity, investment momentum, and the geopolitical dimensions shaping where this industry takes root.
+
+Let's start with the people side. Quantum Art, an Israeli quantum computing startup founded in 2022, offers a fascinating window into the realities of building a quantum hardware company in a conflict zone. The company has raised $165 million through its Series A from investors including Battery Ventures, Vertex Ventures, and Hudson Bay Cap...</description>
+      <guid isPermaLink="false">daily-quantum-20260621</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-21.mp3" length="2101104" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jun 2026 17:12:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Quantum</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-quantum-2026-03-08</guid>
@@ -907,6 +916,13 @@ The first and perhaps most dominant theme is the sheer breadth of the hardware r
       <guid isPermaLink="false">weekly-quantum-2026-06-14</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-06-14.mp3" length="2920608" type="audio/mpeg"/>
       <pubDate>Sun, 14 Jun 2026 17:22:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing paints a remarkably coherent picture of an industry crossing a threshold, moving from laboratory promise into the messy, capital-intensive, deeply strategic work of becoming real infrastructure. If there's one overarching theme, it's this: quantum is no longer being treated as a science experiment. It's being treated as an industrial priority, a national security imperative, and a financial asset class, all at once. And the pace at which all of those dimensions are...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-06-21</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-06-21.mp3" length="4452192" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jun 2026 17:30:22 +0000</pubDate>
     </item>
   </channel>
 </rss>
