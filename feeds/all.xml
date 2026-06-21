@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 20 Jun 2026 17:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 17:30:23 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -990,6 +990,13 @@ Voice cloning is already very good if you have clean sourc...</description>
       <pubDate>Sat, 20 Jun 2026 17:08:12 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Agent Ownership Over Agent Building</title>
+      <description>The fastest way to make an AI agent dangerous is to let everyone use it and nobody own it. And I think we've made agents sound way more confusing than they need to be. People hear 'agent' and think fully autonomous digital employee. The brand name doesn't matter — ChatGPT, Claude, Codex, Cursor — they can all be agents. What matters is whether you've delegated a job to it. If you ask ChatGPT a question and move on, that's an assistant interaction. But if you have a custom GPT that reads your not...</description>
+      <guid isPermaLink="false">rh_PcL26zls</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-21 - agent-ownership-over-agent-building.mp3" length="2140416" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jun 2026 17:07:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1637,6 +1644,15 @@ First, the overarching message from advisory practice is clear: the FCA is scrut
       <guid isPermaLink="false">daily-compliance-20260620</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-20.mp3" length="1314144" type="audio/mpeg"/>
       <pubDate>Sat, 20 Jun 2026 17:10:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - MAR 2026 Changes: Enforcement and Readiness</title>
+      <description>The most important development for compliance teams today concerns the Listing Act's overhaul of the Market Abuse Regulation, which entered into force on the fifth of June 2026 — the biggest set of MAR changes since the regulation was introduced in 2016. Let me walk you through what matters most for wholesale markets and trading desk compliance.
+
+The headline change is how protracted processes are now handled. MAR now formally distinguishes intermediate steps from the final event in a multi-stag...</description>
+      <guid isPermaLink="false">daily-compliance-20260621</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-21.mp3" length="2388960" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jun 2026 17:15:59 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -2408,6 +2424,15 @@ CZ specifically raised the vulnerability of early Bitcoin addresses, including S
       <pubDate>Sat, 20 Jun 2026 17:09:26 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Talent, Investment, and Regional Competition</title>
+      <description>Today in quantum computing, the big themes are talent scarcity, investment momentum, and the geopolitical dimensions shaping where this industry takes root.
+
+Let's start with the people side. Quantum Art, an Israeli quantum computing startup founded in 2022, offers a fascinating window into the realities of building a quantum hardware company in a conflict zone. The company has raised $165 million through its Series A from investors including Battery Ventures, Vertex Ventures, and Hudson Bay Cap...</description>
+      <guid isPermaLink="false">daily-quantum-20260621</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-21.mp3" length="2101104" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jun 2026 17:12:59 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -2533,6 +2558,15 @@ The overarching theme is accountability — accountability for data, for market 
       <guid isPermaLink="false">weekly-compliance-2026-06-14</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-06-14.mp3" length="3300912" type="audio/mpeg"/>
       <pubDate>Sun, 14 Jun 2026 17:19:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance has been dominated by one unmistakable signal: the UK regulatory framework is entering a phase of simultaneous tightening and modernization, and the pace is accelerating. Across every episode this week, whether the topic was operational resilience, market abuse surveillance, or individual accountability, the same underlying message came through — regulators are moving from principles to practice, and they expect firms to do the same.
+
+The single biggest theme running thro...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-06-21</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-06-21.mp3" length="2432016" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jun 2026 17:22:44 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
@@ -2664,6 +2698,13 @@ The first and perhaps most dominant theme is the sheer breadth of the hardware r
       <pubDate>Sun, 14 Jun 2026 17:22:10 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing paints a remarkably coherent picture of an industry crossing a threshold, moving from laboratory promise into the messy, capital-intensive, deeply strategic work of becoming real infrastructure. If there's one overarching theme, it's this: quantum is no longer being treated as a science experiment. It's being treated as an industrial priority, a national security imperative, and a financial asset class, all at once. And the pace at which all of those dimensions are...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-06-21</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-06-21.mp3" length="4452192" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jun 2026 17:30:22 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -2782,6 +2823,15 @@ The overarching theme across every episode this week is that we're moving past t
       <guid isPermaLink="false">weekly-tech-2026-06-14</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-06-14.mp3" length="3271968" type="audio/mpeg"/>
       <pubDate>Sun, 14 Jun 2026 17:16:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week's tech coverage circled around a single, surprisingly coherent thesis, though it arrived from several different directions. The thread connecting everything is this: we've moved past the era where building with AI is the hard part. The hard part now is owning what you've built, maintaining it as everything underneath keeps shifting, and understanding where the real value settles as intelligence itself becomes cheap.
+
+The week opened with a deep look at how OpenAI and Anthropic are posi...</description>
+      <guid isPermaLink="false">weekly-tech-2026-06-21</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-06-21.mp3" length="2964960" type="audio/mpeg"/>
+      <pubDate>Sun, 21 Jun 2026 17:19:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
