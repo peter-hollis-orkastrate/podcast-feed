@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 17:30:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 17:10:12 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -787,6 +787,15 @@ Let's start with the people side. Quantum Art, an Israeli quantum computing star
       <guid isPermaLink="false">daily-quantum-20260621</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-21.mp3" length="2101104" type="audio/mpeg"/>
       <pubDate>Sun, 21 Jun 2026 17:12:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Infrastructure Goes Global</title>
+      <description>Today's quantum developments span three continents, touching infrastructure milestones, talent migration, and a compelling argument for how quantum processors should integrate into existing computing ecosystems.
+
+Let's start with India, where Amaravati Quantum Valley in Andhra Pradesh has reached a significant milestone: cooling a dilution refrigerator to 4 Kelvin — that's minus 269 degrees Celsius — using almost entirely indigenous components. Until now, Indian researchers had to travel to Germ...</description>
+      <guid isPermaLink="false">daily-quantum-20260622</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-22.mp3" length="2098656" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jun 2026 17:08:37 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
