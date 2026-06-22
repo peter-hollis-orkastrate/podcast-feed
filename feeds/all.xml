@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 21 Jun 2026 17:30:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 17:10:12 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -997,6 +997,15 @@ Voice cloning is already very good if you have clean sourc...</description>
       <pubDate>Sun, 21 Jun 2026 17:07:44 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Anthropic's Hidden Lead Over OpenAI</title>
+      <description>OpenAI looks like it won the week — rumors of GPT-5.6, hiring Noam Shazeer, one of the original authors of Attention Is All You Need, while Anthropic's Fable model got banned and negotiations with Washington stalled. But I want to tell a different story. Anthropic also landed major talent that didn't make headlines: John Jumper, a Nobel Prize winner for his AlphaFold work with Demis Hassabis, left Google for Anthropic. Google had a terrible week.
+
+The talent movements matter far more than the Fa...</description>
+      <guid isPermaLink="false">h1MxhfZSTjo</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-22 - anthropics-hidden-lead-over-openai.mp3" length="1469088" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jun 2026 17:06:27 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1653,6 +1662,15 @@ The headline change is how protracted processes are now handled. MAR now formall
       <guid isPermaLink="false">daily-compliance-20260621</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-21.mp3" length="2388960" type="audio/mpeg"/>
       <pubDate>Sun, 21 Jun 2026 17:15:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Authorisation and Regulatory Readiness</title>
+      <description>Today's briefing touches on several threads relevant to compliance teams, though the primary content centres on FCA authorisation standards and a handful of emerging regulatory themes worth flagging.
+
+First, on authorisation: the FCA's approach to determining applications remains intensely focused on how firms articulate risk, governance, and credibility. The regulator is looking beyond documentation at face value — it's interpreting business models, stress-testing the alignment of systems and c...</description>
+      <guid isPermaLink="false">daily-compliance-20260622</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-22.mp3" length="1382400" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jun 2026 17:10:09 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -2431,6 +2449,15 @@ Let's start with the people side. Quantum Art, an Israeli quantum computing star
       <guid isPermaLink="false">daily-quantum-20260621</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-21.mp3" length="2101104" type="audio/mpeg"/>
       <pubDate>Sun, 21 Jun 2026 17:12:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Infrastructure Goes Global</title>
+      <description>Today's quantum developments span three continents, touching infrastructure milestones, talent migration, and a compelling argument for how quantum processors should integrate into existing computing ecosystems.
+
+Let's start with India, where Amaravati Quantum Valley in Andhra Pradesh has reached a significant milestone: cooling a dilution refrigerator to 4 Kelvin — that's minus 269 degrees Celsius — using almost entirely indigenous components. Until now, Indian researchers had to travel to Germ...</description>
+      <guid isPermaLink="false">daily-quantum-20260622</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-22.mp3" length="2098656" type="audio/mpeg"/>
+      <pubDate>Mon, 22 Jun 2026 17:08:37 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
