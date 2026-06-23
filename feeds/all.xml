@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Jun 2026 17:10:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 17:08:20 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1004,6 +1004,15 @@ The talent movements matter far more than the Fa...</description>
       <guid isPermaLink="false">h1MxhfZSTjo</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-22 - anthropics-hidden-lead-over-openai.mp3" length="1469088" type="audio/mpeg"/>
       <pubDate>Mon, 22 Jun 2026 17:06:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Task Imagination Over Prompt Engineering</title>
+      <description>Fable 5 is the best model in the world right now. I can't access it — you can't access it — but we need to talk about what it's capable of because this is what we're going to experience from a bunch of models in the next few months. Expect this big model feeling from ChatGPT models dropping soon and open-source models within four to six months. I believe Fable 5 is a 10 trillion parameter model. It's a massive new pre-train.
+
+But here's what actually matters: Fable 5 is not interesting because i...</description>
+      <guid isPermaLink="false">2w_vwQVvFmc</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-23 - task-imagination-over-prompt-engineering.mp3" length="2166192" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Jun 2026 17:07:25 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -2458,6 +2467,13 @@ Let's start with India, where Amaravati Quantum Valley in Andhra Pradesh has rea
       <guid isPermaLink="false">daily-quantum-20260622</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-22.mp3" length="2098656" type="audio/mpeg"/>
       <pubDate>Mon, 22 Jun 2026 17:08:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Trump Executive Orders Boost Quantum Stocks</title>
+      <description>Quantum computing stocks had a notable day on Tuesday, rallying even as technology shares broadly sold off around the globe. The catalyst was President Donald Trump signing two executive orders squarely aimed at bolstering America's quantum computing capabilities. The first order directs federal agencies to partner with the private sector and academic institutions to deploy a quantum computer powerful enough to tackle meaningful computational challenges, with an ambitious 2028 target date attach...</description>
+      <guid isPermaLink="false">daily-quantum-20260623</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-23.mp3" length="642384" type="audio/mpeg"/>
+      <pubDate>Tue, 23 Jun 2026 17:08:17 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
