@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 17:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:10:21 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -676,6 +676,13 @@ First, on authorisation: the FCA's approach to determining applications remains 
       <guid isPermaLink="false">daily-compliance-20260622</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-22.mp3" length="1382400" type="audio/mpeg"/>
       <pubDate>Mon, 22 Jun 2026 17:10:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - PRA April 2025 Regulatory Digest</title>
+      <description>Today's briefing is a brief one, and I want to be upfront about that. The PRA has published its April 2025 Regulatory Digest, but the substantive content available from the public extract is extremely limited — essentially just the publication notice itself without detailed regulatory updates making it through to our feed. That said, the fact that the PRA continues its monthly digest cadence matters. These digests typically consolidate prudential policy updates, supervisory statements, and consu...</description>
+      <guid isPermaLink="false">daily-compliance-20260624</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-24.mp3" length="896688" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Jun 2026 17:10:18 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
