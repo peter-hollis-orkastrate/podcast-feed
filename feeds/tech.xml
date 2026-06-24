@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 23 Jun 2026 17:08:20 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 17:10:21 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -883,6 +883,15 @@ But here's what actually matters: Fable 5 is not interesting because i...</descr
       <guid isPermaLink="false">2w_vwQVvFmc</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-23 - task-imagination-over-prompt-engineering.mp3" length="2166192" type="audio/mpeg"/>
       <pubDate>Tue, 23 Jun 2026 17:07:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Loop of Loops Agent Pattern</title>
+      <description>Most AI still comes back to us — prompt me again, tell me what changed, decide what I should do next. So I built what I call a loop of loops, and I want you to understand the concept well enough to see one you could build yourself.
+
+Let's keep it simple. A prompt is one request. A loop is one recurring job with memory. A loop of loops is what happens when those recurring jobs can notice each other, share what changed, and stop when they hit your boundaries. One prompt gets you an answer. One loo...</description>
+      <guid isPermaLink="false">A4zMyjkL0Dc</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-24 - loop-of-loops-agent-pattern.mp3" length="2059344" type="audio/mpeg"/>
+      <pubDate>Wed, 24 Jun 2026 17:07:18 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
