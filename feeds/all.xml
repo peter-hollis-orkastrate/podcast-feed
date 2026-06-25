@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 24 Jun 2026 17:10:21 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 17:10:37 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -139,6 +139,15 @@ Let's start with the paradox at the heart of this. Around 80% of people consiste
       <guid isPermaLink="false">Aj8xD35ZBNY</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-06-18 - uk-geographic-inequality-crisis.mp3" length="3043584" type="audio/mpeg"/>
       <pubDate>Thu, 18 Jun 2026 17:08:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - Why Job Quality Beats Pay Alone</title>
+      <description>There's a lot of inequality in pay. If you're at the 90th percentile, your wage is about three times higher than someone at the 10th. But the story is really about how that's changed. From the early 1990s through the Great Recession, higher-paid people saw faster wage growth, so inequality expanded. Since then, big increases in the minimum wage have lifted the bottom and actually narrowed pay inequality somewhat.
+
+Behind the scenes, there's been a hollowing out of middle-paid occupations, partly...</description>
+      <guid isPermaLink="false">M90vYYUXTCk</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-06-25 - why-job-quality-beats-pay-alone.mp3" length="2552256" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Jun 2026 17:07:50 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -2497,6 +2506,13 @@ Let's start with India, where Amaravati Quantum Valley in Andhra Pradesh has rea
       <guid isPermaLink="false">daily-quantum-20260624</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-24.mp3" length="2067264" type="audio/mpeg"/>
       <pubDate>Wed, 24 Jun 2026 17:09:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Microsoft's Quantum Claims Under Fire</title>
+      <description>The biggest story in quantum computing today is a sharp scientific dispute over the foundation of Microsoft's quantum strategy. A peer-reviewed critique published in Nature by Henry Legg, a physicist at the University of St Andrews, argues that Microsoft did not conclusively demonstrate a working topological qubit when it unveiled its Majorana 1 chip in February 2025. Legg reanalyzed Microsoft's data and contends that what the company presented as signatures of the elusive Majorana particle coul...</description>
+      <guid isPermaLink="false">daily-quantum-20260625</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-25.mp3" length="1500336" type="audio/mpeg"/>
+      <pubDate>Thu, 25 Jun 2026 17:10:34 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
