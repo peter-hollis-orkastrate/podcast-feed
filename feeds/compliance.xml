@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 17:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 17:12:13 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -683,6 +683,15 @@ First, on authorisation: the FCA's approach to determining applications remains 
       <guid isPermaLink="false">daily-compliance-20260624</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-24.mp3" length="896688" type="audio/mpeg"/>
       <pubDate>Wed, 24 Jun 2026 17:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Supervision Framework and SMCR Accountability</title>
+      <description>Today's briefing covers the FCA's refreshed approach to supervision, which compliance teams across wholesale markets and Global Banking &amp; Markets divisions need to understand as the framework against which all supervisory engagement and enforcement action is now benchmarked.
+
+The FCA has updated its core supervision document, reaffirming that its approach is judgement-led, forward-looking, and outcomes-focused. The regulator is explicit that it aims to pre-empt poor conduct before harm materiali...</description>
+      <guid isPermaLink="false">daily-compliance-20260626</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-26.mp3" length="2231136" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Jun 2026 17:12:10 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
