@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 17:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 17:12:13 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1033,6 +1033,13 @@ Let's keep it simple. A prompt is one request. A loop is one recurring job with 
       <pubDate>Wed, 24 Jun 2026 17:07:18 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Solving the AI Handoff Problem</title>
+      <description>Here's the problem I kept running into, and I know many of you are hitting it too. We're all using multiple AI systems — Claude, Codex, ChatGPT, OpenClaw, Hermes — and each one is good at something different. Claude is genuinely better at front-end design. OpenAI has a strong reputation for back-end engineering. But none of them talk to each other. So the human becomes the hallway between all these agents. You finish a research loop in one tool, and the writing loop in another tool doesn't know ...</description>
+      <guid isPermaLink="false">QSK4vf_ZTRA</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-26 - solving-the-ai-handoff-problem.mp3" length="2295360" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Jun 2026 17:08:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1705,6 +1712,15 @@ First, on authorisation: the FCA's approach to determining applications remains 
       <guid isPermaLink="false">daily-compliance-20260624</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-24.mp3" length="896688" type="audio/mpeg"/>
       <pubDate>Wed, 24 Jun 2026 17:10:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Supervision Framework and SMCR Accountability</title>
+      <description>Today's briefing covers the FCA's refreshed approach to supervision, which compliance teams across wholesale markets and Global Banking &amp; Markets divisions need to understand as the framework against which all supervisory engagement and enforcement action is now benchmarked.
+
+The FCA has updated its core supervision document, reaffirming that its approach is judgement-led, forward-looking, and outcomes-focused. The regulator is explicit that it aims to pre-empt poor conduct before harm materiali...</description>
+      <guid isPermaLink="false">daily-compliance-20260626</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-26.mp3" length="2231136" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Jun 2026 17:12:10 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -2513,6 +2529,13 @@ Let's start with India, where Amaravati Quantum Valley in Andhra Pradesh has rea
       <guid isPermaLink="false">daily-quantum-20260625</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-25.mp3" length="1500336" type="audio/mpeg"/>
       <pubDate>Thu, 25 Jun 2026 17:10:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Policy, Chips, and Games</title>
+      <description>The biggest quantum news today is a presidential executive order aimed squarely at closing the gaps holding back U.S. quantum computing. The order directs the Department of Energy to lead the development of a useful quantum computer, assess quantum system performance, and track how close these machines are to breaking encryption. It also calls for strengthening the domestic supply chain for specialized components — lasers, cryogenics, photonics — where companies currently see the market as too s...</description>
+      <guid isPermaLink="false">daily-quantum-20260626</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-26.mp3" length="2154672" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Jun 2026 17:10:16 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
