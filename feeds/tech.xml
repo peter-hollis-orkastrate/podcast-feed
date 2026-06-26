@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2026 17:10:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 17:12:13 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -892,6 +892,13 @@ Let's keep it simple. A prompt is one request. A loop is one recurring job with 
       <guid isPermaLink="false">A4zMyjkL0Dc</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-24 - loop-of-loops-agent-pattern.mp3" length="2059344" type="audio/mpeg"/>
       <pubDate>Wed, 24 Jun 2026 17:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Solving the AI Handoff Problem</title>
+      <description>Here's the problem I kept running into, and I know many of you are hitting it too. We're all using multiple AI systems — Claude, Codex, ChatGPT, OpenClaw, Hermes — and each one is good at something different. Claude is genuinely better at front-end design. OpenAI has a strong reputation for back-end engineering. But none of them talk to each other. So the human becomes the hallway between all these agents. You finish a research loop in one tool, and the writing loop in another tool doesn't know ...</description>
+      <guid isPermaLink="false">QSK4vf_ZTRA</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-26 - solving-the-ai-handoff-problem.mp3" length="2295360" type="audio/mpeg"/>
+      <pubDate>Fri, 26 Jun 2026 17:08:06 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
