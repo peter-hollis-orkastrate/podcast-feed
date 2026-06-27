@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 17:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 17:09:40 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -824,6 +824,13 @@ Let's start with India, where Amaravati Quantum Valley in Andhra Pradesh has rea
       <guid isPermaLink="false">daily-quantum-20260626</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-26.mp3" length="2154672" type="audio/mpeg"/>
       <pubDate>Fri, 26 Jun 2026 17:10:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Post-Quantum Encryption Deadlines Loom</title>
+      <description>The biggest quantum story this week is the dramatically accelerated timeline for post-quantum encryption across the U.S. government and its vast contractor ecosystem. An executive order now requires all federal contractors to comply with NIST's post-quantum cryptography standards by the end of 2030, with digital signatures in high-impact systems migrated by the end of 2031. The Department of War followed up almost immediately, announcing centralized oversight for PQC, plans to scan vulnerable sy...</description>
+      <guid isPermaLink="false">daily-quantum-20260627</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-27.mp3" length="2359440" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Jun 2026 17:08:25 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
