@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 26 Jun 2026 17:12:13 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 17:09:41 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -692,6 +692,13 @@ The FCA has updated its core supervision document, reaffirming that its approach
       <guid isPermaLink="false">daily-compliance-20260626</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-26.mp3" length="2231136" type="audio/mpeg"/>
       <pubDate>Fri, 26 Jun 2026 17:12:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - PRA November 2025 Regulatory Digest</title>
+      <description>Today's briefing is a brief one, and I'll be straightforward about why. The PRA has published its November 2025 Regulatory Digest on the Bank of England website, which is a routine monthly publication that compliance teams across wholesale markets and Global Banking &amp; Markets divisions should be tracking as standard practice. However, the substantive content available from this publication at the time of review is extremely limited — essentially confirming the digest's existence without providin...</description>
+      <guid isPermaLink="false">daily-compliance-20260627</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-27.mp3" length="969840" type="audio/mpeg"/>
+      <pubDate>Sat, 27 Jun 2026 17:09:37 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
