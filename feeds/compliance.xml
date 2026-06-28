@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 17:09:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 17:19:11 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -835,6 +835,15 @@ The single biggest theme running thro...</description>
       <guid isPermaLink="false">weekly-compliance-2026-06-21</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-06-21.mp3" length="2432016" type="audio/mpeg"/>
       <pubDate>Sun, 21 Jun 2026 17:22:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, the dominant theme is one of regulatory recalibration — across both European and UK regimes, the message from regulators is unmistakable: the bar for what constitutes adequate compliance infrastructure is rising, and the window for reactive, piecemeal approaches is closing fast.
+
+The single most consequential development this week is the entry into force of the Listing Act's overhaul of the Market Abuse Regulation on the fifth of June 2026, representing the most signific...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-06-28</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-06-28.mp3" length="2617920" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Jun 2026 17:15:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
