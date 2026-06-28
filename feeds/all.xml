@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 17:09:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 17:19:11 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1038,6 +1038,13 @@ Let's keep it simple. A prompt is one request. A loop is one recurring job with 
       <guid isPermaLink="false">QSK4vf_ZTRA</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-26 - solving-the-ai-handoff-problem.mp3" length="2295360" type="audio/mpeg"/>
       <pubDate>Fri, 26 Jun 2026 17:08:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - The Last-Mile Trap in AI</title>
+      <description>GLM 5.2 genuinely impressed me. It's not just cheap — free if you self-host, roughly 98% cheaper than Claude on the cloud — it's actually the best model in the world for what I call center-of-distribution tasks. Brochure sites, standard PowerPoint outlines, first-pass copy, routine synthesis, familiar coding problems. These are tasks with known shapes, abundant examples, and outputs a human can check quickly. On that fat middle of everyday AI work, GLM 5.2 isn't just good enough. It's better tha...</description>
+      <guid isPermaLink="false">Zp8lr6IzUnQ</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-28 - the-last-mile-trap-in-ai.mp3" length="1916784" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Jun 2026 17:07:37 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -2552,6 +2559,13 @@ Let's start with India, where Amaravati Quantum Valley in Andhra Pradesh has rea
       <pubDate>Sat, 27 Jun 2026 17:08:25 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - PsiQuantum, Infleqtion, and Quantum Policy</title>
+      <description>The biggest quantum story right now centers on PsiQuantum and its ambitious build in Chicago. At the Illinois Quantum and Microelectronics Park — a 128-acre campus on the former U.S. Steel site on the South Side — a massive 65,000-square-foot warehouse is nearing completion. That building is set to house what could be the world's first utility-scale fault-tolerant quantum computer. The park is backed by $500 million in state funding from Illinois, and PsiQuantum is the anchor tenant. The Palo Al...</description>
+      <guid isPermaLink="false">daily-quantum-20260628</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-28.mp3" length="1657008" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Jun 2026 17:09:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -2686,6 +2700,15 @@ The single biggest theme running thro...</description>
       <guid isPermaLink="false">weekly-compliance-2026-06-21</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-06-21.mp3" length="2432016" type="audio/mpeg"/>
       <pubDate>Sun, 21 Jun 2026 17:22:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, the dominant theme is one of regulatory recalibration — across both European and UK regimes, the message from regulators is unmistakable: the bar for what constitutes adequate compliance infrastructure is rising, and the window for reactive, piecemeal approaches is closing fast.
+
+The single most consequential development this week is the entry into force of the Listing Act's overhaul of the Market Abuse Regulation on the fifth of June 2026, representing the most signific...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-06-28</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-06-28.mp3" length="2617920" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Jun 2026 17:15:43 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
@@ -2824,6 +2847,15 @@ The first and perhaps most dominant theme is the sheer breadth of the hardware r
       <pubDate>Sun, 21 Jun 2026 17:30:22 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing, we're witnessing a sector that is visibly transitioning from theoretical promise to institutional reality, and the tensions inherent in that shift are playing out across every dimension — scientific credibility, geopolitical competition, workforce challenges, financial markets, and urgent policy timelines.
+
+The single most consequential development this week was President Trump signing two executive orders aimed at accelerating American quantum capabilities. One d...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-06-28</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-06-28.mp3" length="4375296" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Jun 2026 17:19:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -2951,6 +2983,15 @@ The week opened with a deep look at how OpenAI and Anthropic are posi...</descri
       <guid isPermaLink="false">weekly-tech-2026-06-21</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-06-21.mp3" length="2964960" type="audio/mpeg"/>
       <pubDate>Sun, 21 Jun 2026 17:19:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech, one narrative kept surfacing across every conversation, and it's not about which model is smartest or which company is winning. It's about what happens after the impressive demo ends. The throughline is unmistakable: the era of building AI agents and marveling at their capabilities is giving way to something much harder and much less glamorous — the era of owning, maintaining, and connecting them.
+
+The week opened with a sharp reframing of what an AI agent actually is. Forget ...</description>
+      <guid isPermaLink="false">weekly-tech-2026-06-28</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-06-28.mp3" length="3133872" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Jun 2026 17:13:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
