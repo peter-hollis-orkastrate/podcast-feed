@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 17:09:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 17:19:11 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -901,6 +901,13 @@ Let's keep it simple. A prompt is one request. A loop is one recurring job with 
       <pubDate>Fri, 26 Jun 2026 17:08:06 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - The Last-Mile Trap in AI</title>
+      <description>GLM 5.2 genuinely impressed me. It's not just cheap — free if you self-host, roughly 98% cheaper than Claude on the cloud — it's actually the best model in the world for what I call center-of-distribution tasks. Brochure sites, standard PowerPoint outlines, first-pass copy, routine synthesis, familiar coding problems. These are tasks with known shapes, abundant examples, and outputs a human can check quickly. On that fat middle of everyday AI work, GLM 5.2 isn't just good enough. It's better tha...</description>
+      <guid isPermaLink="false">Zp8lr6IzUnQ</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-06-28 - the-last-mile-trap-in-ai.mp3" length="1916784" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Jun 2026 17:07:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -1028,6 +1035,15 @@ The week opened with a deep look at how OpenAI and Anthropic are posi...</descri
       <guid isPermaLink="false">weekly-tech-2026-06-21</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-06-21.mp3" length="2964960" type="audio/mpeg"/>
       <pubDate>Sun, 21 Jun 2026 17:19:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech, one narrative kept surfacing across every conversation, and it's not about which model is smartest or which company is winning. It's about what happens after the impressive demo ends. The throughline is unmistakable: the era of building AI agents and marveling at their capabilities is giving way to something much harder and much less glamorous — the era of owning, maintaining, and connecting them.
+
+The week opened with a sharp reframing of what an AI agent actually is. Forget ...</description>
+      <guid isPermaLink="false">weekly-tech-2026-06-28</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-06-28.mp3" length="3133872" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Jun 2026 17:13:26 +0000</pubDate>
     </item>
   </channel>
 </rss>
