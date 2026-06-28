@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 27 Jun 2026 17:09:40 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 17:19:11 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -833,6 +833,13 @@ Let's start with India, where Amaravati Quantum Valley in Andhra Pradesh has rea
       <pubDate>Sat, 27 Jun 2026 17:08:25 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - PsiQuantum, Infleqtion, and Quantum Policy</title>
+      <description>The biggest quantum story right now centers on PsiQuantum and its ambitious build in Chicago. At the Illinois Quantum and Microelectronics Park — a 128-acre campus on the former U.S. Steel site on the South Side — a massive 65,000-square-foot warehouse is nearing completion. That building is set to house what could be the world's first utility-scale fault-tolerant quantum computer. The park is backed by $500 million in state funding from Illinois, and PsiQuantum is the anchor tenant. The Palo Al...</description>
+      <guid isPermaLink="false">daily-quantum-20260628</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-28.mp3" length="1657008" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Jun 2026 17:09:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Quantum</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-quantum-2026-03-08</guid>
@@ -967,6 +974,15 @@ The first and perhaps most dominant theme is the sheer breadth of the hardware r
       <guid isPermaLink="false">weekly-quantum-2026-06-21</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-06-21.mp3" length="4452192" type="audio/mpeg"/>
       <pubDate>Sun, 21 Jun 2026 17:30:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing, we're witnessing a sector that is visibly transitioning from theoretical promise to institutional reality, and the tensions inherent in that shift are playing out across every dimension — scientific credibility, geopolitical competition, workforce challenges, financial markets, and urgent policy timelines.
+
+The single most consequential development this week was President Trump signing two executive orders aimed at accelerating American quantum capabilities. One d...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-06-28</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-06-28.mp3" length="4375296" type="audio/mpeg"/>
+      <pubDate>Sun, 28 Jun 2026 17:19:10 +0000</pubDate>
     </item>
   </channel>
 </rss>
