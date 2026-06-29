@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 28 Jun 2026 17:19:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 17:14:09 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -838,6 +838,15 @@ Let's start with India, where Amaravati Quantum Valley in Andhra Pradesh has rea
       <guid isPermaLink="false">daily-quantum-20260628</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-28.mp3" length="1657008" type="audio/mpeg"/>
       <pubDate>Sun, 28 Jun 2026 17:09:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Investment, Skepticism, and Readiness</title>
+      <description>There's a fascinating tension running through today's quantum news — massive government and corporate investment pushing the field forward, set against sober warnings that the technology remains years from commercial maturity.
+
+Let's start with the biggest policy moves. President Trump signed two executive orders: one directing federal agencies to help deliver a genuinely useful quantum computer by 2028, and another urging the government to protect its systems against future quantum-powered atta...</description>
+      <guid isPermaLink="false">daily-quantum-20260629</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-29.mp3" length="2361600" type="audio/mpeg"/>
+      <pubDate>Mon, 29 Jun 2026 17:12:06 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
