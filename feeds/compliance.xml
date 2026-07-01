@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 17:08:10 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:13:17 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -715,6 +715,13 @@ The PRA has published CP7/26, its fee rates proposals for 2026/27, and the headl
       <guid isPermaLink="false">daily-compliance-20260630</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-06-30.mp3" length="1144368" type="audio/mpeg"/>
       <pubDate>Tue, 30 Jun 2026 17:08:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Enforcement Cadence, Market Abuse, SMCR Accountability</title>
+      <description>Let's start with what matters most for UK wholesale markets compliance teams this morning. The FCA's 2026 fines have now passed sixteen million pounds year-to-date, and the most notable action for our purposes is the £338,000 penalty against Dinosaur Merchant Bank for a Market Abuse Regulation breach. The amount is modest, but the signal is not — market abuse at the trading desk level remains firmly in the FCA's crosshairs, and this is exactly the kind of targeted, control-failure-focused enforc...</description>
+      <guid isPermaLink="false">daily-compliance-20260701</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-01.mp3" length="2814912" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2026 17:13:14 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
