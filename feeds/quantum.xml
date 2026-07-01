@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 Jun 2026 17:08:09 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 17:13:17 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -856,6 +856,13 @@ The biggest story centers on Pasqal, the French neutral-atom quantum computing c
       <guid isPermaLink="false">daily-quantum-20260630</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-06-30.mp3" length="1971936" type="audio/mpeg"/>
       <pubDate>Tue, 30 Jun 2026 17:07:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Helios, Hadrons, and Quantum Entanglement</title>
+      <description>Several major quantum developments landed today, and the biggest is arguably Quantinuum's Helios — a 98-qubit trapped-ion quantum computer described in a new Nature paper. Built in Broomfield, Colorado, Helios uses barium ions suspended by electric fields and cooled near absolute zero. What makes it significant isn't just the qubit count, which is up from 56 on Quantinuum's previous system. It's the accuracy. Single-qubit gate errors come in at about 2.5 in 100,000, and two-qubit gate errors at ...</description>
+      <guid isPermaLink="false">daily-quantum-20260701</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-01.mp3" length="1948320" type="audio/mpeg"/>
+      <pubDate>Wed, 01 Jul 2026 17:09:35 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
