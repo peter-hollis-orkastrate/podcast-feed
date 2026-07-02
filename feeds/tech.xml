@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 17:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:10:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -924,6 +924,15 @@ Let me tell you how an AI agent beat an insurance ...</description>
       <guid isPermaLink="false">HgAQOkG_v8c</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-01 - own-your-ai-memory-stack.mp3" length="2340000" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jul 2026 17:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Choosing AI Models by Job</title>
+      <description>Since Fable got banned for 18 days, a lot of companies learned the hard way that the model you build on might not be there tomorrow. The ones who shrugged it off were the ones who never tied their work to a single model — they owned the harness, routed somewhere else, and kept moving. This isn't about whether Fable's back. It's about making sure it never matters that it was gone.
+
+I'm seeing people confuse the act of picking a model with getting real work done. So here's the frame I want you to ...</description>
+      <guid isPermaLink="false">lq2fP7wC7d8</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-02 - choosing-ai-models-by-job.mp3" length="2005776" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jul 2026 17:08:01 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
