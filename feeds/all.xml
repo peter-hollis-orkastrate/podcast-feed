@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 01 Jul 2026 17:13:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 17:10:30 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1063,6 +1063,15 @@ Let me tell you how an AI agent beat an insurance ...</description>
       <guid isPermaLink="false">HgAQOkG_v8c</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-01 - own-your-ai-memory-stack.mp3" length="2340000" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jul 2026 17:07:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Choosing AI Models by Job</title>
+      <description>Since Fable got banned for 18 days, a lot of companies learned the hard way that the model you build on might not be there tomorrow. The ones who shrugged it off were the ones who never tied their work to a single model — they owned the harness, routed somewhere else, and kept moving. This isn't about whether Fable's back. It's about making sure it never matters that it was gone.
+
+I'm seeing people confuse the act of picking a model with getting real work done. So here's the frame I want you to ...</description>
+      <guid isPermaLink="false">lq2fP7wC7d8</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-02 - choosing-ai-models-by-job.mp3" length="2005776" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jul 2026 17:08:01 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -2630,6 +2639,13 @@ The biggest story centers on Pasqal, the French neutral-atom quantum computing c
       <guid isPermaLink="false">daily-quantum-20260701</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-01.mp3" length="1948320" type="audio/mpeg"/>
       <pubDate>Wed, 01 Jul 2026 17:09:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Funding Surge and Market Momentum</title>
+      <description>The quantum computing sector is seeing a significant wave of funding and strategic activity today. The biggest headline is the capital flowing into superconducting quantum computing on both sides of the Pacific. Qolab, the California-based startup founded by former Google quantum leaders CEO Alan Ho and CTO John Martinis — the same Martinis who led the team that achieved quantum supremacy in 2019 — has closed a $54.2 million Series B round led by UC Investments. The funding will support Qolab's ...</description>
+      <guid isPermaLink="false">daily-quantum-20260702</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-02.mp3" length="1910448" type="audio/mpeg"/>
+      <pubDate>Thu, 02 Jul 2026 17:10:26 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
