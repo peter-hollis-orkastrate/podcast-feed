@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 17:10:30 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 17:10:50 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -870,6 +870,15 @@ The biggest story centers on Pasqal, the French neutral-atom quantum computing c
       <guid isPermaLink="false">daily-quantum-20260702</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-02.mp3" length="1910448" type="audio/mpeg"/>
       <pubDate>Thu, 02 Jul 2026 17:10:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Meets Deep Time and Thermodynamics</title>
+      <description>Today in quantum news, we have a fascinating convergence of forward-looking developments. First, researchers have proposed a thermodynamic computing architecture that could dramatically cut the enormous energy demands of artificial intelligence — a growing concern as AI workloads scale up. Details are still emerging, but the core idea is to leverage thermodynamic principles to make computation far more energy-efficient.
+
+Meanwhile, Canada's quantum computing ecosystem is getting attention, with ...</description>
+      <guid isPermaLink="false">daily-quantum-20260703</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-03.mp3" length="1902240" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Jul 2026 17:10:46 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
