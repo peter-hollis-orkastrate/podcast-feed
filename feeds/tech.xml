@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 02 Jul 2026 17:10:29 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 17:10:50 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -933,6 +933,15 @@ I'm seeing people confuse the act of picking a model with getting real work done
       <guid isPermaLink="false">lq2fP7wC7d8</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-02 - choosing-ai-models-by-job.mp3" length="2005776" type="audio/mpeg"/>
       <pubDate>Thu, 02 Jul 2026 17:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - One Agent Skeleton for Everything</title>
+      <description>Every AI agent demo you've seen this year starts in the same place — email and calendar. You draft replies, schedule meetings, and I get why. It's where we spend our time. But here's the trap: we set up that agent, it kind of works, and then we're stuck. We don't know how to go from triaging daily stuff to real work — insurance, payments, healthcare — work that takes delicacy and real trust.
+
+So today I'm building one agent skeleton and running it three times. We start on email where mistakes ar...</description>
+      <guid isPermaLink="false">U4TmrlWEY4M</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-03 - one-agent-skeleton-for-everything.mp3" length="2713536" type="audio/mpeg"/>
+      <pubDate>Fri, 03 Jul 2026 17:08:13 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
