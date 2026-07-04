@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 03 Jul 2026 17:10:50 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 17:08:57 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -942,6 +942,15 @@ So today I'm building one agent skeleton and running it three times. We start on
       <guid isPermaLink="false">U4TmrlWEY4M</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-03 - one-agent-skeleton-for-everything.mp3" length="2713536" type="audio/mpeg"/>
       <pubDate>Fri, 03 Jul 2026 17:08:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Maximizing Claude 5 Token Value</title>
+      <description>If you're trying to get the most out of your Claude 5 tokens, here are three specific areas I've found worth focusing on. First, everyone's saying use Claude 5 for planning and other tools for coding — I want to go further. Claude 5 is particularly powerful at designing detailed goal harnesses for complicated coding tasks. Think of it as building a custom harness that helps your Codex 5.5 or whatever execution model actually get the work done. Claude 5 designs and builds that scaffolding.
+
+Secon...</description>
+      <guid isPermaLink="false">RtxUdvSTQGc</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-04 - maximizing-claude-5-token-value.mp3" length="950976" type="audio/mpeg"/>
+      <pubDate>Sat, 04 Jul 2026 17:06:08 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
