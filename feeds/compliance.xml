@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 17:08:58 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 17:18:37 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -724,6 +724,15 @@ The PRA has published CP7/26, its fee rates proposals for 2026/27, and the headl
       <pubDate>Wed, 01 Jul 2026 17:13:14 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - UK Regulatory Architecture Transition Update</title>
+      <description>Good morning. Today's briefing covers a notable development in the UK regulatory landscape. The new UK financial regulation architecture has now officially taken effect. While the source material is limited in detail, the headline itself carries significant implications for compliance teams across wholesale markets and Global Banking &amp; Markets divisions.
+
+The transition to the UK's post-Brexit regulatory framework represents a structural realignment in how financial services supervision operates...</description>
+      <guid isPermaLink="false">daily-compliance-20260705</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-05.mp3" length="1080720" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Jul 2026 17:10:10 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -867,6 +876,15 @@ The single most consequential development this week is the entry into force of t
       <guid isPermaLink="false">weekly-compliance-2026-06-28</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-06-28.mp3" length="2617920" type="audio/mpeg"/>
       <pubDate>Sun, 28 Jun 2026 17:15:43 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance has been defined by a single overarching theme: the UK regulatory state is simultaneously getting more expensive, more demanding, and more structurally complex, and the expectation on firms is that they keep pace on all three fronts without missing a beat.
+
+The most consequential development is the confirmation that the new UK financial regulation architecture has now officially taken effect. This is the post-Brexit structural realignment that compliance teams have been p...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-07-05</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-07-05.mp3" length="2857104" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Jul 2026 17:15:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
