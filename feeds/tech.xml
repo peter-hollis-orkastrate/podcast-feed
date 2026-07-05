@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 17:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 17:18:36 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -953,6 +953,15 @@ Secon...</description>
       <pubDate>Sat, 04 Jul 2026 17:06:08 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Imagination Is the New Bottleneck</title>
+      <description>Here's something everyone using AI is noticing at the same time. The tools keep getting better, prices keep dropping, you can produce more than ever — and yet everything's starting to feel the same. Your output, your competitors' output, half of what's in your feed. Better tools, samey results. That's not a coincidence and it's not a tooling problem. AI made execution cheap, and whenever execution gets cheap, the value doesn't disappear — it moves.
+
+Let me show you where it moved. Mitchell Hashi...</description>
+      <guid isPermaLink="false">1cSNE-ZkDLQ</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-05 - imagination-is-the-new-bottleneck.mp3" length="2695392" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Jul 2026 17:07:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -1089,6 +1098,15 @@ The week opened with a sharp reframing of what an AI agent actually is. Forget .
       <guid isPermaLink="false">weekly-tech-2026-06-28</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-06-28.mp3" length="3133872" type="audio/mpeg"/>
       <pubDate>Sun, 28 Jun 2026 17:13:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech painted a remarkably cohesive picture, even though the individual stories seemed to pull in different directions. At the center of everything was a single, evolving argument: raw AI intelligence has become abundant and cheap, so the real competition — and the real value — has moved somewhere else entirely.
+
+The week opened with a striking data point. A Chinese open-source model called GLM 5.2 is now, by one experienced builder's assessment, the best model in the world for what ...</description>
+      <guid isPermaLink="false">weekly-tech-2026-07-05</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-07-05.mp3" length="3304080" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Jul 2026 17:13:20 +0000</pubDate>
     </item>
   </channel>
 </rss>
