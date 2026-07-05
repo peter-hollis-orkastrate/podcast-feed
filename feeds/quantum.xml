@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 04 Jul 2026 17:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 17:18:37 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -890,6 +890,13 @@ Quantum Computing Inc., ticker QUBT, just completed a seventy-three-point-one mi
       <pubDate>Sat, 04 Jul 2026 17:08:54 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Valuations, Security, and Policy Shifts</title>
+      <description>The biggest story in quantum today is the tension between enormous investor enthusiasm and the stubborn reality of early-stage revenues. D-Wave Quantum, trading around $24 a share, carries a market cap of $8.4 billion — roughly 200 times this year's estimated revenue of $42.5 million. Even if the company hits next year's projected $86.1 million, that's still about 100 times revenue, placing it among the most expensive stocks on Wall Street by that metric. The valuation isn't without some justifi...</description>
+      <guid isPermaLink="false">daily-quantum-20260705</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-05.mp3" length="1681200" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Jul 2026 17:09:06 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Quantum</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-quantum-2026-03-08</guid>
@@ -1033,6 +1040,15 @@ The single most consequential development this week was President Trump signing 
       <guid isPermaLink="false">weekly-quantum-2026-06-28</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-06-28.mp3" length="4375296" type="audio/mpeg"/>
       <pubDate>Sun, 28 Jun 2026 17:19:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing tells a story of an industry caught between two gravitational forces: the accelerating momentum of real infrastructure, real deals, and real policy deadlines on one side, and the sobering arithmetic of early-stage revenues propping up multi-billion-dollar valuations on the other. That tension runs through nearly every story this week, and it's worth sitting with because it defines where quantum stands right now in mid-2026.
+
+Let's start with what's arguably the mos...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-07-05</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-07-05.mp3" length="3289248" type="audio/mpeg"/>
+      <pubDate>Sun, 05 Jul 2026 17:18:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
