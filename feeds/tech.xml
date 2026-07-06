@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 17:18:36 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 17:10:03 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -960,6 +960,13 @@ Let me show you where it moved. Mitchell Hashi...</description>
       <guid isPermaLink="false">1cSNE-ZkDLQ</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-05 - imagination-is-the-new-bottleneck.mp3" length="2695392" type="audio/mpeg"/>
       <pubDate>Sun, 05 Jul 2026 17:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - AI's New Scoreboard Beyond Models</title>
+      <description>For about two years, the AI industry ran on one question: who has the best model? That logic justified the largest capital buildout in tech history — the big five hyperscalers are on track to spend north of $600 billion on capex this year, up roughly a third, mostly on AI infrastructure. And the model race worked. It produced real capability jumps. But here's the thing about a race: when the leaders visibly change what they're competing on, the race itself is changing. And last week, for the fir...</description>
+      <guid isPermaLink="false">oOpgmS88pLw</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-06 - ais-new-scoreboard-beyond-models.mp3" length="2599056" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Jul 2026 17:07:52 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
