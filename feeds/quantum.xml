@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 05 Jul 2026 17:18:37 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 17:10:03 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -895,6 +895,13 @@ Quantum Computing Inc., ticker QUBT, just completed a seventy-three-point-one mi
       <guid isPermaLink="false">daily-quantum-20260705</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-05.mp3" length="1681200" type="audio/mpeg"/>
       <pubDate>Sun, 05 Jul 2026 17:09:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Meets Fusion and Market Volatility</title>
+      <description>The biggest quantum computing development today comes from the fusion energy frontier. Scientists from Oak Ridge National Laboratory, Cleveland Clinic, and IBM have used quantum computers to calculate nine molecular configurations of a liquid salt called FLiBe — considered a top candidate for producing tritium, the extremely rare fuel that fusion reactors need to operate. Tritium production is one of the central challenges identified by the Department of Energy's Genesis Mission, and FLiBe's con...</description>
+      <guid isPermaLink="false">daily-quantum-20260706</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-06.mp3" length="2042928" type="audio/mpeg"/>
+      <pubDate>Mon, 06 Jul 2026 17:09:59 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
