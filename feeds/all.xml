@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 07 Jul 2026 17:08:13 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 17:10:34 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1106,6 +1106,15 @@ Let me show you where it moved. Mitchell Hashi...</description>
       <guid isPermaLink="false">oOpgmS88pLw</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-06 - ais-new-scoreboard-beyond-models.mp3" length="2599056" type="audio/mpeg"/>
       <pubDate>Mon, 06 Jul 2026 17:07:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Multi-Agent Systems Beat Hallucination</title>
+      <description>The number one objection people have about AI agents is hallucination — and they're right, it happens. Yesterday, one of my agents hallucinated my wife's words while rebuilding her website. But I didn't have to catch it. My multi-agent system caught it, got it fixed, and shipped a better site in about an hour than my wife built in six days working one-on-one with Codex last month.
+
+So let me explain the setup. My wife Elsa Hunison is a deaf-blind author, a Hugo winner, subject of a PBS documenta...</description>
+      <guid isPermaLink="false">suY66oTDn0s</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-08 - multi-agent-systems-beat-hallucination.mp3" length="2701728" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Jul 2026 17:08:21 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -2728,6 +2737,13 @@ Quantum Computing Inc., ticker QUBT, just completed a seventy-three-point-one mi
       <guid isPermaLink="false">daily-quantum-20260707</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-07.mp3" length="2094912" type="audio/mpeg"/>
       <pubDate>Tue, 07 Jul 2026 17:08:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - RL Control, Quantum Networks, European HPC</title>
+      <description>The biggest quantum news today comes from a Nature publication describing a fundamentally new approach to quantum error correction. Researchers working on Google's Willow superconducting processor have demonstrated that reinforcement learning can continuously calibrate a quantum computer while it's still computing — eliminating the need to stop everything for recalibration. This matters enormously because future quantum algorithms may need to run for days or months, and current systems require p...</description>
+      <guid isPermaLink="false">daily-quantum-20260708</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-08.mp3" length="2270304" type="audio/mpeg"/>
+      <pubDate>Wed, 08 Jul 2026 17:10:30 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
