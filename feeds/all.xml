@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 08 Jul 2026 17:10:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 17:12:24 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -148,6 +148,15 @@ Behind the scenes, there's been a hollowing out of middle-paid occupations, part
       <guid isPermaLink="false">M90vYYUXTCk</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-06-25 - why-job-quality-beats-pay-alone.mp3" length="2552256" type="audio/mpeg"/>
       <pubDate>Thu, 25 Jun 2026 17:07:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Devolution's Growth Gamble</title>
+      <description>Devolution has moved right back to the center of British politics. Andy Burnham, potentially the next prime minister, has made a very ambitious case for what he calls a rewired Britain — a shift of power away from Westminster, a new Number 10 North in Manchester, more powers for local leaders. It's a striking argument that says one of the UK's big economic problems isn't just low investment or weak productivity, but the way power itself is organized.
+
+Now, devolution means different things to di...</description>
+      <guid isPermaLink="false">Z4jweYJQroA</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-07-09 - uk-devolutions-growth-gamble.mp3" length="2870496" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Jul 2026 17:08:34 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -1839,6 +1848,13 @@ The transition to the UK's post-Brexit regulatory framework represents a structu
       <pubDate>Sun, 05 Jul 2026 17:10:10 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - FCA Wholesale Markets Regulatory Priorities</title>
+      <description>Good morning. Today's briefing covers a significant development in how the FCA communicates its supervisory expectations to wholesale markets participants. The FCA has now formally moved away from its previous approach of issuing portfolio letters — which, as many of you will recall, arrived at somewhat unpredictable intervals and were directed at sometimes loosely defined sectors. In its place, the regulator has committed to a structured, annual Regulatory Priorities report across nine clearly ...</description>
+      <guid isPermaLink="false">daily-compliance-20260709</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-09.mp3" length="1303200" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Jul 2026 17:12:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -2744,6 +2760,13 @@ Quantum Computing Inc., ticker QUBT, just completed a seventy-three-point-one mi
       <guid isPermaLink="false">daily-quantum-20260708</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-08.mp3" length="2270304" type="audio/mpeg"/>
       <pubDate>Wed, 08 Jul 2026 17:10:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Threats, Crypto Defenses, and Hardware Advances</title>
+      <description>The quantum computing world is moving on several fronts today, and the most urgent story is about security. The timeline for quantum computers breaking cryptocurrency encryption has compressed dramatically. Google published research earlier this year suggesting quantum machines could crack conventional encryption as early as 2029 — that's only about three years out, down from the old estimate of roughly a decade. Citigroup reached a similar conclusion independently, noting that quantum computing...</description>
+      <guid isPermaLink="false">daily-quantum-20260709</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-09.mp3" length="2027088" type="audio/mpeg"/>
+      <pubDate>Thu, 09 Jul 2026 17:10:52 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
