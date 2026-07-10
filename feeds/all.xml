@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 17:12:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 17:09:30 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1124,6 +1124,15 @@ So let me explain the setup. My wife Elsa Hunison is a deaf-blind author, a Hugo
       <guid isPermaLink="false">suY66oTDn0s</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-08 - multi-agent-systems-beat-hallucination.mp3" length="2701728" type="audio/mpeg"/>
       <pubDate>Wed, 08 Jul 2026 17:08:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Matching Tasks to Agent Architecture</title>
+      <description>We're in a post-OpenClaw moment. 1.6 million agents registered for an agent-driven social network, and most of them never completed a single task. People set them up and didn't know what to do next. We live in a world where we can buy intelligence by the token, and nobody has instincts for how to use it. That's not a tooling problem — it's a budgeting question that didn't exist a year ago.
+
+So here's the skill nobody is teaching: how do you know when a task needs one agent, multiple agents, or n...</description>
+      <guid isPermaLink="false">PRqiGS6fnIM</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-10 - matching-tasks-to-agent-architecture.mp3" length="2673072" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Jul 2026 17:07:58 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -2767,6 +2776,13 @@ Quantum Computing Inc., ticker QUBT, just completed a seventy-three-point-one mi
       <guid isPermaLink="false">daily-quantum-20260709</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-09.mp3" length="2027088" type="audio/mpeg"/>
       <pubDate>Thu, 09 Jul 2026 17:10:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Threats Accelerate Industry Response</title>
+      <description>Today's quantum landscape is defined by two converging forces: the machines are getting closer, and the defenses are scrambling to keep up. The biggest headline is Oratomic raising $300 million to build a viable quantum computer that would need only 20,000 qubits — a dramatically lower threshold than what most roadmaps have assumed. That's a significant fundraise and a bold architectural bet that could compress timelines considerably if their approach works. Meanwhile, on the security side, QIZ ...</description>
+      <guid isPermaLink="false">daily-quantum-20260710</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-10.mp3" length="1048464" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Jul 2026 17:09:25 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
