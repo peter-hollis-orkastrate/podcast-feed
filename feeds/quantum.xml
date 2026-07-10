@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 09 Jul 2026 17:12:23 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 17:09:30 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -923,6 +923,13 @@ Quantum Computing Inc., ticker QUBT, just completed a seventy-three-point-one mi
       <guid isPermaLink="false">daily-quantum-20260709</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-09.mp3" length="2027088" type="audio/mpeg"/>
       <pubDate>Thu, 09 Jul 2026 17:10:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Threats Accelerate Industry Response</title>
+      <description>Today's quantum landscape is defined by two converging forces: the machines are getting closer, and the defenses are scrambling to keep up. The biggest headline is Oratomic raising $300 million to build a viable quantum computer that would need only 20,000 qubits — a dramatically lower threshold than what most roadmaps have assumed. That's a significant fundraise and a bold architectural bet that could compress timelines considerably if their approach works. Meanwhile, on the security side, QIZ ...</description>
+      <guid isPermaLink="false">daily-quantum-20260710</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-10.mp3" length="1048464" type="audio/mpeg"/>
+      <pubDate>Fri, 10 Jul 2026 17:09:25 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
