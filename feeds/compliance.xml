@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 17:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 17:20:31 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -749,6 +749,15 @@ Three...</description>
       <pubDate>Sat, 11 Jul 2026 17:08:51 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - SMCR 2026 Reforms and Accountability</title>
+      <description>Good morning. Today's compliance briefing centres on the Senior Managers and Certification Regime reforms rolling out through 2026, with important implications for how accountability is structured and enforced across wholesale markets operations.
+
+Let's start with what matters most for trading desks and Global Banking and Markets divisions: the FCA is increasingly wielding SMCR as an enforcement tool against individuals. Personal fines and prohibition orders are being imposed on senior managers ...</description>
+      <guid isPermaLink="false">daily-compliance-20260712</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-12.mp3" length="2076192" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Jul 2026 17:11:51 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -901,6 +910,13 @@ The most consequential development is the confirmation that the new UK financial
       <guid isPermaLink="false">weekly-compliance-2026-07-05</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-07-05.mp3" length="2857104" type="audio/mpeg"/>
       <pubDate>Sun, 05 Jul 2026 17:15:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, a clear and cohesive picture emerges from across the briefings: the UK regulatory landscape is undergoing a period of deliberate, structural transformation, and the message to firms — particularly those operating in wholesale markets and Global Banking and Markets — is that the window for passive adaptation has closed. What connects every episode this week is the simultaneous tightening of accountability expectations alongside an effort to make the regulatory framework i...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-07-12</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-07-12.mp3" length="2054736" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Jul 2026 17:16:38 +0000</pubDate>
     </item>
   </channel>
 </rss>
