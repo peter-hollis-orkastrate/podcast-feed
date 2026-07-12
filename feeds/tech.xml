@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 11 Jul 2026 17:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 17:20:31 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -987,6 +987,13 @@ So here's the skill nobody is teaching: how do you know when a task needs one ag
       <pubDate>Fri, 10 Jul 2026 17:07:58 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Replacing Roadmaps With Code-First Culture</title>
+      <description>I get asked constantly why Anthropic and OpenAI ship every week while everyone else crawls. The answer is surprisingly simple, and it's not AI. The distinguishing factor is that fast companies have moved their repeatable human coordination into code — into systems that agents can read and act on. Decisions that used to vanish inside meetings become documents. Product managers who used to direct engineers through tickets now work alongside them in the terminal. Design gets into the SDK. If every ...</description>
+      <guid isPermaLink="false">hYcOFTMesGc</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-12 - replacing-roadmaps-with-code-first-culture.mp3" length="2310480" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Jul 2026 17:07:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -1132,6 +1139,15 @@ The week opened with a striking data point. A Chinese open-source model called G
       <guid isPermaLink="false">weekly-tech-2026-07-05</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-07-05.mp3" length="3304080" type="audio/mpeg"/>
       <pubDate>Sun, 05 Jul 2026 17:13:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech, a single thread runs through every conversation: the AI industry is crossing a threshold where the technology itself is no longer the bottleneck, and the real constraints — imagination, organizational design, political permission, and cultural readiness — are rushing to the surface all at once.
+
+The week opens with a provocation that sets the tone for everything that follows. AI execution has gotten so cheap and so capable that it's converging. Budget models and frontier model...</description>
+      <guid isPermaLink="false">weekly-tech-2026-07-12</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-07-12.mp3" length="2924064" type="audio/mpeg"/>
+      <pubDate>Sun, 12 Jul 2026 17:14:40 +0000</pubDate>
     </item>
   </channel>
 </rss>
