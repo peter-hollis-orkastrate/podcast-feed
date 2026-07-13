@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 12 Jul 2026 17:20:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 17:11:23 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -948,6 +948,13 @@ The biggest science story comes from the Technical University of Denmark, where 
       <guid isPermaLink="false">daily-quantum-20260712</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-12.mp3" length="2012544" type="audio/mpeg"/>
       <pubDate>Sun, 12 Jul 2026 17:09:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Stocks Sell Off, Policy Gaps Widen</title>
+      <description>Quantum computing stocks are taking it on the chin today, and notably, there's no company-specific news behind it. This is a pure macro story. IonQ is leading the decline, down 8% to around $39.52, extending a brutal stretch that's already carried shares 31% lower over the past month. D-Wave, Rigetti, and Quantum Computing are all down about 6% in lockstep. The culprit is a broad risk-off tape driven by the Strait of Hormuz conflict, an oil price spike, and renewed anxiety around AI and semicond...</description>
+      <guid isPermaLink="false">daily-quantum-20260713</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-13.mp3" length="1857024" type="audio/mpeg"/>
+      <pubDate>Mon, 13 Jul 2026 17:09:29 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
