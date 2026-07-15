@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 17:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 17:12:34 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1001,6 +1001,15 @@ But what Soul doesn't have, for me, is that big model smell. And that tracks wit
       <guid isPermaLink="false">jOWXBzP6nNg</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-13 - choosing-ai-models-by-workflow.mp3" length="1863648" type="audio/mpeg"/>
       <pubDate>Mon, 13 Jul 2026 17:07:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Cleaning Your AI Prompt Harness</title>
+      <description>I overbuilt my harness for Fable 5 and ChatGPT 5.6 before they even came out. Every time my AI missed something, I added another rule — use these sources correctly, write in my voice, check the length, read this file first. Every rule fixed a real problem at the time, but I never saw how bloated the whole system had become.
+
+Let me define what I mean by harness, because we haven't been clear about this as a community. A harness is everything wrapped around the model — your custom instructions, p...</description>
+      <guid isPermaLink="false">PDJfciNhyHU</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-15 - cleaning-your-ai-prompt-harness.mp3" length="2296368" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Jul 2026 17:07:35 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
