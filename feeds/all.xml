@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 14 Jul 2026 17:08:57 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Jul 2026 17:12:35 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1151,6 +1151,15 @@ But what Soul doesn't have, for me, is that big model smell. And that tracks wit
       <pubDate>Mon, 13 Jul 2026 17:07:38 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Cleaning Your AI Prompt Harness</title>
+      <description>I overbuilt my harness for Fable 5 and ChatGPT 5.6 before they even came out. Every time my AI missed something, I added another rule — use these sources correctly, write in my voice, check the length, read this file first. Every rule fixed a real problem at the time, but I never saw how bloated the whole system had become.
+
+Let me define what I mean by harness, because we haven't been clear about this as a community. A harness is everything wrapped around the model — your custom instructions, p...</description>
+      <guid isPermaLink="false">PDJfciNhyHU</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-15 - cleaning-your-ai-prompt-harness.mp3" length="2296368" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Jul 2026 17:07:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1914,6 +1923,15 @@ Let's start with what matters most: market abuse enforcement. The FCA secured 17
       <guid isPermaLink="false">daily-compliance-20260714</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-14.mp3" length="2064960" type="audio/mpeg"/>
       <pubDate>Tue, 14 Jul 2026 17:08:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - SMCR Reform and Non-Financial Misconduct</title>
+      <description>Good morning. This is your compliance briefing, and there's a lot moving at once across the SMCR framework, conduct rules, and broader FCA reform agenda, so let's get into it.
+
+The headline development is the continued rollout of SMCR reform. Phase 1 changes have been landing across multiple dates this year — most took effect on 24 April, further reporting changes hit on 10 July, and the removal of overlapping certification functions from the FCA Directory is due on 30 July. The FCA has now publ...</description>
+      <guid isPermaLink="false">daily-compliance-20260715</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-15.mp3" length="2382480" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Jul 2026 17:12:30 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -2867,6 +2885,15 @@ The biggest science story comes from the Technical University of Denmark, where 
       <guid isPermaLink="false">daily-quantum-20260714</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-14.mp3" length="731952" type="audio/mpeg"/>
       <pubDate>Tue, 14 Jul 2026 17:06:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Thermodynamic Computing and Quantum Risk</title>
+      <description>The biggest story in computing today isn't quantum — it's thermodynamic. A nascent field that's been quietly developing since a 2019 conference is now producing real hardware and striking simulation results. The core idea is counterintuitive: instead of fighting thermal noise, which every conventional and quantum computer must do at great energy cost, thermodynamic computers would actually harness random fluctuations to drive computation.
+
+Patrick Coles at the startup Normal Computing describes ...</description>
+      <guid isPermaLink="false">daily-quantum-20260715</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-15.mp3" length="2139264" type="audio/mpeg"/>
+      <pubDate>Wed, 15 Jul 2026 17:10:01 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
