@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 17:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 17:13:42 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -783,6 +783,15 @@ The headline development is the continued rollout of SMCR reform. Phase 1 change
       <guid isPermaLink="false">daily-compliance-20260715</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-15.mp3" length="2382480" type="audio/mpeg"/>
       <pubDate>Wed, 15 Jul 2026 17:12:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Authorisation and Application Readiness</title>
+      <description>Today's briefing focuses on FCA authorisation standards and what they signal for compliance teams across wholesale markets and banking divisions. While much of this may seem oriented toward new entrants, the underlying themes are directly relevant to established firms managing SMCR obligations and regulatory expectations.
+
+The core message is straightforward: the FCA continues to assess firms against its threshold conditions with increasing rigour, and the most common failure points remain weak ...</description>
+      <guid isPermaLink="false">daily-compliance-20260716</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-16.mp3" length="1584000" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Jul 2026 17:13:38 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
