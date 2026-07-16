@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 17:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 17:13:42 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -971,6 +971,13 @@ Patrick Coles at the startup Normal Computing describes ...</description>
       <guid isPermaLink="false">daily-quantum-20260715</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-15.mp3" length="2139264" type="audio/mpeg"/>
       <pubDate>Wed, 15 Jul 2026 17:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - PsiQuantum Leadership, Quantum Materials, Southeast Hub</title>
+      <description>PsiQuantum has made Victor Peng its permanent CEO after he served as interim chief executive since February. Peng, who has more than four decades of experience including stints leading AMD's embedded and data center GPU businesses and serving as CEO of Xilinx before its acquisition by AMD, called building utility-scale quantum computers one of the most ambitious engineering challenges ever undertaken. Alongside his appointment, PsiQuantum brought on Rob Soderbery as executive vice president and ...</description>
+      <guid isPermaLink="false">daily-quantum-20260716</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-16.mp3" length="1549008" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Jul 2026 17:12:22 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
