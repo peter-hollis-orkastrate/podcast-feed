@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 15 Jul 2026 17:12:35 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 17:13:43 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -157,6 +157,15 @@ Now, devolution means different things to di...</description>
       <guid isPermaLink="false">Z4jweYJQroA</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-07-09 - uk-devolutions-growth-gamble.mp3" length="2870496" type="audio/mpeg"/>
       <pubDate>Thu, 09 Jul 2026 17:08:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Fiscal Constraints Under Burnham</title>
+      <description>When a big external shock hits — like energy prices surging — the nation simply becomes poorer. The government can shunt around who bears the cost, but someone still bears it. At best, those interventions are zero sum. Growth is what makes widespread improvements in living standards actually possible.
+
+So here's the landscape Andy Burnham inherits. Government debt sits at roughly 80 to 90 percent of national income, depending on how you measure it. That's about three times where it was in the ea...</description>
+      <guid isPermaLink="false">071KckSPJ28</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-07-16 - uk-fiscal-constraints-under-burnham.mp3" length="3163824" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Jul 2026 17:10:14 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -1934,6 +1943,15 @@ The headline development is the continued rollout of SMCR reform. Phase 1 change
       <pubDate>Wed, 15 Jul 2026 17:12:30 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - FCA Authorisation and Application Readiness</title>
+      <description>Today's briefing focuses on FCA authorisation standards and what they signal for compliance teams across wholesale markets and banking divisions. While much of this may seem oriented toward new entrants, the underlying themes are directly relevant to established firms managing SMCR obligations and regulatory expectations.
+
+The core message is straightforward: the FCA continues to assess firms against its threshold conditions with increasing rigour, and the most common failure points remain weak ...</description>
+      <guid isPermaLink="false">daily-compliance-20260716</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-16.mp3" length="1584000" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Jul 2026 17:13:38 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -2894,6 +2912,13 @@ Patrick Coles at the startup Normal Computing describes ...</description>
       <guid isPermaLink="false">daily-quantum-20260715</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-15.mp3" length="2139264" type="audio/mpeg"/>
       <pubDate>Wed, 15 Jul 2026 17:10:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - PsiQuantum Leadership, Quantum Materials, Southeast Hub</title>
+      <description>PsiQuantum has made Victor Peng its permanent CEO after he served as interim chief executive since February. Peng, who has more than four decades of experience including stints leading AMD's embedded and data center GPU businesses and serving as CEO of Xilinx before its acquisition by AMD, called building utility-scale quantum computers one of the most ambitious engineering challenges ever undertaken. Alongside his appointment, PsiQuantum brought on Rob Soderbery as executive vice president and ...</description>
+      <guid isPermaLink="false">daily-quantum-20260716</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-16.mp3" length="1549008" type="audio/mpeg"/>
+      <pubDate>Thu, 16 Jul 2026 17:12:22 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
