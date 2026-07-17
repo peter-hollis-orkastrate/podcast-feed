@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 17:13:43 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 17:10:44 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1169,6 +1169,17 @@ Let me define what I mean by harness, because we haven't been clear about this a
       <pubDate>Wed, 15 Jul 2026 17:07:35 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - AI Agents That Pick Problems</title>
+      <description>Here's what I did: I gave both Codex and Fable a completely open-ended challenge. I said, look at all of my local files, my Slacks, anything that describes my business process. You have to come back with a problem definition, a solution, and an automation. You pick the problem. That's the 2026 shift—you don't just ask AI to pick the prompt or the tool, you ask it to pick the problem.
+
+Codex and Fable picked different pain points, and that's where it gets interesting.
+
+Codex pros first. I love th...</description>
+      <guid isPermaLink="false">uCWKXIyvM_8</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-17 - ai-agents-that-pick-problems.mp3" length="1812528" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jul 2026 17:06:56 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1950,6 +1961,15 @@ The core message is straightforward: the FCA continues to assess firms against i
       <guid isPermaLink="false">daily-compliance-20260716</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-16.mp3" length="1584000" type="audio/mpeg"/>
       <pubDate>Thu, 16 Jul 2026 17:13:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - PRA Final Rules and Supervision Priorities</title>
+      <description>Good morning. Today's briefing focuses on a significant wave of final policy statements and supervisory priority letters from the PRA that compliance teams across wholesale markets and Global Banking &amp; Markets divisions need to be across immediately.
+
+The headline development is the publication of PS1/26, the final rules on Basel 3.1 implementation in the UK. This is the culmination of years of consultation and represents a fundamental shift in how capital requirements will be calculated. If you...</description>
+      <guid isPermaLink="false">daily-compliance-20260717</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-17.mp3" length="1912608" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jul 2026 17:10:39 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -2919,6 +2939,15 @@ Patrick Coles at the startup Normal Computing describes ...</description>
       <guid isPermaLink="false">daily-quantum-20260716</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-16.mp3" length="1549008" type="audio/mpeg"/>
       <pubDate>Thu, 16 Jul 2026 17:12:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Stocks and Education Push</title>
+      <description>Two big themes are shaping the quantum computing landscape right now: a major policy and investment catalyst for publicly traded quantum companies, and a grassroots push to build the workforce that will actually run this technology.
+
+Starting with the investment picture — five pure-play quantum computing stocks that have lagged the broader Wall Street rally this year are now drawing attention for significant upside potential in the second half of 2026. The catalyst is a set of executive orders i...</description>
+      <guid isPermaLink="false">daily-quantum-20260717</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-17.mp3" length="1939680" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jul 2026 17:08:57 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
