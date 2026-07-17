@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 17:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 17:10:44 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -792,6 +792,15 @@ The core message is straightforward: the FCA continues to assess firms against i
       <guid isPermaLink="false">daily-compliance-20260716</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-16.mp3" length="1584000" type="audio/mpeg"/>
       <pubDate>Thu, 16 Jul 2026 17:13:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - PRA Final Rules and Supervision Priorities</title>
+      <description>Good morning. Today's briefing focuses on a significant wave of final policy statements and supervisory priority letters from the PRA that compliance teams across wholesale markets and Global Banking &amp; Markets divisions need to be across immediately.
+
+The headline development is the publication of PS1/26, the final rules on Basel 3.1 implementation in the UK. This is the culmination of years of consultation and represents a fundamental shift in how capital requirements will be calculated. If you...</description>
+      <guid isPermaLink="false">daily-compliance-20260717</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-17.mp3" length="1912608" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jul 2026 17:10:39 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
