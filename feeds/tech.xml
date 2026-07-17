@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 16 Jul 2026 17:13:42 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 17:10:44 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1010,6 +1010,17 @@ Let me define what I mean by harness, because we haven't been clear about this a
       <guid isPermaLink="false">PDJfciNhyHU</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-15 - cleaning-your-ai-prompt-harness.mp3" length="2296368" type="audio/mpeg"/>
       <pubDate>Wed, 15 Jul 2026 17:07:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - AI Agents That Pick Problems</title>
+      <description>Here's what I did: I gave both Codex and Fable a completely open-ended challenge. I said, look at all of my local files, my Slacks, anything that describes my business process. You have to come back with a problem definition, a solution, and an automation. You pick the problem. That's the 2026 shift—you don't just ask AI to pick the prompt or the tool, you ask it to pick the problem.
+
+Codex and Fable picked different pain points, and that's where it gets interesting.
+
+Codex pros first. I love th...</description>
+      <guid isPermaLink="false">uCWKXIyvM_8</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-17 - ai-agents-that-pick-problems.mp3" length="1812528" type="audio/mpeg"/>
+      <pubDate>Fri, 17 Jul 2026 17:06:56 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
