@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 17 Jul 2026 17:10:44 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 17:09:43 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1972,6 +1972,15 @@ The headline development is the publication of PS1/26, the final rules on Basel 
       <pubDate>Fri, 17 Jul 2026 17:10:39 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - Regulatory Recalibration and MAR Disclosure Updates</title>
+      <description>Good morning. Two developments worth your attention today, both with practical implications for wholesale markets compliance and senior manager accountability.
+
+First, the big picture on UK regulatory posture. The FCA and PRA are undergoing what can fairly be described as a strategic recalibration. Both regulators faced almost unprecedented criticism from government through 2025, with sustained pressure to align more closely with the growth agenda. This is not abstract. It is already reshaping s...</description>
+      <guid isPermaLink="false">daily-compliance-20260718</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-18.mp3" length="1627920" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Jul 2026 17:09:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -2948,6 +2957,15 @@ Starting with the investment picture — five pure-play quantum computing stocks
       <guid isPermaLink="false">daily-quantum-20260717</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-17.mp3" length="1939680" type="audio/mpeg"/>
       <pubDate>Fri, 17 Jul 2026 17:08:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Computing's Pivotal 2026 Moment</title>
+      <description>The quantum computing landscape in 2026 is defined by a striking tension: the technology is making genuine leaps toward practical reality, yet the business of quantum remains brutally challenging for most pure-play companies.
+
+Let's start with the technical breakthroughs. Stanford researchers have demonstrated a prototype quantum computer that operates at room temperature — a development that could fundamentally change the accessibility equation, since quantum machines have historically required...</description>
+      <guid isPermaLink="false">daily-quantum-20260718</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-18.mp3" length="2590128" type="audio/mpeg"/>
+      <pubDate>Sat, 18 Jul 2026 17:07:56 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
