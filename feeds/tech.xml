@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 17:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 17:21:56 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1023,6 +1023,15 @@ Codex pros first. I love th...</description>
       <pubDate>Fri, 17 Jul 2026 17:06:56 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Local AI for Confidential Documents</title>
+      <description>The laptop I'm about to show you has no internet connection, but it still has AI. A downloaded model just read a contract, found private material that should never touch a cloud AI, masked all of it, and refused to call an unreadable section safe. I want to show you why this matters and why Microsoft thinks this small idea becomes an enormous business.
+
+The core problem is simple. You have a contract, a Word doc, a customer file you want AI to help with, and you stop — because you don't know whe...</description>
+      <guid isPermaLink="false">5slsNizN6MQ</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-19 - local-ai-for-confidential-documents.mp3" length="2195712" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 17:07:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -1177,6 +1186,15 @@ The week opens with a provocation that sets the tone for everything that follows
       <guid isPermaLink="false">weekly-tech-2026-07-12</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-07-12.mp3" length="2924064" type="audio/mpeg"/>
       <pubDate>Sun, 12 Jul 2026 17:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech offered a remarkably cohesive set of conversations, all circling a single deeper question: now that AI can do nearly anything, what actually matters about how we organize ourselves, choose our tools, and protect what's ours?
+
+The week opened with a provocative argument about organizational culture. The case was made that the companies shipping fastest — the Anthropics and OpenAIs of the world — aren't moving quickly because of any particular model advantage. They're fast becaus...</description>
+      <guid isPermaLink="false">weekly-tech-2026-07-19</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-07-19.mp3" length="2777904" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 17:13:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
