@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 17:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 17:21:57 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1180,6 +1180,15 @@ Codex pros first. I love th...</description>
       <pubDate>Fri, 17 Jul 2026 17:06:56 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Local AI for Confidential Documents</title>
+      <description>The laptop I'm about to show you has no internet connection, but it still has AI. A downloaded model just read a contract, found private material that should never touch a cloud AI, masked all of it, and refused to call an unreadable section safe. I want to show you why this matters and why Microsoft thinks this small idea becomes an enormous business.
+
+The core problem is simple. You have a contract, a Word doc, a customer file you want AI to help with, and you stop — because you don't know whe...</description>
+      <guid isPermaLink="false">5slsNizN6MQ</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-19 - local-ai-for-confidential-documents.mp3" length="2195712" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 17:07:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -1979,6 +1988,15 @@ First, the big picture on UK regulatory posture. The FCA and PRA are undergoing 
       <guid isPermaLink="false">daily-compliance-20260718</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-18.mp3" length="1627920" type="audio/mpeg"/>
       <pubDate>Sat, 18 Jul 2026 17:09:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - UK CCI Disclosure Framework Transition</title>
+      <description>Today's update centres on the FCA's finalised Consumer Composite Investments framework — the CCI rules — which will reshape how investment product disclosures are made to UK retail investors, effectively marking the end of the existing UCITS and PRIIPs disclosure regimes in the UK.
+
+For compliance teams, particularly those supporting asset management and distribution businesses within Global Banking and Markets divisions, this is a significant transition with a hard deadline of 8 June 2027. That...</description>
+      <guid isPermaLink="false">daily-compliance-20260719</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-19.mp3" length="1250352" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 17:10:53 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -2968,6 +2986,13 @@ Let's start with the technical breakthroughs. Stanford researchers have demonstr
       <pubDate>Sat, 18 Jul 2026 17:07:56 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Hardware and Security Boundaries</title>
+      <description>Let's start with a significant experimental breakthrough. Researchers at Aalto University in Finland have built the world's first cyclic quantum heat engine inside a superconducting circuit, published in Nature Communications. The device uses a transmon qubit as its working substance, driving it through a quantum Otto cycle — the same thermodynamic principle behind gasoline engines, but operating near absolute zero. The team used a quantum circuit refrigerator that could both heat and cool the q...</description>
+      <guid isPermaLink="false">daily-quantum-20260719</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-19.mp3" length="2561184" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 17:09:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -3127,6 +3152,15 @@ The most consequential development is the confirmation that the new UK financial
       <guid isPermaLink="false">weekly-compliance-2026-07-12</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-07-12.mp3" length="2054736" type="audio/mpeg"/>
       <pubDate>Sun, 12 Jul 2026 17:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance has been defined by a single, unmistakable current running through nearly every development: the UK regulatory landscape is being fundamentally restructured, and while the architecture is becoming less prescriptive, the accountability demands on individuals and firms are intensifying, not retreating.
+
+The dominant story of the week is the Senior Managers and Certification Regime. SMCR came up in virtually every briefing, not as a sidebar but as the central organizing prin...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-07-19</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-07-19.mp3" length="3110400" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 17:17:30 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
@@ -3290,6 +3324,15 @@ Let's start with what's arguably the mos...</description>
       <pubDate>Sun, 12 Jul 2026 17:20:30 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing tells a story of a field caught between genuine scientific progress and the harsh realities of building an industry around technology that hasn't yet fully arrived. Several threads weave together across the week's developments, and the picture that emerges is more nuanced and more interesting than any single headline suggests.
+
+The most striking theme is the growing evidence that quantum computing is producing real, measurable results in the physical world, even as...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-07-19</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-07-19.mp3" length="4678704" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 17:21:55 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -3444,6 +3487,15 @@ The week opens with a provocation that sets the tone for everything that follows
       <guid isPermaLink="false">weekly-tech-2026-07-12</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-07-12.mp3" length="2924064" type="audio/mpeg"/>
       <pubDate>Sun, 12 Jul 2026 17:14:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech offered a remarkably cohesive set of conversations, all circling a single deeper question: now that AI can do nearly anything, what actually matters about how we organize ourselves, choose our tools, and protect what's ours?
+
+The week opened with a provocative argument about organizational culture. The case was made that the companies shipping fastest — the Anthropics and OpenAIs of the world — aren't moving quickly because of any particular model advantage. They're fast becaus...</description>
+      <guid isPermaLink="false">weekly-tech-2026-07-19</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-07-19.mp3" length="2777904" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 17:13:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
