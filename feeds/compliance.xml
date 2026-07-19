@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 18 Jul 2026 17:09:43 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 19 Jul 2026 17:21:57 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -812,6 +812,15 @@ First, the big picture on UK regulatory posture. The FCA and PRA are undergoing 
       <pubDate>Sat, 18 Jul 2026 17:09:37 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - UK CCI Disclosure Framework Transition</title>
+      <description>Today's update centres on the FCA's finalised Consumer Composite Investments framework — the CCI rules — which will reshape how investment product disclosures are made to UK retail investors, effectively marking the end of the existing UCITS and PRIIPs disclosure regimes in the UK.
+
+For compliance teams, particularly those supporting asset management and distribution businesses within Global Banking and Markets divisions, this is a significant transition with a hard deadline of 8 June 2027. That...</description>
+      <guid isPermaLink="false">daily-compliance-20260719</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-19.mp3" length="1250352" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 17:10:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -971,6 +980,15 @@ The most consequential development is the confirmation that the new UK financial
       <guid isPermaLink="false">weekly-compliance-2026-07-12</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-07-12.mp3" length="2054736" type="audio/mpeg"/>
       <pubDate>Sun, 12 Jul 2026 17:16:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance has been defined by a single, unmistakable current running through nearly every development: the UK regulatory landscape is being fundamentally restructured, and while the architecture is becoming less prescriptive, the accountability demands on individuals and firms are intensifying, not retreating.
+
+The dominant story of the week is the Senior Managers and Certification Regime. SMCR came up in virtually every briefing, not as a sidebar but as the central organizing prin...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-07-19</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-07-19.mp3" length="3110400" type="audio/mpeg"/>
+      <pubDate>Sun, 19 Jul 2026 17:17:30 +0000</pubDate>
     </item>
   </channel>
 </rss>
