@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 19 Jul 2026 17:21:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 17:12:02 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1030,6 +1030,15 @@ The core problem is simple. You have a contract, a Word doc, a customer file you
       <guid isPermaLink="false">5slsNizN6MQ</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-19 - local-ai-for-confidential-documents.mp3" length="2195712" type="audio/mpeg"/>
       <pubDate>Sun, 19 Jul 2026 17:07:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Open Source AI's Efficiency Myth</title>
+      <description>Kimi K3 is a brand new model from Moonshot, with open weights dropping July 27th. The reason you should care is that it breaks the traditional open-source narrative in important ways. Open source has always meant cheap and efficient to run. Kimi K3 is neither.
+
+At top performance, you need 64 accelerator cores. Almost nobody has that at home — that's a corporate installation footprint. You do get near-frontier coding performance for it, close to Claude 3.5 Sonnet, though it falls off in other ar...</description>
+      <guid isPermaLink="false">2ZpZhsjoUK4</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-20 - open-source-ais-efficiency-myth.mp3" length="2266272" type="audio/mpeg"/>
+      <pubDate>Mon, 20 Jul 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
