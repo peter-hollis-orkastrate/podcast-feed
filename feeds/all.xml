@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 20 Jul 2026 17:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 17:07:49 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -2008,6 +2008,13 @@ For compliance teams, particularly those supporting asset management and distrib
       <pubDate>Sun, 19 Jul 2026 17:10:53 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - Closed Period Dealing Under UK MAR</title>
+      <description>Today's item of note for compliance teams involves a practical illustration of UK Market Abuse Regulation closed period procedures. Temple Bar Investment Trust, managed by Frostrow Capital, issued a confirmation on 17 July 2026 that it is not prohibited from dealing in its own securities during the closed period ahead of its half-year results for the period ended 30 June 2026. The company made three specific confirmations: first, that all inside information held by the directors and the company ...</description>
+      <guid isPermaLink="false">daily-compliance-20260721</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-21.mp3" length="1136304" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Jul 2026 17:07:44 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -3007,6 +3014,13 @@ Let's start with the technical breakthroughs. Stanford researchers have demonstr
       <guid isPermaLink="false">daily-quantum-20260720</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-20.mp3" length="3521952" type="audio/mpeg"/>
       <pubDate>Mon, 20 Jul 2026 17:11:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Error Correction and Military Applications</title>
+      <description>The biggest development today is on the fault-tolerant quantum computing front. Rice University has officially joined the U.S. Department of Energy's Quantum Science Center, the national hub headquartered at Oak Ridge National Laboratory that's tasked with building the first fault-tolerant ecosystem for hybrid quantum-high-performance computing. Assistant professor Tirthak Patel will lead Rice's contribution, focusing on quantum error-correction decoding methods — one of the hardest unsolved pro...</description>
+      <guid isPermaLink="false">daily-quantum-20260721</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-21.mp3" length="1245456" type="audio/mpeg"/>
+      <pubDate>Tue, 21 Jul 2026 17:06:38 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
