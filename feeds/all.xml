@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 17:07:49 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 17:11:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1198,6 +1198,15 @@ At top performance, you need 64 accelerator cores. Almost nobody has that at hom
       <pubDate>Mon, 20 Jul 2026 17:08:03 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Defending the Public Square from AI Slop</title>
+      <description>Chris Best, co-founder and CEO of Substack, sees AI slop as the fundamental foil to what Substack exists to do — help people make things they believe in and earn a living doing it. Slop, broadly defined, is content nobody believes in, ranging from spam to clickbait to soulless Claude copy-paste. And the scale of the problem is staggering: Pangram's analysis found roughly 40% of long-form writing on LinkedIn is fully AI-generated.
+
+The critical distinction isn't about what tools people use. It's ...</description>
+      <guid isPermaLink="false">m_ZyTNmCDeY</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-22 - defending-the-public-square-from-ai-slop.mp3" length="2197728" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Jul 2026 17:07:43 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -2013,6 +2022,13 @@ For compliance teams, particularly those supporting asset management and distrib
       <guid isPermaLink="false">daily-compliance-20260721</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-21.mp3" length="1136304" type="audio/mpeg"/>
       <pubDate>Tue, 21 Jul 2026 17:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Certification Regime Update Confirmed</title>
+      <description>Good morning. Today's compliance briefing is brief but notable. The FCA has confirmed it is proceeding with an update to the Certification Regime under the Senior Managers and Certification Regime framework. While the substantive detail of the announcement is limited at this stage — the source confirms the direction of travel rather than laying out chapter and verse — the signal itself matters. Any changes to the Certification Regime have direct implications for how firms identify, assess, and c...</description>
+      <guid isPermaLink="false">daily-compliance-20260722</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-22.mp3" length="930816" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Jul 2026 17:11:22 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -3021,6 +3037,15 @@ Let's start with the technical breakthroughs. Stanford researchers have demonstr
       <guid isPermaLink="false">daily-quantum-20260721</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-21.mp3" length="1245456" type="audio/mpeg"/>
       <pubDate>Tue, 21 Jul 2026 17:06:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Illinois Emerges as Quantum Capital</title>
+      <description>Chicago is rapidly consolidating its position as the epicenter of America's quantum ecosystem, and today's news makes that case emphatically. A cluster of announcements from the second annual Global Quantum Forum paints a picture of an industry that's building not just computers, but an entire supply chain and application stack in one geographic corridor.
+
+The headline development is Infleqtion announcing it will deploy a fault-tolerant neutral-atom quantum computer at the Illinois Quantum and M...</description>
+      <guid isPermaLink="false">daily-quantum-20260722</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-22.mp3" length="2109024" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Jul 2026 17:10:06 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
