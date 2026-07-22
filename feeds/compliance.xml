@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 17:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 17:11:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -826,6 +826,13 @@ For compliance teams, particularly those supporting asset management and distrib
       <guid isPermaLink="false">daily-compliance-20260721</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-21.mp3" length="1136304" type="audio/mpeg"/>
       <pubDate>Tue, 21 Jul 2026 17:07:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Certification Regime Update Confirmed</title>
+      <description>Good morning. Today's compliance briefing is brief but notable. The FCA has confirmed it is proceeding with an update to the Certification Regime under the Senior Managers and Certification Regime framework. While the substantive detail of the announcement is limited at this stage — the source confirms the direction of travel rather than laying out chapter and verse — the signal itself matters. Any changes to the Certification Regime have direct implications for how firms identify, assess, and c...</description>
+      <guid isPermaLink="false">daily-compliance-20260722</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-22.mp3" length="930816" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Jul 2026 17:11:22 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
