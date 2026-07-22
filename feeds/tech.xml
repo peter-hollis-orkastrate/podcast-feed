@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 21 Jul 2026 17:07:48 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 22 Jul 2026 17:11:29 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1039,6 +1039,15 @@ At top performance, you need 64 accelerator cores. Almost nobody has that at hom
       <guid isPermaLink="false">2ZpZhsjoUK4</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-20 - open-source-ais-efficiency-myth.mp3" length="2266272" type="audio/mpeg"/>
       <pubDate>Mon, 20 Jul 2026 17:08:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Defending the Public Square from AI Slop</title>
+      <description>Chris Best, co-founder and CEO of Substack, sees AI slop as the fundamental foil to what Substack exists to do — help people make things they believe in and earn a living doing it. Slop, broadly defined, is content nobody believes in, ranging from spam to clickbait to soulless Claude copy-paste. And the scale of the problem is staggering: Pangram's analysis found roughly 40% of long-form writing on LinkedIn is fully AI-generated.
+
+The critical distinction isn't about what tools people use. It's ...</description>
+      <guid isPermaLink="false">m_ZyTNmCDeY</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-22 - defending-the-public-square-from-ai-slop.mp3" length="2197728" type="audio/mpeg"/>
+      <pubDate>Wed, 22 Jul 2026 17:07:43 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
