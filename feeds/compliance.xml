@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 24 Jul 2026 17:17:21 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 17:08:44 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -833,6 +833,15 @@ For compliance teams, particularly those supporting asset management and distrib
       <guid isPermaLink="false">daily-compliance-20260722</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-22.mp3" length="930816" type="audio/mpeg"/>
       <pubDate>Wed, 22 Jul 2026 17:11:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Regulatory Initiatives Grid Key Updates</title>
+      <description>The latest Regulatory Initiatives Grid has just dropped, updated from the April 2025 iteration, and while there are no blockbuster new initiatives, there are several developments that wholesale markets and banking compliance teams need to track carefully.
+
+Let's start with the one that matters most to senior managers and compliance officers directly: SM&amp;CR reforms. The FCA and PRA are targeting a 50 percent reduction in regulatory burden, with the first phase going live mid-2026. But let me be c...</description>
+      <guid isPermaLink="false">daily-compliance-20260725</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-25.mp3" length="1562400" type="audio/mpeg"/>
+      <pubDate>Sat, 25 Jul 2026 17:08:38 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
