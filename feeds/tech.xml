@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 17:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 17:21:31 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1066,6 +1066,15 @@ Most privacy advice stops too soon. It says don't paste sensitive information in
       <pubDate>Fri, 24 Jul 2026 17:08:16 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Root-Cause Support Automation With AI</title>
+      <description>In the last couple of weeks, we fixed 51 out of 52 customer support issues at my company using AI. And I want to show you how, because the principles apply to any repetitive process.
+
+Our biggest problem looked almost stupidly small — people couldn't get into our Slack community. Some never received the invitation, some got expired links, some used one email to pay and another to join. But the real insight wasn't the problem itself. It was all the hidden work behind each ticket: finding the emai...</description>
+      <guid isPermaLink="false">7pqRRxrdr0c</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-26 - root-cause-support-automation-with-ai.mp3" length="2677392" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Jul 2026 17:08:08 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -1229,6 +1238,15 @@ The week opened with a provocative argument about organizational culture. The ca
       <guid isPermaLink="false">weekly-tech-2026-07-19</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-07-19.mp3" length="2777904" type="audio/mpeg"/>
       <pubDate>Sun, 19 Jul 2026 17:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech traced a single thread from multiple angles: the growing tension between AI's extraordinary usefulness and the very real boundaries we need to draw around it — boundaries of privacy, of trust, of containment, and of authenticity.
+
+The most prominent theme was the question of where your data goes once AI enters the picture. Two episodes tackled this directly. The first walked through running a language model on a laptop with no internet connection, scanning a contract full of se...</description>
+      <guid isPermaLink="false">weekly-tech-2026-07-26</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-07-26.mp3" length="3732768" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Jul 2026 17:14:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
