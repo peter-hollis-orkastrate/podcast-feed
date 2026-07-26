@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 25 Jul 2026 17:08:44 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 17:21:32 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1221,6 +1221,15 @@ Most privacy advice stops too soon. It says don't paste sensitive information in
       <guid isPermaLink="false">EuVvLwWZ5wc</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-24 - ai-privacy-as-a-workflow-problem.mp3" length="2776032" type="audio/mpeg"/>
       <pubDate>Fri, 24 Jul 2026 17:08:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Root-Cause Support Automation With AI</title>
+      <description>In the last couple of weeks, we fixed 51 out of 52 customer support issues at my company using AI. And I want to show you how, because the principles apply to any repetitive process.
+
+Our biggest problem looked almost stupidly small — people couldn't get into our Slack community. Some never received the invitation, some got expired links, some used one email to pay and another to join. But the real insight wasn't the problem itself. It was all the hidden work behind each ticket: finding the emai...</description>
+      <guid isPermaLink="false">7pqRRxrdr0c</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-26 - root-cause-support-automation-with-ai.mp3" length="2677392" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Jul 2026 17:08:08 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -3096,6 +3105,13 @@ Let's start with a significant scientific milestone. Physicists at the Institute
       <pubDate>Sat, 25 Jul 2026 17:07:16 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Infrastructure, Investment, and Workforce</title>
+      <description>Today's quantum computing landscape spans investment strategy, geopolitical positioning, and workforce development across multiple continents. Let's start with the money side. The quantum computing industry is projected to grow from about one billion dollars today to four-point-four billion by 2028, according to McKinsey, and the big question for investors is which tech giants are best positioned as upstream suppliers. Nvidia stands out as the most hardware-agnostic play. It doesn't build quantu...</description>
+      <guid isPermaLink="false">daily-quantum-20260726</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-26.mp3" length="2204640" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Jul 2026 17:10:35 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -3264,6 +3280,15 @@ The dominant story of the week is the Senior Managers and Certification Regime. 
       <guid isPermaLink="false">weekly-compliance-2026-07-19</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-07-19.mp3" length="3110400" type="audio/mpeg"/>
       <pubDate>Sun, 19 Jul 2026 17:17:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, a clear picture emerges of a UK regulatory landscape that is simultaneously simplifying its frameworks and raising the bar on execution — a combination that demands careful attention from compliance teams across banking and markets.
+
+The dominant theme running through this week is regulatory transition at scale. The most detailed example came early in the week with the FCA's finalised Consumer Composite Investments framework, the CCI rules, which will replace the existin...</description>
+      <guid isPermaLink="false">weekly-compliance-2026-07-26</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-07-26.mp3" length="2077344" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Jul 2026 17:17:13 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
@@ -3436,6 +3461,15 @@ The most striking theme is the growing evidence that quantum computing is produc
       <pubDate>Sun, 19 Jul 2026 17:21:55 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing, one overarching theme dominates everything else: the field is no longer a laboratory curiosity waiting for its moment. It is crossing into the realm of strategic infrastructure, and governments, corporations, and investors around the world are racing to position themselves before the window of opportunity narrows.
+
+The most consequential thread running through the entire week is the extraordinary acceleration of government commitment. The Trump administration issu...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-07-26</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-07-26.mp3" length="4003632" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Jul 2026 17:21:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -3599,6 +3633,15 @@ The week opened with a provocative argument about organizational culture. The ca
       <guid isPermaLink="false">weekly-tech-2026-07-19</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-07-19.mp3" length="2777904" type="audio/mpeg"/>
       <pubDate>Sun, 19 Jul 2026 17:13:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech traced a single thread from multiple angles: the growing tension between AI's extraordinary usefulness and the very real boundaries we need to draw around it — boundaries of privacy, of trust, of containment, and of authenticity.
+
+The most prominent theme was the question of where your data goes once AI enters the picture. Two episodes tackled this directly. The first walked through running a language model on a laptop with no internet connection, scanning a contract full of se...</description>
+      <guid isPermaLink="false">weekly-tech-2026-07-26</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-07-26.mp3" length="3732768" type="audio/mpeg"/>
+      <pubDate>Sun, 26 Jul 2026 17:14:44 +0000</pubDate>
     </item>
   </channel>
 </rss>
