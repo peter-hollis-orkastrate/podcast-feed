@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 17:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 17:12:03 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1073,6 +1073,15 @@ Our biggest problem looked almost stupidly small — people couldn't get into ou
       <guid isPermaLink="false">7pqRRxrdr0c</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-26 - root-cause-support-automation-with-ai.mp3" length="2677392" type="audio/mpeg"/>
       <pubDate>Sun, 26 Jul 2026 17:08:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Chinese AI Models: Practical Evaluation Guide</title>
+      <description>My answer up front is yes — serious AI users should test Chinese models. But you need to stop using 'Chinese models' as shorthand for cheap, open, or local. Sometimes all three are true, sometimes none of them are.
+
+Consider what's actually out there. DeepSeek is pursuing extreme inference economics at 87 cents per million output tokens. Qwen is a broad family running from genuinely small open models to a closed hosted Max line. Z.ai's GLM 5.2 is MIT licensed and very strong on long-horizon codi...</description>
+      <guid isPermaLink="false">JBzz53HqMEs</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-27 - chinese-ai-models-practical-evaluation-guide.mp3" length="2695968" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jul 2026 17:07:30 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
