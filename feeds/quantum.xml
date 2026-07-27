@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 26 Jul 2026 17:21:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 17:12:04 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1056,6 +1056,13 @@ Let's start with a significant scientific milestone. Physicists at the Institute
       <guid isPermaLink="false">daily-quantum-20260726</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-26.mp3" length="2204640" type="audio/mpeg"/>
       <pubDate>Sun, 26 Jul 2026 17:10:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Readiness and Automated Calibration</title>
+      <description>Two major threads in quantum computing today — one on the hardware and software side, and one on the institutional readiness front. Starting with the bigger story: NVIDIA has announced NVIDIA Ising, a system that enables fully automated calibration of quantum computers using agentic AI with enhanced in-context learning. This is significant because calibration has traditionally been one of the most labor-intensive and error-prone aspects of operating quantum hardware. Automating it with generativ...</description>
+      <guid isPermaLink="false">daily-quantum-20260727</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-27.mp3" length="1227888" type="audio/mpeg"/>
+      <pubDate>Mon, 27 Jul 2026 17:09:11 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
