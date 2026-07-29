@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 27 Jul 2026 17:12:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 17:12:18 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1082,6 +1082,15 @@ Consider what's actually out there. DeepSeek is pursuing extreme inference econo
       <guid isPermaLink="false">JBzz53HqMEs</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-27 - chinese-ai-models-practical-evaluation-guide.mp3" length="2695968" type="audio/mpeg"/>
       <pubDate>Mon, 27 Jul 2026 17:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Minimizing AI Token Waste</title>
+      <description>Here's the core idea everything comes back to: the message you typed is the tiniest part of what actually gets sent. On one working day, my tracker recorded 3.77 billion tokens moving through my Codex workspace. Of that, 3.59 billion — almost 96% — were reused input. That was 143 separate threads in one day. I pushed hard, but I did not type 3.77 billion tokens, and neither did you.
+
+The way LLMs work, every time you hit enter, the entire conversation gets wrapped up and sent again from the top....</description>
+      <guid isPermaLink="false">Y8vAQ1FgNbM</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-29 - minimizing-ai-token-waste.mp3" length="2226672" type="audio/mpeg"/>
+      <pubDate>Wed, 29 Jul 2026 17:07:25 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
