@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 29 Jul 2026 17:12:18 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 17:10:54 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1070,6 +1070,15 @@ Let's start with a significant scientific milestone. Physicists at the Institute
       <guid isPermaLink="false">daily-quantum-20260729</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-29.mp3" length="2237040" type="audio/mpeg"/>
       <pubDate>Wed, 29 Jul 2026 17:10:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Progress Amid Market Pullback</title>
+      <description>There's a notable disconnect right now between what's happening in quantum computing labs and what's happening in quantum computing stocks. Let's start with the science, because that's where the real action is.
+
+IBM has been busy on multiple fronts. Together with Algorithmiq, they've developed a framework for verifying quantum computations that go beyond what classical computers can check — a crucial step as quantum machines push past the simulability frontier. Separately, IBM and Qedma demonstr...</description>
+      <guid isPermaLink="false">daily-quantum-20260730</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-30.mp3" length="1641024" type="audio/mpeg"/>
+      <pubDate>Thu, 30 Jul 2026 17:07:32 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
