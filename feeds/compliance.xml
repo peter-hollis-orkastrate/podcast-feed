@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 17:10:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 17:08:34 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -869,6 +869,13 @@ Let's start with the more consequential item. A detailed new analysis from Alexa
       <guid isPermaLink="false">daily-compliance-20260730</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-30.mp3" length="2574288" type="audio/mpeg"/>
       <pubDate>Thu, 30 Jul 2026 17:10:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - PRA Regulatory Framework Background Overview</title>
+      <description>Today's briefing covers foundational context on the Prudential Regulation Authority that compliance teams should keep front of mind. The PRA, which replaced the FSA alongside the FCA back in April 2013, sits within the Bank of England and operates as a quasi-governmental body — operationally independent of the UK Government. Sam Woods remains at the helm as CEO and Deputy Governor for Prudential Regulation, a position he's held since 2016, with the most significant supervisory decisions taken by...</description>
+      <guid isPermaLink="false">daily-compliance-20260731</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-31.mp3" length="1204272" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Jul 2026 17:08:30 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
