@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 30 Jul 2026 17:10:54 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 17:08:34 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -2110,6 +2110,13 @@ Let's start with the more consequential item. A detailed new analysis from Alexa
       <pubDate>Thu, 30 Jul 2026 17:10:49 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - PRA Regulatory Framework Background Overview</title>
+      <description>Today's briefing covers foundational context on the Prudential Regulation Authority that compliance teams should keep front of mind. The PRA, which replaced the FSA alongside the FCA back in April 2013, sits within the Bank of England and operates as a quasi-governmental body — operationally independent of the UK Government. Sam Woods remains at the helm as CEO and Deputy Governor for Prudential Regulation, a position he's held since 2016, with the most significant supervisory decisions taken by...</description>
+      <guid isPermaLink="false">daily-compliance-20260731</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-31.mp3" length="1204272" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Jul 2026 17:08:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -3178,6 +3185,15 @@ IBM has been busy on multiple fronts. Together with Algorithmiq, they've develop
       <guid isPermaLink="false">daily-quantum-20260730</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-30.mp3" length="1641024" type="audio/mpeg"/>
       <pubDate>Thu, 30 Jul 2026 17:07:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Revenue, Research, and Cybersecurity</title>
+      <description>Today in quantum computing, we're seeing activity across research, cybersecurity applications, and the investment landscape. Let's start with the business side, where three quantum computing stocks are drawing attention for actually generating revenue in a field still widely considered pre-commercial.
+
+IonQ stands out as the most prominent pure-play, now pulling in $187.1 million in revenue and having recently crossed into profitability. The big news is the completion of its SkyWater acquisition...</description>
+      <guid isPermaLink="false">daily-quantum-20260731</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-31.mp3" length="1851984" type="audio/mpeg"/>
+      <pubDate>Fri, 31 Jul 2026 17:07:18 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
