@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 17:08:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 17:13:41 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -166,6 +166,13 @@ So here's the landscape Andy Burnham inherits. Government debt sits at roughly 8
       <guid isPermaLink="false">071KckSPJ28</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-07-16 - uk-fiscal-constraints-under-burnham.mp3" length="3163824" type="audio/mpeg"/>
       <pubDate>Thu, 16 Jul 2026 17:10:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Pension Savings Trade-offs</title>
+      <description>The UK's second Pensions Commission is trying to do something genuinely rare: take a forward look at retirement saving before the problems fully arrive. The system we have today is essentially the creation of the first commission twenty years ago — a more generous flat-rate state pension, now worth about twelve and a half thousand pounds a year, combined with automatic enrollment into private pensions since 2012. And on the surface, it's working. About 90% of eligible employees stay enrolled, an...</description>
+      <guid isPermaLink="false">lzcovlK4Idw</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-07-31 - uk-pension-savings-trade-offs.mp3" length="2625840" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Aug 2026 17:11:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
