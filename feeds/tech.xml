@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 17:08:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 17:13:41 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1091,6 +1091,15 @@ The way LLMs work, every time you hit enter, the entire conversation gets wrappe
       <guid isPermaLink="false">Y8vAQ1FgNbM</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-29 - minimizing-ai-token-waste.mp3" length="2226672" type="audio/mpeg"/>
       <pubDate>Wed, 29 Jul 2026 17:07:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Writing AI Skills That Actually Work</title>
+      <description>Here's something most people don't realize: your ChatGPT, your Claude, your Codex — they all ship with skills, and those skills profoundly affect what you can accomplish. A skill is simply a set of instructions your AI uses at a particular point in time to get a job done. Think of it as a recipe. It could help you build a spreadsheet, style a PowerPoint, write Python in a certain way — whatever you need.
+
+But skills are not apps. We're used to apps with certificates, guarantees, curated app stor...</description>
+      <guid isPermaLink="false">up0Bsf3f0Xc</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-08-01 - writing-ai-skills-that-actually-work.mp3" length="2250720" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Aug 2026 17:08:00 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
