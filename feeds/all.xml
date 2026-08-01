@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 31 Jul 2026 17:08:34 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 17:13:41 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -166,6 +166,13 @@ So here's the landscape Andy Burnham inherits. Government debt sits at roughly 8
       <guid isPermaLink="false">071KckSPJ28</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-07-16 - uk-fiscal-constraints-under-burnham.mp3" length="3163824" type="audio/mpeg"/>
       <pubDate>Thu, 16 Jul 2026 17:10:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - UK Pension Savings Trade-offs</title>
+      <description>The UK's second Pensions Commission is trying to do something genuinely rare: take a forward look at retirement saving before the problems fully arrive. The system we have today is essentially the creation of the first commission twenty years ago — a more generous flat-rate state pension, now worth about twelve and a half thousand pounds a year, combined with automatic enrollment into private pensions since 2012. And on the surface, it's working. About 90% of eligible employees stay enrolled, an...</description>
+      <guid isPermaLink="false">lzcovlK4Idw</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-07-31 - uk-pension-savings-trade-offs.mp3" length="2625840" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Aug 2026 17:11:31 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -1248,6 +1255,15 @@ The way LLMs work, every time you hit enter, the entire conversation gets wrappe
       <guid isPermaLink="false">Y8vAQ1FgNbM</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-07-29 - minimizing-ai-token-waste.mp3" length="2226672" type="audio/mpeg"/>
       <pubDate>Wed, 29 Jul 2026 17:07:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Writing AI Skills That Actually Work</title>
+      <description>Here's something most people don't realize: your ChatGPT, your Claude, your Codex — they all ship with skills, and those skills profoundly affect what you can accomplish. A skill is simply a set of instructions your AI uses at a particular point in time to get a job done. Think of it as a recipe. It could help you build a spreadsheet, style a PowerPoint, write Python in a certain way — whatever you need.
+
+But skills are not apps. We're used to apps with certificates, guarantees, curated app stor...</description>
+      <guid isPermaLink="false">up0Bsf3f0Xc</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-08-01 - writing-ai-skills-that-actually-work.mp3" length="2250720" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Aug 2026 17:08:00 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -3194,6 +3210,13 @@ IonQ stands out as the most prominent pure-play, now pulling in $187.1 million i
       <guid isPermaLink="false">daily-quantum-20260731</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-07-31.mp3" length="1851984" type="audio/mpeg"/>
       <pubDate>Fri, 31 Jul 2026 17:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Goes Practical: Grids, Governance, Markets</title>
+      <description>The biggest quantum story today comes from China, where the government plans to deploy quantum technologies across its entire national power grid after an 18-month trial at a substation in Hefei, Anhui province. The trial used quantum precision sensors and computer simulations to rapidly detect and diagnose equipment defects and faults, with the goal of preventing blackouts. A researcher with Anhui Electric Power Company described the technology as not a showpiece but hard support for guaranteei...</description>
+      <guid isPermaLink="false">daily-quantum-20260801</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-01.mp3" length="1858176" type="audio/mpeg"/>
+      <pubDate>Sat, 01 Aug 2026 17:13:36 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
