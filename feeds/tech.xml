@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 17:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 17:24:13 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1102,6 +1102,15 @@ But skills are not apps. We're used to apps with certificates, guarantees, curat
       <pubDate>Sat, 01 Aug 2026 17:08:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Five Levels of AI Building</title>
+      <description>AI builders come to me discouraged all the time, especially because of what OpenAI and Anthropic launch every week. I get it. But I've been building for 20 years, and it has never been a better time to build. Let me walk you through what I'm calling the levels of AI building.
+
+A level one builder is passionate about their idea and that's their entire world. They don't talk go-to-market, they don't talk about the wider problem space — they talk about this idea that got them up at night. And that ...</description>
+      <guid isPermaLink="false">lewY_0sJaWg</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-08-02 - five-levels-of-ai-building.mp3" length="1852272" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 17:07:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -1274,6 +1283,15 @@ The most prominent theme was the question of where your data goes once AI enters
       <guid isPermaLink="false">weekly-tech-2026-07-26</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-07-26.mp3" length="3732768" type="audio/mpeg"/>
       <pubDate>Sun, 26 Jul 2026 17:14:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week's episodes form a remarkably cohesive picture of what it means to work seriously with AI in mid-2026, and the through line is surprisingly unglamorous. It's not about chasing the newest model or the flashiest demo. It's about discipline, craft, and knowing your domain deeply enough to make these tools actually deliver.
+
+The week opens with a detailed walkthrough of how root-cause support automation works in practice. The key insight isn't that AI can answer tickets faster — it's that A...</description>
+      <guid isPermaLink="false">weekly-tech-2026-08-02</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-08-02.mp3" length="1951056" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 17:16:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
