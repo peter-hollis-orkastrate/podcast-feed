@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 17:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 17:24:13 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -878,6 +878,13 @@ Let's start with the more consequential item. A detailed new analysis from Alexa
       <pubDate>Fri, 31 Jul 2026 17:08:30 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - MAR Surveillance Gaps and SMCR Reform</title>
+      <description>Let's start with the most pressing practical concern for wholesale markets compliance teams: the growing gap between what MAR frameworks say on paper and what they actually deliver in practice. MAR has been in force since July 2016, and while the regulation itself hasn't changed, the reality in many firms is that monitoring parameters were set at go-live and never meaningfully updated. STOR decision logs are thin, alert calibration hasn't been reviewed, and nobody has tested whether the surveill...</description>
+      <guid isPermaLink="false">daily-compliance-20260802</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-08-02.mp3" length="2607408" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 17:13:21 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -1055,6 +1062,15 @@ The dominant theme running through this week is regulatory transition at scale. 
       <guid isPermaLink="false">weekly-compliance-2026-07-26</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-07-26.mp3" length="2077344" type="audio/mpeg"/>
       <pubDate>Sun, 26 Jul 2026 17:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, several powerful threads converge around a single overarching reality: the regulatory perimeter is expanding in practice well before it moves formally, and firms that wait for the letter of the law to change before adapting their frameworks are building risk they may not fully appreciate.
+
+The most prominent theme running through this week's coverage is the growing tension between principles-based regulation and the hard operational demands it places on compliance teams....</description>
+      <guid isPermaLink="false">weekly-compliance-2026-08-02</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-08-02.mp3" length="3694896" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 17:20:29 +0000</pubDate>
     </item>
   </channel>
 </rss>
