@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 17:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 17:24:13 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1266,6 +1266,15 @@ But skills are not apps. We're used to apps with certificates, guarantees, curat
       <pubDate>Sat, 01 Aug 2026 17:08:00 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Five Levels of AI Building</title>
+      <description>AI builders come to me discouraged all the time, especially because of what OpenAI and Anthropic launch every week. I get it. But I've been building for 20 years, and it has never been a better time to build. Let me walk you through what I'm calling the levels of AI building.
+
+A level one builder is passionate about their idea and that's their entire world. They don't talk go-to-market, they don't talk about the wider problem space — they talk about this idea that got them up at night. And that ...</description>
+      <guid isPermaLink="false">lewY_0sJaWg</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-08-02 - five-levels-of-ai-building.mp3" length="1852272" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 17:07:30 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -2131,6 +2140,13 @@ Let's start with the more consequential item. A detailed new analysis from Alexa
       <guid isPermaLink="false">daily-compliance-20260731</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-07-31.mp3" length="1204272" type="audio/mpeg"/>
       <pubDate>Fri, 31 Jul 2026 17:08:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - MAR Surveillance Gaps and SMCR Reform</title>
+      <description>Let's start with the most pressing practical concern for wholesale markets compliance teams: the growing gap between what MAR frameworks say on paper and what they actually deliver in practice. MAR has been in force since July 2016, and while the regulation itself hasn't changed, the reality in many firms is that monitoring parameters were set at go-live and never meaningfully updated. STOR decision logs are thin, alert calibration hasn't been reviewed, and nobody has tested whether the surveill...</description>
+      <guid isPermaLink="false">daily-compliance-20260802</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-08-02.mp3" length="2607408" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 17:13:21 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -3219,6 +3235,15 @@ IonQ stands out as the most prominent pure-play, now pulling in $187.1 million i
       <pubDate>Sat, 01 Aug 2026 17:13:36 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Computing Meets AI and Markets</title>
+      <description>Today's quantum computing briefing spans three major themes: the convergence of AI and quantum technologies, a pivotal corporate acquisition reshaping the quantum hardware landscape, and the looming question of quantum threats to cryptocurrency.
+
+Starting with the biggest corporate news: the FTC has cleared IonQ's approximately $1.8 billion acquisition of SkyWater Technology without conditions. There was internal disagreement at the FTC — Chairman Ferguson favored requiring IonQ to provide fair ...</description>
+      <guid isPermaLink="false">daily-quantum-20260802</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-02.mp3" length="2657232" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 17:10:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Compliance</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-compliance-2026-03-08</guid>
@@ -3396,6 +3421,15 @@ The dominant theme running through this week is regulatory transition at scale. 
       <guid isPermaLink="false">weekly-compliance-2026-07-26</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-07-26.mp3" length="2077344" type="audio/mpeg"/>
       <pubDate>Sun, 26 Jul 2026 17:17:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Compliance</title>
+      <description>This week in compliance, several powerful threads converge around a single overarching reality: the regulatory perimeter is expanding in practice well before it moves formally, and firms that wait for the letter of the law to change before adapting their frameworks are building risk they may not fully appreciate.
+
+The most prominent theme running through this week's coverage is the growing tension between principles-based regulation and the hard operational demands it places on compliance teams....</description>
+      <guid isPermaLink="false">weekly-compliance-2026-08-02</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - compliance - 2026-08-02.mp3" length="3694896" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 17:20:29 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
@@ -3577,6 +3611,13 @@ The most consequential thread running through the entire week is the extraordina
       <pubDate>Sun, 26 Jul 2026 17:21:30 +0000</pubDate>
     </item>
     <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing, the overarching story is a field that has decisively crossed the threshold from laboratory curiosity into something that looks more and more like real-world infrastructure. Across every dimension — hardware performance, commercial revenue, national policy, workforce development, and institutional preparedness — the quantum ecosystem is maturing in ways that would have seemed premature even a year ago. But alongside that maturation comes a growing set of tensions: ...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-08-02</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-08-02.mp3" length="4127472" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 17:24:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -3749,6 +3790,15 @@ The most prominent theme was the question of where your data goes once AI enters
       <guid isPermaLink="false">weekly-tech-2026-07-26</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-07-26.mp3" length="3732768" type="audio/mpeg"/>
       <pubDate>Sun, 26 Jul 2026 17:14:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week's episodes form a remarkably cohesive picture of what it means to work seriously with AI in mid-2026, and the through line is surprisingly unglamorous. It's not about chasing the newest model or the flashiest demo. It's about discipline, craft, and knowing your domain deeply enough to make these tools actually deliver.
+
+The week opens with a detailed walkthrough of how root-cause support automation works in practice. The key insight isn't that AI can answer tickets faster — it's that A...</description>
+      <guid isPermaLink="false">weekly-tech-2026-08-02</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-08-02.mp3" length="1951056" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 17:16:16 +0000</pubDate>
     </item>
   </channel>
 </rss>
