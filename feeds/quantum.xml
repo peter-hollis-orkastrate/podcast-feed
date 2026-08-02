@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 01 Aug 2026 17:13:41 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 17:24:13 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1097,6 +1097,15 @@ IonQ stands out as the most prominent pure-play, now pulling in $187.1 million i
       <pubDate>Sat, 01 Aug 2026 17:13:36 +0000</pubDate>
     </item>
     <item>
+      <title>Quantum Daily Briefing - Quantum Computing Meets AI and Markets</title>
+      <description>Today's quantum computing briefing spans three major themes: the convergence of AI and quantum technologies, a pivotal corporate acquisition reshaping the quantum hardware landscape, and the looming question of quantum threats to cryptocurrency.
+
+Starting with the biggest corporate news: the FTC has cleared IonQ's approximately $1.8 billion acquisition of SkyWater Technology without conditions. There was internal disagreement at the FTC — Chairman Ferguson favored requiring IonQ to provide fair ...</description>
+      <guid isPermaLink="false">daily-quantum-20260802</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-02.mp3" length="2657232" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 17:10:50 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Quantum</title>
       <description>...</description>
       <guid isPermaLink="false">weekly-quantum-2026-03-08</guid>
@@ -1274,6 +1283,13 @@ The most consequential thread running through the entire week is the extraordina
       <guid isPermaLink="false">weekly-quantum-2026-07-26</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-07-26.mp3" length="4003632" type="audio/mpeg"/>
       <pubDate>Sun, 26 Jul 2026 17:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Quantum</title>
+      <description>This week in quantum computing, the overarching story is a field that has decisively crossed the threshold from laboratory curiosity into something that looks more and more like real-world infrastructure. Across every dimension — hardware performance, commercial revenue, national policy, workforce development, and institutional preparedness — the quantum ecosystem is maturing in ways that would have seemed premature even a year ago. But alongside that maturation comes a growing set of tensions: ...</description>
+      <guid isPermaLink="false">weekly-quantum-2026-08-02</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - quantum - 2026-08-02.mp3" length="4127472" type="audio/mpeg"/>
+      <pubDate>Sun, 02 Aug 2026 17:24:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
