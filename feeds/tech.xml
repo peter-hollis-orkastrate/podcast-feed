@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 17:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 17:12:20 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1109,6 +1109,15 @@ A level one builder is passionate about their idea and that's their entire world
       <guid isPermaLink="false">lewY_0sJaWg</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-08-02 - five-levels-of-ai-building.mp3" length="1852272" type="audio/mpeg"/>
       <pubDate>Sun, 02 Aug 2026 17:07:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Two AI Investment Strategies Collide</title>
+      <description>I want to tell you what a wedding day, an M5 chip, a margin call, and a guy involved in Enron 20 years ago all have in common. This is the story of Leopold Aschenbrenner and Apple — two radically different AI strategies that define 2026.
+
+Leopold Aschenbrenner started in AI at the major labs, wrote the famous 'Situational Awareness' paper, and raised a fund on the thesis that you can predictably understand where to invest in AI by reasoning back from compute requirements. He invested in AI suppl...</description>
+      <guid isPermaLink="false">MtcUDEklLLo</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-08-03 - two-ai-investment-strategies-collide.mp3" length="1993536" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 17:07:37 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
