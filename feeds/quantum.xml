@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 17:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 17:12:20 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1104,6 +1104,13 @@ Starting with the biggest corporate news: the FTC has cleared IonQ's approximate
       <guid isPermaLink="false">daily-quantum-20260802</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-02.mp3" length="2657232" type="audio/mpeg"/>
       <pubDate>Sun, 02 Aug 2026 17:10:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Scales Up Across Industry</title>
+      <description>Two major quantum computing developments are shaping the landscape today. First, IBM has agreed to acquire HRL Laboratories from Boeing and General Motors, a move that adds electron spin qubit expertise to its long-standing superconducting qubit program. This is a significant strategic diversification for IBM, which has committed over ten billion dollars to quantum computing over the next five years. The idea is that spin qubits take up far less space than superconducting circuits, and combining...</description>
+      <guid isPermaLink="false">daily-quantum-20260803</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-03.mp3" length="1937520" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 17:09:57 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
