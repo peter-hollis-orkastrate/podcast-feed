@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 02 Aug 2026 17:24:13 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 17:12:20 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1275,6 +1275,15 @@ A level one builder is passionate about their idea and that's their entire world
       <pubDate>Sun, 02 Aug 2026 17:07:30 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Two AI Investment Strategies Collide</title>
+      <description>I want to tell you what a wedding day, an M5 chip, a margin call, and a guy involved in Enron 20 years ago all have in common. This is the story of Leopold Aschenbrenner and Apple — two radically different AI strategies that define 2026.
+
+Leopold Aschenbrenner started in AI at the major labs, wrote the famous 'Situational Awareness' paper, and raised a fund on the thesis that you can predictably understand where to invest in AI by reasoning back from compute requirements. He invested in AI suppl...</description>
+      <guid isPermaLink="false">MtcUDEklLLo</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-08-03 - two-ai-investment-strategies-collide.mp3" length="1993536" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 17:07:37 +0000</pubDate>
+    </item>
+    <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
       <description>Good morning. Let's get into today's compliance briefing, starting with the most operationally significant development for wholesale markets teams.
 
@@ -2147,6 +2156,15 @@ Let's start with the more consequential item. A detailed new analysis from Alexa
       <guid isPermaLink="false">daily-compliance-20260802</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-08-02.mp3" length="2607408" type="audio/mpeg"/>
       <pubDate>Sun, 02 Aug 2026 17:13:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - UKGC Supplier Enforcement Intensifies</title>
+      <description>Today's briefing covers a notable enforcement pattern from the UK Gambling Commission that carries lessons for how regulators think about supply chain accountability — a theme with clear parallels to wholesale markets supervision.
+
+The headline action is a £4.75 million settlement with Evolution Malta Holding Limited, closing an eighteen-month licence review. Evolution's games were found running on six websites operated by two entities holding no British licence. British traffic to those sites w...</description>
+      <guid isPermaLink="false">daily-compliance-20260803</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-08-03.mp3" length="2144016" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 17:12:15 +0000</pubDate>
     </item>
     <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
@@ -3242,6 +3260,13 @@ Starting with the biggest corporate news: the FTC has cleared IonQ's approximate
       <guid isPermaLink="false">daily-quantum-20260802</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-02.mp3" length="2657232" type="audio/mpeg"/>
       <pubDate>Sun, 02 Aug 2026 17:10:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Scales Up Across Industry</title>
+      <description>Two major quantum computing developments are shaping the landscape today. First, IBM has agreed to acquire HRL Laboratories from Boeing and General Motors, a move that adds electron spin qubit expertise to its long-standing superconducting qubit program. This is a significant strategic diversification for IBM, which has committed over ten billion dollars to quantum computing over the next five years. The idea is that spin qubits take up far less space than superconducting circuits, and combining...</description>
+      <guid isPermaLink="false">daily-quantum-20260803</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-03.mp3" length="1937520" type="audio/mpeg"/>
+      <pubDate>Mon, 03 Aug 2026 17:09:57 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
