@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 03 Aug 2026 17:12:20 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 17:12:30 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -892,6 +892,15 @@ The headline action is a £4.75 million settlement with Evolution Malta Holding 
       <guid isPermaLink="false">daily-compliance-20260803</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-08-03.mp3" length="2144016" type="audio/mpeg"/>
       <pubDate>Mon, 03 Aug 2026 17:12:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - UK Securitisation Framework Major Reforms</title>
+      <description>Good morning. Today's briefing focuses on a significant development in UK securitisation regulation that compliance teams across wholesale markets and global banking divisions need to get across quickly.
+
+On 17 February 2026, the PRA and FCA jointly published consultation papers proposing sweeping reforms to the UK securitisation framework. This is CP2/26 from the PRA and CP26/6 from the FCA. Both consultations close on 18 May 2026, with final rules expected later this year and implementation ta...</description>
+      <guid isPermaLink="false">daily-compliance-20260804</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-08-04.mp3" length="3242592" type="audio/mpeg"/>
+      <pubDate>Tue, 04 Aug 2026 17:12:24 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
