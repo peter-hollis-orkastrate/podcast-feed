@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 04 Aug 2026 17:12:30 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 17:11:46 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -901,6 +901,15 @@ On 17 February 2026, the PRA and FCA jointly published consultation papers propo
       <guid isPermaLink="false">daily-compliance-20260804</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-08-04.mp3" length="3242592" type="audio/mpeg"/>
       <pubDate>Tue, 04 Aug 2026 17:12:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - FCA Growth Agenda and AML Enforcement</title>
+      <description>Good morning. Today's briefing centres on a clear regulatory theme: growth-oriented reform paired with continued enforcement pressure on financial crime controls. Both deserve close attention from compliance teams in wholesale markets and global banking divisions.
+
+Let's start with the most significant structural proposal. The FCA is consulting on a major overhaul of rules for hedge funds and alternative investment managers, proposing to raise the threshold for full-scope regulation from one hun...</description>
+      <guid isPermaLink="false">daily-compliance-20260805</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-08-05.mp3" length="2334816" type="audio/mpeg"/>
+      <pubDate>Wed, 05 Aug 2026 17:11:41 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
