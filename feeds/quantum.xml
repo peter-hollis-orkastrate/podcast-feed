@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 17:11:46 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 17:12:57 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1125,6 +1125,13 @@ Starting with the biggest corporate news: the FTC has cleared IonQ's approximate
       <guid isPermaLink="false">daily-quantum-20260805</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-05.mp3" length="1703952" type="audio/mpeg"/>
       <pubDate>Wed, 05 Aug 2026 17:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Sunlight Entanglement and Quantum Market Reset</title>
+      <description>The biggest story in quantum today is a surprisingly elegant one. Researchers at the University of Ottawa and the Max Planck Institute for the Science of Light have shown that ordinary sunlight — not high-energy lasers — can produce entangled photons. Published in Optica, the proof-of-principle experiment used a novel all-glass cone-shaped solar concentrator to funnel light from a window-sized Fresnel lens through a millimeter-scale crystal. Over three days of outdoor testing in Erlangen, German...</description>
+      <guid isPermaLink="false">daily-quantum-20260806</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-06.mp3" length="2091024" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Aug 2026 17:11:36 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
