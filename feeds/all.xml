@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 05 Aug 2026 17:11:47 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 17:12:58 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -173,6 +173,15 @@ So here's the landscape Andy Burnham inherits. Government debt sits at roughly 8
       <guid isPermaLink="false">lzcovlK4Idw</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-07-31 - uk-pension-savings-trade-offs.mp3" length="2625840" type="audio/mpeg"/>
       <pubDate>Sat, 01 Aug 2026 17:11:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>IFS - Financial Returns to University Degrees</title>
+      <description>Each year, hundreds of thousands of young people make a huge financial decision about whether to go to university. The share choosing university has shot up from about a third to about half over the past 20 years, and the average graduate now starts their career with around £50,000 of student debt. So what do the numbers actually tell us?
+
+When we talk about financial returns, we mean how much better off someone is because they went to university compared to what that same person would have earn...</description>
+      <guid isPermaLink="false">Cxcr4msWpqs</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/IFS - 2026-08-06 - financial-returns-to-university-degrees.mp3" length="2986992" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Aug 2026 17:08:40 +0000</pubDate>
     </item>
     <item>
       <title>Nate-B-Jones - OpenAI's Pentagon Power Play</title>
@@ -2194,6 +2203,13 @@ Let's start with the most significant structural proposal. The FCA is consulting
       <pubDate>Wed, 05 Aug 2026 17:11:41 +0000</pubDate>
     </item>
     <item>
+      <title>Compliance Daily Briefing - PRA July 2026 Regulatory Digest</title>
+      <description>Good morning. A brief note today from the prudential side: the PRA has published its July 2026 Regulatory Digest on the Bank of England website. Unfortunately, the full substantive content of the digest was not available in the material we received — only the publication shell and cookie notice were captured. That said, the fact that the digest has dropped means compliance teams, particularly those covering prudential requirements, capital, and liquidity across Global Banking and Markets divisio...</description>
+      <guid isPermaLink="false">daily-compliance-20260806</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-08-06.mp3" length="849024" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Aug 2026 17:12:52 +0000</pubDate>
+    </item>
+    <item>
       <title>Quantum Daily Briefing - Quantum Computing's Breakout Moment</title>
       <description>The quantum computing world is experiencing what may be its most consequential stretch yet, with commercial milestones, record investment, and fundamental physics discoveries all converging at once.
 
@@ -3308,6 +3324,13 @@ Starting with the biggest corporate news: the FTC has cleared IonQ's approximate
       <guid isPermaLink="false">daily-quantum-20260805</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-05.mp3" length="1703952" type="audio/mpeg"/>
       <pubDate>Wed, 05 Aug 2026 17:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Sunlight Entanglement and Quantum Market Reset</title>
+      <description>The biggest story in quantum today is a surprisingly elegant one. Researchers at the University of Ottawa and the Max Planck Institute for the Science of Light have shown that ordinary sunlight — not high-energy lasers — can produce entangled photons. Published in Optica, the proof-of-principle experiment used a novel all-glass cone-shaped solar concentrator to funnel light from a window-sized Fresnel lens through a millimeter-scale crystal. Over three days of outdoor testing in Erlangen, German...</description>
+      <guid isPermaLink="false">daily-quantum-20260806</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-06.mp3" length="2091024" type="audio/mpeg"/>
+      <pubDate>Thu, 06 Aug 2026 17:11:36 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
