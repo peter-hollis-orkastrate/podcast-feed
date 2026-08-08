@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 07 Aug 2026 17:12:43 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 17:09:56 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -926,6 +926,13 @@ The FCA and PRA rules require firms to take reasonable steps to obtain appropria
       <guid isPermaLink="false">daily-compliance-20260807</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-08-07.mp3" length="2018016" type="audio/mpeg"/>
       <pubDate>Fri, 07 Aug 2026 17:12:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - KYC Enforcement Gap: Headline vs Reality</title>
+      <description>Let's start with the most important number hiding inside enforcement headlines that compliance teams and senior managers need to understand. Across six verified KYC and AML enforcement actions from 2024 to 2026, UK firms actually remit about 70% of the announced penalty figure, while US firms pay roughly half. This is the KYC Penalty Realisation Index analysis from Axis Intelligence Research, and the implications for how boards model enforcement exposure are significant. The headline number is n...</description>
+      <guid isPermaLink="false">daily-compliance-20260808</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-08-08.mp3" length="2949552" type="audio/mpeg"/>
+      <pubDate>Sat, 08 Aug 2026 17:09:50 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
