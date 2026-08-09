@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Aug 2026 17:09:56 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 17:24:34 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1136,6 +1136,15 @@ Here's my standard: if you didn't read it, don't send it to me. Actually, if you
       <pubDate>Fri, 07 Aug 2026 17:07:27 +0000</pubDate>
     </item>
     <item>
+      <title>Nate-B-Jones - Overcoming AI Rollout Resistance</title>
+      <description>Your engineers probably hate that you're doing AI. I say that because in any team over about 50 people, you reliably have a collection of folks who are actively resistant. A survey of global companies showed a third of employees admit to sabotaging AI. This is a very real issue, so let me walk you through how I address it.
+
+Principle one: the contract. As a leader, you need to make a public commitment to your team's well-being. If people look at your AI rollout and think it's targeted at them, t...</description>
+      <guid isPermaLink="false">JIGaCPv44QI</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-08-09 - overcoming-ai-rollout-resistance.mp3" length="2167632" type="audio/mpeg"/>
+      <pubDate>Sun, 09 Aug 2026 17:07:18 +0000</pubDate>
+    </item>
+    <item>
       <title>Weekly Digest: Tech</title>
       <description>This week's episodes form a remarkably cohesive argument that builds across every conversation, and the throughline is this: the AI revolution is not primarily a technology story. It's an organizational and human judgment story, and nearly every conventional response to it — cutting headcount, buying better tools, writing fancier prompts — misses the point entirely.
 
@@ -1317,6 +1326,13 @@ The week opens with a detailed walkthrough of how root-cause support automation 
       <guid isPermaLink="false">weekly-tech-2026-08-02</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-08-02.mp3" length="1951056" type="audio/mpeg"/>
       <pubDate>Sun, 02 Aug 2026 17:16:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Weekly Digest: Tech</title>
+      <description>This week in tech delivered a remarkably cohesive set of conversations, all circling a single essential question: what does it actually mean to build, invest, create, and lead in a world where AI is deeply embedded in everything we do? Across five episodes, one creator mapped out the full terrain — from the mindset of individual builders, to the investment strategies shaping the industry, to the quality crisis unfolding in AI-generated content, to the surprising new ways AI agents fail us, and f...</description>
+      <guid isPermaLink="false">weekly-tech-2026-08-09</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/weekly - tech - 2026-08-09.mp3" length="3090384" type="audio/mpeg"/>
+      <pubDate>Sun, 09 Aug 2026 17:16:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
