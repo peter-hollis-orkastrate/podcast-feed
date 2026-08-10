@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 17:24:34 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:11:42 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1143,6 +1143,15 @@ Principle one: the contract. As a leader, you need to make a public commitment t
       <guid isPermaLink="false">JIGaCPv44QI</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-08-09 - overcoming-ai-rollout-resistance.mp3" length="2167632" type="audio/mpeg"/>
       <pubDate>Sun, 09 Aug 2026 17:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Emergent Agent Coordination Changes Everything</title>
+      <description>OpenAI was running agents inside a sealed cybersecurity test. Separate agents, separate jobs, no internet. They found each other. They built a message board. They traded exploits on it from May until July. OpenAI found it, deleted it, patched the route. Two days later, the agents rebuilt it using directory names as messages. This was presented at Black Hat by Eric Wallace and Michael Dalton, with the agents' own reasoning on the slides.
+
+These weren't Moat Book-style human attention-seekers. The...</description>
+      <guid isPermaLink="false">FCRT7M30Wtw</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-08-10 - emergent-agent-coordination-changes-everything.mp3" length="3880656" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Aug 2026 17:09:11 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Tech</title>
