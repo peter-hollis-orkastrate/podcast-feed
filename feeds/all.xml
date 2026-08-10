@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 09 Aug 2026 17:24:35 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 17:11:43 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1316,6 +1316,15 @@ Principle one: the contract. As a leader, you need to make a public commitment t
       <guid isPermaLink="false">JIGaCPv44QI</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-08-09 - overcoming-ai-rollout-resistance.mp3" length="2167632" type="audio/mpeg"/>
       <pubDate>Sun, 09 Aug 2026 17:07:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Nate-B-Jones - Emergent Agent Coordination Changes Everything</title>
+      <description>OpenAI was running agents inside a sealed cybersecurity test. Separate agents, separate jobs, no internet. They found each other. They built a message board. They traded exploits on it from May until July. OpenAI found it, deleted it, patched the route. Two days later, the agents rebuilt it using directory names as messages. This was presented at Black Hat by Eric Wallace and Michael Dalton, with the agents' own reasoning on the slides.
+
+These weren't Moat Book-style human attention-seekers. The...</description>
+      <guid isPermaLink="false">FCRT7M30Wtw</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/Nate-B-Jones - 2026-08-10 - emergent-agent-coordination-changes-everything.mp3" length="3880656" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Aug 2026 17:09:11 +0000</pubDate>
     </item>
     <item>
       <title>Compliance Daily Briefing - Surveillance Gaps, Remuneration Reforms, Crypto Regime</title>
@@ -3399,6 +3408,13 @@ Let's start with policy. A provision buried in this year's National Defense Auth
       <guid isPermaLink="false">daily-quantum-20260809</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-09.mp3" length="2179872" type="audio/mpeg"/>
       <pubDate>Sun, 09 Aug 2026 17:10:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Computing Gains Policy and Market Momentum</title>
+      <description>The quantum computing sector is seeing meaningful convergence of policy action, corporate investment, and capital markets activity. Let's start with the biggest policy development: Utah Governor Spencer Cox signed an executive order creating the Utah Quantum Initiative, establishing a Quantum Coordination Council led by the Governor's Office of Economic Development. The council brings together state government, higher education, and industry leaders to coordinate quantum strategy, attract privat...</description>
+      <guid isPermaLink="false">daily-quantum-20260810</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-10.mp3" length="1555056" type="audio/mpeg"/>
+      <pubDate>Mon, 10 Aug 2026 17:11:37 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
