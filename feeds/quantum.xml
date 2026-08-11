@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 17:11:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 17:09:26 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -1166,6 +1166,13 @@ Let's start with policy. A provision buried in this year's National Defense Auth
       <guid isPermaLink="false">daily-quantum-20260810</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-10.mp3" length="1555056" type="audio/mpeg"/>
       <pubDate>Mon, 10 Aug 2026 17:11:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Quantum Daily Briefing - Quantum Advances in Fusion and Silicon</title>
+      <description>Two significant quantum computing developments stand out today. First, a collaboration between Oak Ridge National Laboratory, Cleveland Clinic, and IBM has performed what's believed to be the first quantum computing calculations on molecular structures in a molten salt relevant to fusion energy. The research targeted FLiBe — a mixture of lithium fluoride and beryllium fluoride — which is a leading candidate for the liquid blanket that would surround fusion reactions in future reactors. That blan...</description>
+      <guid isPermaLink="false">daily-quantum-20260811</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - quantum - 2026-08-11.mp3" length="1504512" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Aug 2026 17:06:54 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Quantum</title>
