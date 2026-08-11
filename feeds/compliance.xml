@@ -7,7 +7,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 10 Aug 2026 17:11:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 17:09:26 +0000</lastBuildDate>
     <itunes:category text="Technology"/>
     <itunes:explicit>no</itunes:explicit>
     <item>
@@ -942,6 +942,15 @@ The regime has three pillars: the senior managers regime, the certification regi
       <guid isPermaLink="false">daily-compliance-20260809</guid>
       <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-08-09.mp3" length="2120544" type="audio/mpeg"/>
       <pubDate>Sun, 09 Aug 2026 17:12:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Compliance Daily Briefing - Market Abuse Regulation Framework Update</title>
+      <description>Today's focus is on the evolving market abuse regulatory framework, particularly as it expands under MiFID and the incoming MiCA regulation for crypto assets, with practical implications for UK wholesale markets compliance teams.
+
+The most significant development to flag is the extension of market abuse obligations into the crypto asset space under MiCA. For Global Banking &amp; Markets divisions with any exposure to digital assets, this means surveillance systems, detection methodologies, and STOR ...</description>
+      <guid isPermaLink="false">daily-compliance-20260811</guid>
+      <enclosure url="https://peter-hollis-orkastrate.github.io/podcast-feed/episodes/daily - compliance - 2026-08-11.mp3" length="2089440" type="audio/mpeg"/>
+      <pubDate>Tue, 11 Aug 2026 17:09:21 +0000</pubDate>
     </item>
     <item>
       <title>Weekly Digest: Compliance</title>
